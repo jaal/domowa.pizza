@@ -3,7 +3,7 @@ title: "Bazylia"
 date: "2016-01-17T19:22:57.000Z"
 categories: 
   - "skladniki"
-featuredImage: images/bazylia.jpg
+featuredImage: bazylia.jpg
 ---
 
 Bazylia jest nazywana królową ziół. Coś w tym jest. Gdybym miał wybrać tylko jedno zioło, które zabiorę na bezludną wyspę, byłaby to bazylia. Ma kapitalny aromat, mnóstwo zastosowań w kuchni, w dodatku jest tania i ogólnie dostępna. Dosłownie zioło idealne! W dodatku jest niedroga, bo możesz ją dostać w cenie 4 zł za doniczkę w najpopularniejszych dyskontach i supermarketach.
@@ -61,11 +61,11 @@ Jeśli chodzi o bazylię jako dodatek do pizzy moja metoda jest prosta - nie kro
 
 To nic trudnego. Możesz szybko pokroić bazylię w bardzo delikatne i cienkie paseczki. Wystarczy ostry długi nóż oraz prosta deska. Ta metoda nazywa się chiffonade. Polega na ułożeniu jeden na drugim liści bazylii od największego do najmniejszego. W kolejnym kroku delikatnie zwijasz je w rulon jak cygaro. Następnie kroisz w bardzo cienkie paseczki. Najłatwiej wychodzi to gdy liście bazylii nie są wilgotne.
 
-![Chiffonade - siekanie liście bazylii - układanie liście jeden na drugim](./images/2014-12-12-12.51.58-300x225.jpg)
+![Chiffonade - siekanie liście bazylii - układanie liście jeden na drugim](2014-12-12-12.51.58-300x225.jpg)
 
 Chiffonade - siekanie liście bazylii - układanie liście jeden na drugim
 
-![Chffonade - siekanie liści bazylii](./images/2014-12-12-12.52.33-300x225.jpg)
+![Chffonade - siekanie liści bazylii](2014-12-12-12.52.33-300x225.jpg)
 
 Chffonade - siekanie liści bazylii
 
