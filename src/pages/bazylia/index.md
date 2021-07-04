@@ -3,7 +3,7 @@ title: "Bazylia"
 date: "2016-01-17T19:22:57.000Z"
 categories: 
   - "skladniki"
-featuredImage: ./images/bazylia.jpg
+featuredImage: images/bazylia.jpg
 ---
 
 Bazylia jest nazywana królową ziół. Coś w tym jest. Gdybym miał wybrać tylko jedno zioło, które zabiorę na bezludną wyspę, byłaby to bazylia. Ma kapitalny aromat, mnóstwo zastosowań w kuchni, w dodatku jest tania i ogólnie dostępna. Dosłownie zioło idealne! W dodatku jest niedroga, bo możesz ją dostać w cenie 4 zł za doniczkę w najpopularniejszych dyskontach i supermarketach.
