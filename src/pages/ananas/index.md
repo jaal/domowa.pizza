@@ -3,7 +3,7 @@ title: "Ananas"
 date: "2014-12-21T22:05:52.000Z"
 categories: 
   - "skladniki"
-featuredImage: "./images/2014-12-12-13.52.23.jpg"
+featuredImage: "images/2014-12-12-13.52.23.jpg"
 ---
 
 W jednej z moich ulubionych rodzajów pizzy, ananas gra pierwsze skrzypce. Bardzo lubię hawajską i mam ciekawy przepis na nią <a title="Pizza Hawajska" href="/pizza-hawajska/">w wersji łagodnej</a> i <a title="Pizza hawajska pikantna" href="/pizza-hawajska-pikantna/">pikantnej</a>, a także na <a title="Pizza z tuńczykiem i ananasem" href="/pizza-z-tunczykiem-ananasem/">pizzę z tuńczykiem i ananasem</a>.
