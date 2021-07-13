@@ -1,17 +1,17 @@
 ---
-title: "Pizza z suszonymi pomidorami, szpinakiem i parmezanem"
-date: "2015-08-24T08:41:44.000Z"
+title: Pizza z suszonymi pomidorami, szpinakiem i parmezanem
+date: 2015-08-24T08:41:44.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "oregano"
-  - "ser-mozzarella"
-  - "ser-parmezan"
-  - "sos-pomidorowy"
-  - "suszone-pomidory"
-  - "szpinak"
-featuredImage: "./images/pizza-suszone-pomidory-szpinak-parmezan.jpg"
+  - czarne-oliwki
+  - oregano
+  - ser-mozzarella
+  - ser-parmezan
+  - sos-pomidorowy
+  - suszone-pomidory
+  - szpinak
+featuredImage: pizza-suszone-pomidory-szpinak-parmezan.jpg
 ---
 
 Pyszna, wyrazista i kolorowa - bardzo smakuje mi to połączenie szpinaku, suszonych pomidorów i parmezanu wraz z roztopioną mozzarellą. Pizzę podpatrzyłem w karcie w restauracji Maestro w Świeradowie Zdroju. Bardzo polecam pizzę, którą tam serwują oraz pozdrawiam Pizzera, który był bardzo cierpliwy jak patrzyłem jak profesjonalnie przygotowywał pizzę.

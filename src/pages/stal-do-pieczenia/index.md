@@ -1,9 +1,9 @@
 ---
-title: "Stal do pieczenia"
-date: "2016-05-15T19:59:51.000Z"
+title: Stal do pieczenia
+date: 2016-05-15T19:59:51.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/stal-do-pizzy-1.jpg"
+  - akcesoria
+featuredImage: stal-do-pizzy-1.jpg
 ---
 
 Kiedyś gdzieś przeczytałem o stali do pieczenia. Wydawało mi się, że to jakaś nowa forma blachy, generalnie nic co by mogłoby się równać z kamieniem do pizzy. W końcu cały świat pizzy stoi na kamieniu: pizzerie mają piece wyposażone w kamienie szamotowe, w sklepach znajdziesz kamienie do pieczenia pizzy. Dlaczego stal miałaby być lepsza? Bardzo dokładnie ją przetestowałem i przekonałem się na własnej skórze co to znaczy upiec coś na stali.
@@ -98,11 +98,11 @@ W podsumowaniu na końcu postu dowiesz się jak aktualnie wygląda mój ranking 
 
 Oto efekty:-)
 
-![pizza-margherita-upieczona-na-stali](./images/pizza-margherita-upieczona-na-stali-300x201.jpg)
+![pizza-margherita-upieczona-na-stali](pizza-margherita-upieczona-na-stali-300x201.jpg)
 
-![pizza-margherita-przekrojona](./images/pizza-margherita-przekrojona-300x201.jpg)
+![pizza-margherita-przekrojona](pizza-margherita-przekrojona-300x201.jpg)
 
-![pizza-z-suszonymi-pomidorami-szynka-na-stali](./images/pizza-z-suszonymi-pomidorami-szynka-na-stali-300x201.jpg)
+![pizza-z-suszonymi-pomidorami-szynka-na-stali](pizza-z-suszonymi-pomidorami-szynka-na-stali-300x201.jpg)
 
 # Steki grillowane na stali do pieczenia
 
@@ -117,11 +117,11 @@ Oto efekty:-)
 
 Oto efekty:
 
-![stek-pieczony-na-stali-przed-upieczeniem](./images/stek-pieczony-na-stali-przed-upieczeniem-300x201.jpg)
+![stek-pieczony-na-stali-przed-upieczeniem](stek-pieczony-na-stali-przed-upieczeniem-300x201.jpg)
 
-![stek-pieczony-na-stali-w-trakcie-pieczenia](./images/stek-pieczony-na-stali-w-trakcie-pieczenia-300x201.jpg)
+![stek-pieczony-na-stali-w-trakcie-pieczenia](stek-pieczony-na-stali-w-trakcie-pieczenia-300x201.jpg)
 
-![stek-pieczony-na-stali-po-upieczeniu](./images/stek-pieczony-na-stali-po-upieczeniu-300x201.jpg)
+![stek-pieczony-na-stali-po-upieczeniu](stek-pieczony-na-stali-po-upieczeniu-300x201.jpg)
 
 # Burgery
 
@@ -198,7 +198,7 @@ Postanowiłem zrobić super wypasione kanapki - nawet lepsze niż można zjeść
 - Następnie pokroiłem pierś w plastry o grubości ok. 2 cm.
 - Połówki bułek posmarowałem domowym keczupem i majonezem. Położyłem sałatę, plastry pomidorów i ogórków kiszonych, oraz plastry piersi z indyka. Całość mocno ścisnąłem i gotowe!
 
-![piers-z-indyka-grillowana-na-stali](./images/piers-z-indyka-grillowana-na-stali-300x201.jpg) ![sandwich-z-grillowana-na-stali-piersia-z-indyka](./images/sandwich-z-grillowana-na-stali-piersia-z-indyka-300x201.jpg)
+![piers-z-indyka-grillowana-na-stali](piers-z-indyka-grillowana-na-stali-300x201.jpg) ![sandwich-z-grillowana-na-stali-piersia-z-indyka](sandwich-z-grillowana-na-stali-piersia-z-indyka-300x201.jpg)
 
 # Kiełbaski
 
@@ -230,7 +230,7 @@ Nie spodziewałem się, że bagietki można zrobić tak szybko i tak prosto na s
 - Po ściągnięciu folii spożywczej, zsunąłem papier z bagietkami na mój Pizzastahl.
 - Wystarczy 4 minuty w piekarniku, aby bagietki się upiekły.
 
-![bagietki-pieczone-na-stali-przed-upieczeniem](./images/bagietki-pieczone-na-stali-przed-upieczeniem-300x201.jpg) ![bagietki-pieczone-na-stali-po-upieczeniu](./images/bagietki-pieczone-na-stali-po-upieczeniu-300x182.jpg)
+![bagietki-pieczone-na-stali-przed-upieczeniem](bagietki-pieczone-na-stali-przed-upieczeniem-300x201.jpg) ![bagietki-pieczone-na-stali-po-upieczeniu](bagietki-pieczone-na-stali-po-upieczeniu-300x182.jpg)
 
  
 

@@ -1,14 +1,14 @@
 ---
-title: "Pizza z anchois"
-date: "2014-12-28T19:21:29.000Z"
+title: Pizza z anchois
+date: 2014-12-28T19:21:29.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "anchois"
-  - "oliwki"
-  - "oregano"
-  - "sos-pomidorowy"
-featuredImage: "./images/DSC_0147-e1420139961287.jpg"
+  - anchois
+  - oliwki
+  - oregano
+  - sos-pomidorowy
+featuredImage: DSC_0147-e1420139961287.jpg
 ---
 
 Dzisiaj załączam przepis na wyjątkowo oszczędną pod względem składników pizzę, a wyjątkowo bogatą pod względem smaku pizzę. Połączenie sosu pomidorowego ze słonymi filetami anchois jest świetne. Łatwo się robi, łatwo się je, dobrze smakuje:-)

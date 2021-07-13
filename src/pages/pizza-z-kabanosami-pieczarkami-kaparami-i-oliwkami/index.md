@@ -1,17 +1,17 @@
 ---
-title: "Pizza z kabanosami, pieczarkami, kaparami i oliwkami"
-date: "2015-04-11T14:29:26.000Z"
+title: Pizza z kabanosami, pieczarkami, kaparami i oliwkami
+date: 2015-04-11T14:29:26.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "kabanos"
-  - "kapary"
-  - "oregano"
-  - "pieczarki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-z-kabanosami-pieczarkami-kaparami-oliwkami.jpg"
+  - czarne-oliwki
+  - kabanos
+  - kapary
+  - oregano
+  - pieczarki
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: pizza-z-kabanosami-pieczarkami-kaparami-oliwkami.jpg
 ---
 
 Podstawą tej pizzy są dobre kabanosy. Polecane przeze mnie kabanosy znajdziesz poniżej. Są pełne mięsa i bez konserwantów czy dodatków. Naprawdę jest to ewenement.
@@ -49,7 +49,7 @@ Jeżeli chcesz upiec pizzę na grubszym cieście, podobną do tej z Pizza Hut, <
 
  
 
-![Kabanosy z kurczaka Konspol](./images/konspol-kabanosy-z-kurczaka-225x300.jpg)
+![Kabanosy z kurczaka Konspol](konspol-kabanosy-z-kurczaka-225x300.jpg)
 
 Kabanosy z kurczaka Konspol
 

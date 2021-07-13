@@ -1,16 +1,16 @@
 ---
-title: "Domowy piec do pizzy Optima Electra Pizza Express Napoli"
-date: "2015-09-05T18:12:44.000Z"
+title: Domowy piec do pizzy Optima Electra Pizza Express Napoli
+date: 2015-09-05T18:12:44.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/piec-do-pizzy.png"
+  - akcesoria
+featuredImage: piec-do-pizzy.png
 ---
 
 Domowy piec do pizzy - sprawdź jak się sprawdza w kuchni specjalny włoski piec do domowego pieczenia pizzy. Czy robi różnice w jakości pizzy?
 
 Cały czas szukam rozwiązania, które pomoże uzyskać w domowych warunkach pizzę jak z pizzerii. Jedną opcją jest zastosowanie kamienia pizzy, drugą opcją jest zastosowanie dwóch kamieni, a to jest trzecia opcja którą polecam. Dowiedziałem się, że istnieje taki piec dedykowany domowemu pieczeniu pizzy Optima Electra Pizza Express Napoli. Przetestowałem i...
 
-## ![piec-do-pizzy-optima-electra-pizza-express-napoli](./images/piec-do-pizzy-optima-electra-pizza-express-napoli.jpg)
+## ![piec-do-pizzy-optima-electra-pizza-express-napoli](piec-do-pizzy-optima-electra-pizza-express-napoli.jpg)
 
 ## Podsumowując
 
@@ -45,7 +45,7 @@ Obsługa pieca jest dość prosta, ponieważ zawiera:
 
 ## Jak upiec pizzę krok po kroku
 
-![Pizza Margherita upieczona piecem do pizzy](./images/pizza-margherita-piec-do-pizzy-optima-electra-pizza-express-napoli.jpg)
+![Pizza Margherita upieczona piecem do pizzy](pizza-margherita-piec-do-pizzy-optima-electra-pizza-express-napoli.jpg)
 
 Pizza Margherita upieczona piecem do pizzy
 
@@ -128,7 +128,7 @@ Do tej pory największym spowalniaczem w przygotowaniu pizzy szybko było nagrze
 
 ### Podpłomyki (maca)
 
-![Podpłomyki](./images/maca-piec-do-pizzy-optima-electra-pizza-express-napoli-300x200.jpg)
+![Podpłomyki](maca-piec-do-pizzy-optima-electra-pizza-express-napoli-300x200.jpg)
 
 Podpłomyki
 
@@ -143,7 +143,7 @@ Podpłomyki
 
 ### Chlebek czosnkowy
 
-![Chlebek czosnkowy](./images/chlebek-czosnkowy-300x200.jpg)
+![Chlebek czosnkowy](chlebek-czosnkowy-300x200.jpg)
 
 Chlebek czosnkowy
 
@@ -158,7 +158,7 @@ Chlebek czosnkowy
 
 ### Bruschetta
 
-![Trochę inna Bruschetta, bo zrobiona z ciasta na pizzę](./images/bruschetta-300x200.jpg)
+![Trochę inna Bruschetta, bo zrobiona z ciasta na pizzę](bruschetta-300x200.jpg)
 
 Bruschetta
 

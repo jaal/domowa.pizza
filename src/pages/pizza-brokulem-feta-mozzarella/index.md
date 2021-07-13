@@ -1,14 +1,14 @@
 ---
-title: "Pizza z brokułem, fetą i mozzarella"
-date: "2017-03-14T20:52:15.000Z"
+title: Pizza z brokułem, fetą i mozzarella
+date: 2017-03-14T20:52:15.000Z
 categories: 
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "brokul"
-  - "ser-feta"
-  - "ser-mozzarella"
-featuredImage: "./images/pizza-brokul-feta-mozzarella.jpg"
+  - brokul
+  - ser-feta
+  - ser-mozzarella
+featuredImage: pizza-brokul-feta-mozzarella.jpg
 ---
 
 Popełniłem pizzę “Nie Taki Brokuł Straszny”, czyli brokuł który może być smaczny (choć nadal kiepsko pachnie przy gotowaniu). Pizza jest bajecznie prosta, lekka i wegetariańska. W następnym odcinku odczaruję brukselkę i kalafior ;-)

@@ -1,14 +1,14 @@
 ---
-title: "Pizza Margherita"
-date: "2014-08-16T16:34:09.000Z"
+title: Pizza Margherita
+date: 2014-08-16T16:34:09.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "bazylia"
-  - "oliwki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-margherita.jpg"
+  - bazylia
+  - oliwki
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: pizza-margherita.jpg
 ---
 
 Pizza Margherita to jest już klasyk nad klasykami. Znajdziesz ją w każdej menu każdej włoskiej restauracji dającej pizzę. Dlaczego? Ponieważ jest prosta, szybka i smaczna. Ty też możesz ją upiec. Dowiedz się jak ją zrobić. Pizza jest znana również jako Pizza Margarita lub Pizza Margharita, ale poprawna nazwa to właśnie Margherita.

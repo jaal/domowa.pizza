@@ -1,15 +1,15 @@
 ---
-title: "Pizza z rukolą i kiełbasą"
-date: "2015-11-08T07:44:41.000Z"
+title: Pizza z rukolą i kiełbasą
+date: 2015-11-08T07:44:41.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "jogurt-grecki"
-  - "kielbasa-wiejska"
-  - "rukola"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-rukola-kielbasa.jpg"
+  - jogurt-grecki
+  - kielbasa-wiejska
+  - rukola
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: pizza-rukola-kielbasa.jpg
 ---
 
 Tylko trzy składniki i taka pyszna pizza? Nie mogłem uwierzyć jak spróbowałem. Klucz to dobrej jakości kiełbasa wiejska. Taka konkretna, z dużą ilością mięsa, chuda i aromatyczna. Taka, żeby palce pachniały nią jeszcze długo po pokrojeniu. Na pewno nie znajdziesz takiej w Biedronce lub Lidlu, trzeba poszukać bardziej. Może w pobliskim mięsnym? Może na targowisku? Na takiej kiełbasie byle co smakuje świetnie. Dlatego na taką kiełbasę wystarczyła tylko rukola.

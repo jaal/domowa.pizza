@@ -1,15 +1,15 @@
 ---
-title: "Pizza ze szparagami, szynką, jajkiem sadzonym i serem"
-date: "2016-05-20T17:45:49.000Z"
+title: Pizza ze szparagami, szynką, jajkiem sadzonym i serem
+date: 2016-05-20T17:45:49.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "jajko"
-  - "ser-mozzarella"
-  - "szparagi"
-  - "szynka-parmenska"
-  - "zielone-szparagi"
-featuredImage: "./images/pizza-ze-szparagami-szynka-serem-i-jajkiem.jpg"
+  - jajko
+  - ser-mozzarella
+  - szparagi
+  - szynka-parmenska
+  - zielone-szparagi
+featuredImage: pizza-ze-szparagami-szynka-serem-i-jajkiem.jpg
 ---
 
 Pizza ze szparagami - zielone, chrupiące, świeże szparagi, do tego zapieczona szynka oraz jajko na środku, a na wierzchu mozzarella. Klasycznie, spokojnie i pysznie. Jeśli szukasz pomysłu na bezpieczny obiad dla rodziny i przyjaciół, który zadowoli każdego, oto on.

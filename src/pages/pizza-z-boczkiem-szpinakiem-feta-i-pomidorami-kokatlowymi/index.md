@@ -1,15 +1,15 @@
 ---
-title: "Pizza z boczkiem, szpinakiem, fetą i pomidorami kokatlowymi"
-date: "2015-11-13T07:39:00.000Z"
+title: Pizza z boczkiem, szpinakiem, fetą i pomidorami kokatlowymi
+date: 2015-11-13T07:39:00.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "pomidory-koktajlowe"
-  - "ser-feta"
-  - "sos-pomidorowy"
-  - "swiezy-szpinak"
-featuredImage: "./images/pizza-boczek-szpinak-pomidory.jpg"
+  - boczek
+  - pomidory-koktajlowe
+  - ser-feta
+  - sos-pomidorowy
+  - swiezy-szpinak
+featuredImage: pizza-boczek-szpinak-pomidory.jpg
 ---
 
 Połączenie boczku i szpinaku oraz pomidorów i sera feta to już kulinarna klasyka. Nie wymyślam nic nowego, tylko łączę je w całość i podaję na pizzy. Smacznego!

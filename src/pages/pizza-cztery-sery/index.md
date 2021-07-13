@@ -1,17 +1,17 @@
 ---
-title: "Pizza cztery sery"
-date: "2015-08-26T05:51:07.000Z"
+title: Pizza cztery sery
+date: 2015-08-26T05:51:07.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "oregano"
-  - "parmezan"
-  - "ser-feta"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "sos-pom"
-featuredImage: "./images/IMG_20150809_135546368.jpg"
+  - czarne-oliwki
+  - oregano
+  - parmezan
+  - ser-feta
+  - ser-kozi
+  - ser-mozzarella
+  - sos-pom
+featuredImage: IMG_20150809_135546368.jpg
 ---
 
 Ok, nie przepadam za serami krowimi (poza mozzarellą rzecz jasna), tak bardzo jak za kozim lub owczym. Dlatego wolę zastąpić śmierdziuchy jakimiś innymi, zdrowszymi i mniej tuczącymi odmianami. Dlatego przygotowałem dzisiaj lżejszą odmianę pizzy cztery sery. Dla mnie kojarzyła się zawsze z tłustą, lejącą się i ociekającą, ale mimo wszystko smaczną pizzą. Udało mi się na szczęście to odczarować.

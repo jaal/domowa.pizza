@@ -1,10 +1,10 @@
 ---
-title: "W czym piec chleb?"
-date: "2020-04-08T21:56:00.000Z"
+title: W czym piec chleb?
+date: 2020-04-08T21:56:00.000Z
 categories: 
-  - "inne"
+  - inne
 tags: 
-  - "chleb"
+  - chleb
 ---
 
 Pytanie które często się powtarza - _"w czym piec chleb?"._ Jest kilka sposobów na upieczenie chleba.

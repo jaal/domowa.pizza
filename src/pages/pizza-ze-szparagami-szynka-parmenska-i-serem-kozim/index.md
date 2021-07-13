@@ -1,17 +1,17 @@
 ---
-title: "Pizza ze szparagami, szynka parmeńską i serem kozim"
-date: "2016-05-05T20:10:55.000Z"
+title: Pizza ze szparagami, szynka parmeńską i serem kozim
+date: 2016-05-05T20:10:55.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwa-z-oliwek"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "sol-morska"
-  - "swiezo-zmielony-pieprz"
-  - "szparagi"
-  - "szynka-parmenska"
-featuredImage: "./images/pizza-ze-szparagami-szynka-serem-kozim.jpg"
+  - oliwa-z-oliwek
+  - ser-kozi
+  - ser-mozzarella
+  - sol-morska
+  - swiezo-zmielony-pieprz
+  - szparagi
+  - szynka-parmenska
+featuredImage: pizza-ze-szparagami-szynka-serem-kozim.jpg
 ---
 
 Szparagi i szynka parmeńska to dobra para. Jeśli dodam do tego ser kozi, wychodzi połączenie doskonałe. Jak położę to wszystko na pizzy, to jestem w niebie! I tak właśnie powstała ta pizza:-)

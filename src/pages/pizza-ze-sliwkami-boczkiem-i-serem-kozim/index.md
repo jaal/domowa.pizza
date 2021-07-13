@@ -1,14 +1,14 @@
 ---
-title: "Pizza ze śliwkami, boczkiem i serem kozim"
-date: "2015-08-30T07:12:59.000Z"
+title: Pizza ze śliwkami, boczkiem i serem kozim
+date: 2015-08-30T07:12:59.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "ser-kozi"
-  - "sliwki"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-ze-sliwkami-boczkiem-serem-kozim.jpg"
+  - boczek
+  - ser-kozi
+  - sliwki
+  - sos-pomidorowy
+featuredImage: pizza-ze-sliwkami-boczkiem-serem-kozim.jpg
 ---
 
 Czerwiec, lipiec, sierpień i wrzesień to miesiące obfitujące w owoce. Często wykorzystuję sezonowe owoce i warzywa w swoich pizzach, aby użyć składników, które są najbardziej świeże. Tym razem wybór padła na śliwki. Od sierpnia mamy ich prawdziwy zalew! Można wybierać i przebierać. Znalazłem akurat takie, które nie są mocno słodkie, a bardziej w smaku przypominają wędzone. Postanowiłem je wykorzystać i stworzyć pizzę śliwkową.

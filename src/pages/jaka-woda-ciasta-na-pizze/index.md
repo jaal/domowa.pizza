@@ -1,9 +1,9 @@
 ---
-title: "Jaka woda do ciasta na pizzę"
-date: "2015-02-02T07:23:52.000Z"
+title: Jaka woda do ciasta na pizzę
+date: 2015-02-02T07:23:52.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/640px-Water_droplet_blue_bg05.jpg"
+  - inne
+featuredImage: 640px-Water_droplet_blue_bg05.jpg
 ---
 
 Po mące, której jest w cieście najwięcej, woda to drugi co do ilości składnik w Twojej pizzy. Jej jakość i smak ma znaczenie. W tym poście dowiesz się jakiej wody używać, w jakiej temperaturze i w jakiej ilości.

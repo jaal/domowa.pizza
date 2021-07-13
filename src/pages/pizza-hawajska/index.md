@@ -1,20 +1,20 @@
 ---
-title: "Pizza z ananasem \"hawajska\" na 3 sposoby"
-date: "2014-08-23T20:59:11.000Z"
+title: Pizza z ananasem \"hawajska\" na 3 sposoby
+date: 2014-08-23T20:59:11.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "ananas"
-  - "chili"
-  - "jalapeno"
-  - "kukurydza"
-  - "kurczak"
-  - "oliwki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka"
-  - "tunczyk"
-featuredImage: "./images/pizza-hawajska-s.jpg"
+  - ananas
+  - chili
+  - jalapeno
+  - kukurydza
+  - kurczak
+  - oliwki
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka
+  - tunczyk
+featuredImage: pizza-hawajska-s.jpg
 ---
 
 Pizza hawajska - prosty przepis na pizzę hawajską ze świeżym ananasem na 3 różne sposoby. Jak ją przygotować?
@@ -27,7 +27,7 @@ Pizza hawajska ma coś egzotycznego w sobie, co mnie bardzo przyciąga. Z jednej
 
 # Pizza hawajska klasyczna z szynką i ananasem
 
-![Pizza hawajska](./images/pizza-hawajska1-300x201.jpg)
+![Pizza hawajska](pizza-hawajska1-300x201.jpg)
 
 Pizza hawajska
 
@@ -114,7 +114,7 @@ Z tego przepisu wyjdą Ci 4 cienkie pizze o średnicy 30 cm lub 3 grubsze równi
 
 # Pizza hawajska z ananasem i tuńczykiem
 
-![Pizza hawajska z tuńczykiem](./images/pizza-hawajska-z-tunczykiem-300x201.jpg)
+![Pizza hawajska z tuńczykiem](pizza-hawajska-z-tunczykiem-300x201.jpg)
 
 Pizza hawajska z tuńczykiem
 

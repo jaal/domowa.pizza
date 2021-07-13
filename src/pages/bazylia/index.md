@@ -1,8 +1,8 @@
 ---
-title: "Bazylia"
-date: "2016-01-17T19:22:57.000Z"
+title: Bazylia
+date: 2016-01-17T19:22:57.000Z
 categories: 
-  - "skladniki"
+  - skladniki
 featuredImage: bazylia.jpg
 ---
 

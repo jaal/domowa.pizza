@@ -1,16 +1,16 @@
 ---
-title: "Pizza Pepperoni (Salami)"
-date: "2014-09-03T21:23:31.000Z"
+title: Pizza Pepperoni (Salami)
+date: 2014-09-03T21:23:31.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwki"
-  - "oregano"
-  - "pepperoni"
-  - "salami"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-pepperoni-salami.jpg"
+  - oliwki
+  - oregano
+  - pepperoni
+  - salami
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: pizza-pepperoni-salami.jpg
 ---
 
 Ta nazwa brzmi dumnie - pizza pepperoni! Pewnie w wielu amerykańskich filmach widzisz jak Amerykanie zajadają się pizzą pepperoni. Jaki jest przepis na pizzę pepperoni (lub salami)? Uwierz mi, bardzo prosty:-)

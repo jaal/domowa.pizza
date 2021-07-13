@@ -1,14 +1,14 @@
 ---
-title: "Pizza z jabłkiem, boczkiem i serem kozim"
-date: "2015-12-09T07:58:26.000Z"
+title: Pizza z jabłkiem, boczkiem i serem kozim
+date: 2015-12-09T07:58:26.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "jablko"
-  - "ser-kozi"
-  - "sos-musztardowy"
-featuredImage: "./images/pizza-z-jablkiem-boczkiem-serem-kozim.jpg"
+  - boczek
+  - jablko
+  - ser-kozi
+  - sos-musztardowy
+featuredImage: pizza-z-jablkiem-boczkiem-serem-kozim.jpg
 ---
 
 Robiłem już wcześniej eksperymenty ze słodką pizzą (boczek + śliwki). Wyszło lepiej niż dobrze. Teraz spróbowałem boczek i jabłkiem. Do tego jako sos użyłem słodkiej musztardy, a na wierzch dałem wyrazisty ser kozi. Eksperyment uważam za udany. Wyszła wyrazista, lekko słodka i soczysta pizza. Pomimo tłuściutkiego boczku wcale nie była ciężka.

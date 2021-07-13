@@ -1,20 +1,20 @@
 ---
-title: "Pizza z malinowymi pomidorami, mozzarellą i syropem balsamicznym"
-date: "2015-09-27T08:50:49.000Z"
+title: Pizza z malinowymi pomidorami, mozzarellą i syropem balsamicznym
+date: 2015-09-27T08:50:49.000Z
 categories: 
-  - "danie-weganskie"
-  - "danie-wegetarianskie"
-  - "pizza-weganska"
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - danie-weganskie
+  - danie-wegetarianskie
+  - pizza-weganska
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "bazylia"
-  - "czarne-oliwki"
-  - "ocet-balsamiczny"
-  - "ser-mozzarella"
-  - "swieze-pomidory"
-  - "syrop-balsamiczny"
-featuredImage: "./images/pizza-malinowe-pomidory-syrop-balsamiczny.jpg"
+  - bazylia
+  - czarne-oliwki
+  - ocet-balsamiczny
+  - ser-mozzarella
+  - swieze-pomidory
+  - syrop-balsamiczny
+featuredImage: pizza-malinowe-pomidory-syrop-balsamiczny.jpg
 ---
 
 Nie spodziewałem się, że tak prosta pizza może tak kapitalnie wyglądać i tak pysznie smakować. A to naprawdę było proste! Zobacz sam.

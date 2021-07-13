@@ -1,9 +1,9 @@
 ---
-title: "Łopatka do pizzy"
-date: "2014-08-25T21:10:17.000Z"
+title: Łopatka do pizzy
+date: 2014-08-25T21:10:17.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/DSC08250FIX.jpg"
+  - akcesoria
+featuredImage: DSC08250FIX.jpg
 ---
 
 Jeśli masz już kamień, gorąco;-) polecam, abyś zastanowił się nad łopatką do pizzy. To bardzo przydatną rzecz w domowym pieczeniu pizzy, która ustrzeże Cię przed poparzeniami i innymi niemiłymi rzeczami.
@@ -51,7 +51,7 @@ Generalnie w sklepach najczęściej dostaniesz dwa rodzaje - profesjonalne metal
 
 [Osobiście korzystam z łopatki Kuchenprofi](http://www.ceneo.pl/10200823#cid=7705&crid=64017&pid=5958), na której mieści się 1 okrągła pizza o średnicy ok. 30 cm. Dobrze pasuje dla pizzy robionej w piekarniku. W mojej ocenie ma dobry stosunek ceny do jakości.
 
-[![Największy blog o domowym pieczeniu pizzy. Sprawdzone przepisy na pizze, ciasto i sosy. Upiecz w domu pizzę jak z włoskiej pizzerii](./images/DSC08250FIX-300x227.jpg)](http://www.ceneo.pl/10200823#cid=7705&crid=64017&pid=5958)
+[![Największy blog o domowym pieczeniu pizzy. Sprawdzone przepisy na pizze, ciasto i sosy. Upiecz w domu pizzę jak z włoskiej pizzerii](DSC08250FIX-300x227.jpg)](http://www.ceneo.pl/10200823#cid=7705&crid=64017&pid=5958)
 
 Łopatka do pizzy Kuchenprofi w akcji
 

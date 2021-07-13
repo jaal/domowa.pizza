@@ -1,10 +1,10 @@
 ---
-title: "Książka o pieczeniu domowego chleba za darmo"
-date: "2020-03-19T21:50:29.000Z"
+title: Książka o pieczeniu domowego chleba za darmo
+date: 2020-03-19T21:50:29.000Z
 categories: 
-  - "inne"
+  - inne
 tags: 
-  - "zostanwdomu"
+  - zostanwdomu
 ---
 
 Hej,

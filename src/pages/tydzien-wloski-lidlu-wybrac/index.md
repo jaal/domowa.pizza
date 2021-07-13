@@ -1,18 +1,18 @@
 ---
-title: "Tydzień włoski w Lidlu - co wybrać?"
-date: "2017-02-28T21:30:40.000Z"
+title: Tydzień włoski w Lidlu - co wybrać?
+date: 2017-02-28T21:30:40.000Z
 categories: 
-  - "inne"
+  - inne
 tags: 
-  - "anchois"
-  - "pepperoni"
-  - "salami"
-  - "sardela"
-  - "ser-mozzarella-di-bufala"
-  - "suszone-pomidory"
-  - "szynka-parmenska"
-  - "szynka-prosciutto"
-featuredImage: "./images/pizza-mozzarella-di-bufala.jpg"
+  - anchois
+  - pepperoni
+  - salami
+  - sardela
+  - ser-mozzarella-di-bufala
+  - suszone-pomidory
+  - szynka-parmenska
+  - szynka-prosciutto
+featuredImage: pizza-mozzarella-di-bufala.jpg
 ---
 
 W Lidlu co jakiś czas jest Tydzień Włoski, który teraz nazywa się Przysmaki z Włoch. Dobra okazja, żeby zrobić jeszcze bardziej włoską pizzę. Oto lista produktów, które przetestowałem i polecam.

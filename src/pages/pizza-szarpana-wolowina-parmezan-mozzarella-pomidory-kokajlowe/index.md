@@ -1,17 +1,17 @@
 ---
-title: "Pizza z szarpaną wołowiną, parmezanem, mozzarellą i pomidorami kokatajlowymi"
-date: "2018-02-25T06:26:36.000Z"
+title: Pizza z szarpaną wołowiną, parmezanem, mozzarellą i pomidorami kokatajlowymi
+date: 2018-02-25T06:26:36.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "mozzarella"
-  - "oliwa"
-  - "parmezan"
-  - "pomidory-koktajlowe"
-  - "swiezo-zmielony-pieprz"
-  - "szarpana-wieprzowina"
-  - "szarpana-wolowina"
-featuredImage: "./images/pizza-z-szarpana-wolowina-parmezanem-pomidorami-mozzarella.jpg"
+  - mozzarella
+  - oliwa
+  - parmezan
+  - pomidory-koktajlowe
+  - swiezo-zmielony-pieprz
+  - szarpana-wieprzowina
+  - szarpana-wolowina
+featuredImage: pizza-z-szarpana-wolowina-parmezanem-pomidorami-mozzarella.jpg
 ---
 
 Wykorzystanie resztek z obiadu w akcji - tym razem pizza z szarpaną wołowiną, parmezanem, mozzarellą i pomidorami kokatajlowymi

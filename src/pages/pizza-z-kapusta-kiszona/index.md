@@ -1,20 +1,20 @@
 ---
-title: "Pizza z kapustą kiszoną"
-date: "2014-11-30T22:03:11.000Z"
+title: Pizza z kapustą kiszoną
+date: 2014-11-30T22:03:11.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "kapusta-kiszona"
-  - "kielbasa"
-  - "kielbasa-wiejska"
-  - "kminek"
-  - "musztarda"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "sos-musztardowy"
-  - "wiejska-szynka"
-featuredImage: "./images/pizza-z-kapusta-kiszona_2.jpg"
+  - boczek
+  - kapusta-kiszona
+  - kielbasa
+  - kielbasa-wiejska
+  - kminek
+  - musztarda
+  - ser-kozi
+  - ser-mozzarella
+  - sos-musztardowy
+  - wiejska-szynka
+featuredImage: pizza-z-kapusta-kiszona_2.jpg
 ---
 
 Kapusta kiszona i pizza to bardzo dobry przykład polskiego wkładu w pizzę. O złych polskim wpływie na pizzę pisałem tu https://domowa.pizza/8-najwiekszych-grzechow-typowej-polskiej-pizzy-czyli-cos-polsko-zrobila-z-pizza/. Po raz pierwszy spotkałem się z tym przepisem w restauracji kilka lat temu. Przeglądałem kartę i zobaczyłem tę pizzę. Już wiedziałem, co zamówię. Po kilku minutach na stół wjechał talerz z potrawą pachnącą trochę kulebiakiem:-) To była moja pizza z kapustą kiszoną i kiełbasą. Dziwne w tej historii jest to, że ta pizza zniknęła z menu w tej restauracji. Może zmienił się kucharz i wyrzucił? Albo nikt nie zamawiał? Nie wiem dlaczego. Pamięć po niej pozostała w mojej głowie. Postanowiłem przetestować taką pizzę.
@@ -37,7 +37,7 @@ Z testów pizzy z kapustą kiszoną wyszły mi 3 warianty, które polecam:
 
 ## Pizza z kapustą, sosem musztardowym, kiełbasą i serem mozzarella
 
-![Pizza z kapustą kiszoną i wiejską kiełbasą](./images/pizza-z-kapusta-kiszona_1-300x200.jpg)
+![Pizza z kapustą kiszoną i wiejską kiełbasą](pizza-z-kapusta-kiszona_1-300x200.jpg)
 
 Pizza z kapustą kiszoną i wiejską kiełbasą
 
@@ -86,7 +86,7 @@ Z tego przepisu wyjdą Ci 4 cienkie pizze o średnicy 30 cm lub 3 grubsze równi
 
 ## Pizza z kapustą kiszoną, sosem musztardowym, boczkiem parzonym i serem kozim
 
-![Pizza z kapustą kiszoną, boczkiem i serem kozim i sosem musztardowym](./images/pizza-z-kapusta-kiszona_2-300x169.jpg)
+![Pizza z kapustą kiszoną, boczkiem i serem kozim i sosem musztardowym](pizza-z-kapusta-kiszona_2-300x169.jpg)
 
 Pizza z kapustą kiszoną, boczkiem i serem kozim i sosem musztardowym
 
@@ -133,7 +133,7 @@ Jak w poprzednim przepisie.
 
 ## Pizza z kapustą kiszoną, sosem pomidorowym, szynką, serem mozzarella i kozim
 
-![Pizza z kapustą kiszoną, szynką i serem kozim i sosem pomidorowym](./images/pizza-z-kapusta-kiszona_3-300x169.jpg)
+![Pizza z kapustą kiszoną, szynką i serem kozim i sosem pomidorowym](pizza-z-kapusta-kiszona_3-300x169.jpg)
 
 Pizza z kapustą kiszoną, szynką i serem kozim i sosem pomidorowym
 

@@ -1,17 +1,17 @@
 ---
-title: "Pizza z chipsami z ziemniaków, boczkiem i porem"
-date: "2016-03-27T11:22:28.000Z"
+title: Pizza z chipsami z ziemniaków, boczkiem i porem
+date: 2016-03-27T11:22:28.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "jogurt-grecki"
-  - "por"
-  - "rozmaryn"
-  - "ser-mozzarella"
-  - "tymianek"
-  - "ziemniaki"
-featuredImage: "./images/pizza-chipsy-boczek.jpg"
+  - boczek
+  - jogurt-grecki
+  - por
+  - rozmaryn
+  - ser-mozzarella
+  - tymianek
+  - ziemniaki
+featuredImage: pizza-chipsy-boczek.jpg
 ---
 
 Pizza z chipsami? Brzmi dziwnie, ale smakuje świetnie i wcale nie jest ciężka. Nie wykorzystujesz oczywiście sklepowych czipsów, tylko sam je zrobisz.

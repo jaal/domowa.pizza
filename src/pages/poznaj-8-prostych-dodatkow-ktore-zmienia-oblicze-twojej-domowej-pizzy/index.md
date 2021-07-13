@@ -1,9 +1,9 @@
 ---
-title: "Poznaj 8 prostych dodatków, które zmienią oblicze Twojej domowej pizzy"
-date: "2015-03-09T16:34:23.000Z"
+title: Poznaj 8 prostych dodatków, które zmienią oblicze Twojej domowej pizzy
+date: 2015-03-09T16:34:23.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/Dried_Peppercorns.jpg"
+  - inne
+featuredImage: Dried_Peppercorns.jpg
 ---
 
 Na mojej „linii produkcyjnej” domowej pizzy jest jeszcze ostatni krok, tuż po upieczeniu pizzy i zaraz przed zjedzeniem - dodatki do pizzy. W tym kroku dodaję na gotową pizzę dodatki, które dodatkowo podkręcają smak pizzy tak, że jest jeszcze smaczniejsza. Ważny i warto go dodać do swojej linii produkcyjnej:-)

@@ -1,10 +1,10 @@
 ---
-title: "Dlaczego musisz mieć dwa kamienie do pizzy zamiast jednego?"
-date: "2015-07-10T13:41:05.000Z"
+title: Dlaczego musisz mieć dwa kamienie do pizzy zamiast jednego?
+date: 2015-07-10T13:41:05.000Z
 categories: 
-  - "inne"
-  - "porady"
-featuredImage: "./images/kamien-do-pizzy.jpg"
+  - inne
+  - porady
+featuredImage: kamien-do-pizzy.jpg
 ---
 
 <a href="/kamien-do-pizzy/">Jak już docenisz wszystkie zalety kamienia do pizzy, o których piszę tu, </a> pomyśl nad zakupem drugiego. Nie żartuję! Możesz wykorzystać dwa kamienie do pieczenia pizzy. Dzięki temu Twoja pizza jeszcze bardziej zbliży się do tej z pizzerii. Zobacz jak to zrobić.

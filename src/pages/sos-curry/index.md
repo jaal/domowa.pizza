@@ -1,16 +1,16 @@
 ---
-title: "Sos curry"
-date: "2015-07-19T21:01:15.000Z"
+title: Sos curry
+date: 2015-07-19T21:01:15.000Z
 categories: 
-  - "przepis-na-sos"
+  - przepis-na-sos
 tags: 
-  - "ananas"
-  - "curry"
-  - "indyk"
-  - "kurczak"
-  - "mleczko-kokosowe"
-  - "szalotka"
-featuredImage: "./images/sos-curry-e1437339748538.jpg"
+  - ananas
+  - curry
+  - indyk
+  - kurczak
+  - mleczko-kokosowe
+  - szalotka
+featuredImage: sos-curry-e1437339748538.jpg
 ---
 
 Dania z sosem curry często goszczą na moim rodzinnym stole. Ten lekko ostry, lekko słodki i lekko egzotyczny smak bardzo nam odpowiada. Sam sos jest prosty i szybki w przygotowaniu. Zobacz sam.

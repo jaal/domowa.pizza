@@ -1,16 +1,16 @@
 ---
-title: "Pizza z pomidorami, rukolą, serem kozim i mozzarellą"
-date: "2018-09-21T20:14:23.000Z"
+title: Pizza z pomidorami, rukolą, serem kozim i mozzarellą
+date: 2018-09-21T20:14:23.000Z
 categories: 
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "pomidory"
-  - "rukola"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-pomidory-rukola-ser-kozi-mozzarella.jpg"
+  - pomidory
+  - rukola
+  - ser-kozi
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: pizza-pomidory-rukola-ser-kozi-mozzarella.jpg
 ---
 
 Późne lato/wczesna jesień to czas w którym dostanę słodkie, soczyste i mięsiste pomidory, czasami nawet prosto z domowego ogródka. Najpierw upiekłem ciasto z sosem pomidorowym, a następnie na gotową i jeszcze gorącą pizzę, dałem mozzarellę, dojrzewający ser kozi, rukolę i właśnie te przepyszne pomidory.

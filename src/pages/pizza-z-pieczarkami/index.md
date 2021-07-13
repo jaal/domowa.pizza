@@ -1,15 +1,15 @@
 ---
-title: "Pizza z pieczarkami"
-date: "2015-03-20T19:22:36.000Z"
+title: Pizza z pieczarkami
+date: 2015-03-20T19:22:36.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "oregano"
-  - "pieczarki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-featuredImage: "./images/DSC07619.jpg"
+  - czarne-oliwki
+  - oregano
+  - pieczarki
+  - ser-mozzarella
+  - sos-pomidorowy
+featuredImage: DSC07619.jpg
 ---
 
 Jest kilka klasyków jeśli chodzi o pizzę:-) To jeden z nich - drugi to pizza z szynką i pieczarkami. Możesz pomyśleć, że jakaś uboga ta pizza, tylko z pieczarkami? Ale tak naprawdę kluczowe jest połączenie sos pomidorowego, pieczarek i mozzarelli. Wtedy jest już to AŻ pizza z pieczarkami. Polecam ją również ponieważ jest tania i prosta w przygotowaniu.

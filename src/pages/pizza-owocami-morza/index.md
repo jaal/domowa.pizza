@@ -1,17 +1,17 @@
 ---
-title: "Pizza z owocami morza"
-date: "2017-04-16T19:01:28.000Z"
+title: Pizza z owocami morza
+date: 2017-04-16T19:01:28.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "biale-wino"
-  - "czosnek"
-  - "natka-pietruszki"
-  - "owoce-morza"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szalotka"
-featuredImage: "./images/pizza-owoce-morza.jpg"
+  - biale-wino
+  - czosnek
+  - natka-pietruszki
+  - owoce-morza
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szalotka
+featuredImage: pizza-owoce-morza.jpg
 ---
 
 Pizza z owocami morza wydawała mi się kiedyś czymś wyjątkowym i niedostępnym dla zwykłego śmiertelnika. Tylko w bardzo dobrej pizzerii można było taką dostać. W innych, mniej renomowanych, bałem się spróbować. Okazało się, że owoce morza są łatwe w przygotowaniu i smakują rewelacyjnie w połączeniu z sosem pomidorowym lub sosem marinera. Palce lizać!

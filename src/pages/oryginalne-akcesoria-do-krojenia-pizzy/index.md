@@ -1,8 +1,8 @@
 ---
-title: "20 najbardziej oryginalnych akcesoriów do krojenia pizzy"
-date: "2015-06-18T21:53:01.000Z"
+title: 20 najbardziej oryginalnych akcesoriów do krojenia pizzy
+date: 2015-06-18T21:53:01.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 Możesz mieć praktyczne i poręczne radełko do krojenia pizzy (sprawdź które radełko polecam), a możesz też zaszaleć i znaleźć coś, co bardziej wyrazi Ciebie. A może szukasz inspiracji na prezent? Nie gwarantuję, że się nimi dobrze kroi pizzę... ale na pewno nie można im odmówić oryginalności lub nawet odjechania;-)
@@ -11,7 +11,7 @@ Możesz mieć praktyczne i poręczne radełko do krojenia pizzy (sprawdź które
 
 Koniec z niesprawiedliwym podziałem pizzy, ten ma więcej, a ten ma mniej. The Equalizer dzieli pizzę na osiem równych kawałków w... osiem sekund? Co więcej, w sprzedaży są Equalizery, które podzielą na większą liczbę kawałków.
 
-![Equalizer Multi Blade Rocker Pizza-cutter](./images/equalizer-multi-blade-rocker-pizza-cutter-300x300.jpg)
+![Equalizer Multi Blade Rocker Pizza-cutter](equalizer-multi-blade-rocker-pizza-cutter-300x300.jpg)
 
 Equalizer Multi Blade Rocker Pizza Cutter
 
@@ -19,7 +19,7 @@ Equalizer Multi Blade Rocker Pizza Cutter
 
 Po co marnować czas na krojenie radełkiem i jedzenie widelcem, skoro można zrobić to za jednym zamachem.
 
-![Pizza Fork And Cutter](./images/pizza-fork-and-cutter.jpg)
+![Pizza Fork And Cutter](pizza-fork-and-cutter.jpg)
 
 Pizza Fork And Cutter
 
@@ -27,13 +27,13 @@ Pizza Fork And Cutter
 
 Jeśli ktoś z Twojej rodziny lub przyjaciół lubi pizzę i lubi majsterkować, na pewno spodoba mu się ten gadżet „budowlano-kuchenny”.
 
-![Pizza Pro 3000](./images/pizza-pro-3000-300x278.png)
+![Pizza Pro 3000](pizza-pro-3000-300x278.png)
 
 Pizza Pro 3000
 
 ## 4\. …lub matematyka
 
-![Radełko dla matematyka](./images/radelko-dla-matematyka-240x300.jpg)
+![Radełko dla matematyka](radelko-dla-matematyka-240x300.jpg)
 
 Radełko dla matematyka
 
@@ -41,7 +41,7 @@ Radełko dla matematyka
 
 Zamiast posiadać i radełko, i szczypce i łopatkę, wystarczy Ci ten gadżet. Pokroisz, chwycisz, nałożysz, czego chcieć więcej?
 
-![Pizza Utensil](./images/pizza-utensil-300x225.jpeg)
+![Pizza Utensil](pizza-utensil-300x225.jpeg)
 
 Pizza Utensil
 
@@ -49,15 +49,15 @@ Pizza Utensil
 
 Te radełka wyglądają bardziej na roboty gotowe do pojedynku niż akcesoria do pizzy.
 
-![Radełko dla technomaniaków ](./images/radelko-dla-technomaniakow-1-300x225.jpeg)
+![Radełko dla technomaniaków ](radelko-dla-technomaniakow-1-300x225.jpeg)
 
 Radełko dla technomaniaków
 
-![Radełko dla technomaniaków ](./images/radelko-dla-technomaniakow-2-300x191.jpeg)
+![Radełko dla technomaniaków ](radelko-dla-technomaniakow-2-300x191.jpeg)
 
 Radełko dla technomaniaków
 
-![Radełko dla technomaniaków ](./images/radelko-dla-technomaniakow-3-300x225.jpeg)
+![Radełko dla technomaniaków ](radelko-dla-technomaniakow-3-300x225.jpeg)
 
 Radełko dla technomaniaków
 
@@ -67,11 +67,11 @@ Radełko dla technomaniaków
 
 Te radełko jest po prostu urocze. Założę się, że spodoba się każdemu fanowi rowerów.
 
-![Radełko dla fanów rowerów](./images/radelko-rower-1-300x272.jpg)
+![Radełko dla fanów rowerów](radelko-rower-1-300x272.jpg)
 
 Radełko dla fanów rowerów
 
-![Radełko dla fanów rowerów](./images/radelko-rower-2-300x222.jpg)
+![Radełko dla fanów rowerów](radelko-rower-2-300x222.jpg)
 
 Radełko dla fanów rowerów
 
@@ -81,17 +81,17 @@ Radełko dla fanów rowerów
 
 Co więcej dodać, małpka na jednokołowcu pokroi Twoją pizzę
 
-![Radełko małpka](./images/radelko-malpka-300x300.jpg)
+![Radełko małpka](radelko-malpka-300x300.jpg)
 
 Radełko małpka
 
 ## 9\. … a także motorów
 
-![Radełko motor](./images/radelko-motor-3-300x300.jpg)
+![Radełko motor](radelko-motor-3-300x300.jpg)
 
-![Radełko motor](./images/radelko-motor-2-300x160.jpg)
+![Radełko motor](radelko-motor-2-300x160.jpg)
 
-![Radełko motor](./images/radelko-motor-1-300x208.jpg)
+![Radełko motor](radelko-motor-1-300x208.jpg)
 
  
 
@@ -99,7 +99,7 @@ Radełko małpka
 
 Nooo... wygląda groźnie, ciekawe czy równie łatwo się nią kroi co prawdziwą piłą;-)
 
-![Radełko piła](./images/radelko-pila-300x300.jpg)
+![Radełko piła](radelko-pila-300x300.jpg)
 
 Radełko piła
 
@@ -107,7 +107,7 @@ Radełko piła
 
 Kapitan Kirk będzie zachwycony mogąc w 2245 roku pokroić swoją pizzę miniaturką statku, którym dowodzi:-)
 
-![Radełko Star Trek](./images/radelko-star-trek-300x281.jpg)
+![Radełko Star Trek](radelko-star-trek-300x281.jpg)
 
 Radełko dla fana Star Trek
 
@@ -115,7 +115,7 @@ Radełko dla fana Star Trek
 
 Oczywiście prawdziwy Jedi kroi pizzę z użyciem Mocy - normalnym ludziom musi wystarczyć miniaturka R2-D2.
 
-![Radełko Star Wars](./images/radelko-star-wars-300x300.jpg)
+![Radełko Star Wars](radelko-star-wars-300x300.jpg)
 
 Radełko dla fana Star Wars
 
@@ -123,7 +123,7 @@ Radełko dla fana Star Wars
 
 No tak, siekierą pizzy jeszcze nie kroiłem, ale taką siekierką na pewno da radę:-)
 
-![Radełko siekiera](./images/radelko-siekiera-220x300.jpg)
+![Radełko siekiera](radelko-siekiera-220x300.jpg)
 
 Radełko siekiera
 
@@ -131,7 +131,7 @@ Radełko siekiera
 
 Jak patrzę na te radełko, to jakoś ten rekin nie jest mi straszny - raczej sympatyczny. Ciekawe co powie na pizzę wegetariańską?
 
-![Radełko rekin](./images/radelko-rekin-300x184.jpg)
+![Radełko rekin](radelko-rekin-300x184.jpg)
 
 Radełko rekin
 
@@ -141,7 +141,7 @@ Radełko rekin
 
 Jeśli Twoja Lepsza Połowa jest fanem/fankom domowej pizzy, podaruj jej "kawałek swojej miłości";-)
 
-![Radełko slice of love](./images/radelko-slice-of-love-300x240.jpg)
+![Radełko slice of love](radelko-slice-of-love-300x240.jpg)
 
 Radełko slice of love
 
@@ -149,6 +149,6 @@ Radełko slice of love
 
 Ten gadżet rozpatrywałbym nawet bardziej w kategoriach praktycznego narzędzia do krojenia pizzy niż tylko oryginalnego gadżetu.
 
-![Radełko sekator](./images/radelko-sekator-179x300.jpg)
+![Radełko sekator](radelko-sekator-179x300.jpg)
 
 Radełko sekator

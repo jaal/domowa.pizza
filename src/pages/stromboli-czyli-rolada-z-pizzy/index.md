@@ -1,14 +1,14 @@
 ---
-title: "Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy"
-date: "2014-11-14T22:49:31.000Z"
+title: Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy
+date: 2014-11-14T22:49:31.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "bazylia"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka-parmenska"
-featuredImage: "./images/DSC07279-e1420016927394.jpg"
+  - bazylia
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka-parmenska
+featuredImage: DSC07279-e1420016927394.jpg
 ---
 
 Pizza nie musi być tylko plackiem ciasta z serem i szynką. Nie musi też być calzone, czyli pizzą o kształcie pieroga. Można zrobić elegancką przekąskę, idealnie nadającą się na imprezę lub pyszną kanapkę do pracy na lunch lub wycieczkę. Mirek, jeden z czytelników, podesłał mi bardzo ciekawy przepis na... roladę z pizzy, czyli Stromboli. Zrobiłem, spróbowałem i jednym słowem - pyszne:)
@@ -45,13 +45,13 @@ Gdy ciasto jest już gotowe, przełóż je na papier do pieczenia.
 
 Rozsmaruj sos pomidorowy równomiernie po całej powierzchni ciasta. Pamiętaj, aby zostawić przy brzegach ok. 2 cm przestrzeni bez sosu. Dzięki temu łatwiej będzie zawinąć stromboli i posklejać.
 
-![Stromboli - nakładanie sosu](./images/DSC07267-300x200.jpg)
+![Stromboli - nakładanie sosu](DSC07267-300x200.jpg)
 
 Stromboli - nakładanie sosu
 
 Jak już to zrobisz, zawiń ciasto o szerokości 2 cm po dwóch krótszych bokach do środka. Dzięki temu farsz (sos pomidorowy i ser) nie wypłynie ze środka.
 
-![Stromboli - zawijanie boków](./images/DSC07269-300x200.jpg)
+![Stromboli - zawijanie boków](DSC07269-300x200.jpg)
 
 Stromboli - zawijanie boków
 
@@ -59,7 +59,7 @@ Stromboli - zawijanie boków
 
 Następnie rozłóż na pomidorach plastry szynki. Jeśli ułożysz plastry pionowo, łatwiej Ci będzie zawinąć pizzę. Na nich połóż ser mozzarella. Na ser daj świeże liście bazylii.
 
-![Stromboli - nakładanie sera](./images/DSC07270-300x200.jpg)
+![Stromboli - nakładanie sera](DSC07270-300x200.jpg)
 
 Stromboli - nakładanie sera
 
@@ -69,7 +69,7 @@ Ciasto delikatnie ponakłuwaj widelcem oraz dodatkowo ponacinaj ostrożnie gór�
 
 Przed włożeniem do piekarnika wierzch stromboli możesz posmarować jajkiem albo oliwą dla ładniejszego koloru oraz posypać oregano dla ładniejszego zapachu. To ważne, ponieważ jedzenie to nie tylko kubki smakowe, ale też doznania wzrokowe czy zapachowe:-)
 
-![Stromboli - przygotowane do pieczenia](./images/DSC07271-300x200.jpg)
+![Stromboli - przygotowane do pieczenia](DSC07271-300x200.jpg)
 
 Stromboli - przygotowane do pieczenia
 
@@ -81,7 +81,7 @@ Możesz bez problemu skorzystać z kamienia do pizzy. Stromboli fajnie zapiecze 
 
 ## I gotowe!
 
-![Stromboli - po upieczeniu](./images/DSC07279-300x200.jpg)
+![Stromboli - po upieczeniu](DSC07279-300x200.jpg)
 
 Stromboli - po upieczeniu
 

@@ -1,17 +1,17 @@
 ---
-title: "Pizza z brokułami, pomidorami i boczkiem"
-date: "2014-11-10T11:52:40.000Z"
+title: Pizza z brokułami, pomidorami i boczkiem
+date: 2014-11-10T11:52:40.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "brokul"
-  - "oliwki"
-  - "oregano"
-  - "panchetta"
-  - "pomidor"
-  - "sos-pomidorowy"
-featuredImage: "./images/DSC_1306-e1415620063841.jpg"
+  - boczek
+  - brokul
+  - oliwki
+  - oregano
+  - panchetta
+  - pomidor
+  - sos-pomidorowy
+featuredImage: DSC_1306-e1415620063841.jpg
 ---
 
 Lubię gdy na talerzu ląduje multikolorowa i lekka w smaku pizza z warzywami. Takie pizze mógłbym jeść cały czas:) Taka właśnie jest pizza z brokułem, pomidorem i boczkiem. Ma apetyczną paletę kolorów: zielony od brokułu, czerwony od pomidorów, biały od mozzarelli i różowo-burgundowy od boczku. Jak taką zrobić?
@@ -69,7 +69,7 @@ Cały proces pieczenia pizzy znajdziesz tu. Podsumowując w kilku krokach: Nagrz
 
 ## I gotowe!
 
-![Pizza z brokułem, pomidorami i boczkiem](./images/DSC_1306-300x199.jpg)
+![Pizza z brokułem, pomidorami i boczkiem](DSC_1306-300x199.jpg)
 
 Pizza z brokułem, pomidorami i boczkiem
 

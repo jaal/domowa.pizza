@@ -1,14 +1,14 @@
 ---
-title: "Pizza z ziemniakami, cukinią, panchettą i pesto"
-date: "2014-11-05T22:04:35.000Z"
+title: Pizza z ziemniakami, cukinią, panchettą i pesto
+date: 2014-11-05T22:04:35.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "cukinia"
-  - "ser-mozzarella"
-  - "sos-pesto"
-  - "ziemniaki"
+  - boczek
+  - cukinia
+  - ser-mozzarella
+  - sos-pesto
+  - ziemniaki
 ---
 
 Pizza z ziemniakami? To brzmi dziwnie na pierwszy rzut oka. Jednak daj temu przepisowi szansę:) We Włoszech bez problemu kupisz w piekarni pizzę na bazie oliwy lub śmietany z ziemniakami i rozmarynem. Palce lizać! Moje będzie trochę inna niż klasyczna włoska focaccia. Sprawdź.

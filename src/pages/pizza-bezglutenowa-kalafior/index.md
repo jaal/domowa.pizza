@@ -1,17 +1,17 @@
 ---
-title: "Przepis na ciasto na pizzę bezglutenową z kalafiora"
-date: "2016-02-09T07:38:33.000Z"
+title: Przepis na ciasto na pizzę bezglutenową z kalafiora
+date: 2016-02-09T07:38:33.000Z
 categories: 
-  - "pizza-bezglutenowa"
+  - pizza-bezglutenowa
 tags: 
-  - "jajko"
-  - "kalafior"
-  - "oregano"
-  - "pieprz"
-  - "ser-mozzarella"
-  - "ser-parmezan"
-  - "sol"
-featuredImage: "./images/pizza-bezglutenowa-kalafior.jpg"
+  - jajko
+  - kalafior
+  - oregano
+  - pieprz
+  - ser-mozzarella
+  - ser-parmezan
+  - sol
+featuredImage: pizza-bezglutenowa-kalafior.jpg
 ---
 
 Poznaj przepis na ciasto na pizzę bezglutenowe na bazie kalafiora.

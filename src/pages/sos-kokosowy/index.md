@@ -1,15 +1,15 @@
 ---
-title: "Sos kokosowy (lub kokosowy-czosnkowy)"
-date: "2015-07-26T09:03:35.000Z"
+title: Sos kokosowy (lub kokosowy-czosnkowy)
+date: 2015-07-26T09:03:35.000Z
 categories: 
-  - "przepis-na-sos"
+  - przepis-na-sos
 tags: 
-  - "czosnek"
-  - "mleczko-kokosowe"
-  - "pieprz"
-  - "sol"
-  - "tymianek"
-featuredImage: "./images/sos-kokosowo-czosnkowy.jpg"
+  - czosnek
+  - mleczko-kokosowe
+  - pieprz
+  - sol
+  - tymianek
+featuredImage: sos-kokosowo-czosnkowy.jpg
 ---
 
 Po przyrządzaniu <a title="Przepis na sos curry" href="/sos-curry/">sosu curry</a> zostało mi pół puszki mleczka kokosowego… Co by było gdyby zrobić pizzę z sosem na bazie mleczka kokosowego? Taka pizza bianca! Robiłem już przecież ze śmietaną czy jogurtem, uda się również z mleczkiem. Znalazłem ciekawy przepis, który zainspirował mnie do małych modyfikacji i wyszedł sos kokosowy lub kokosowo-czosnkowy.

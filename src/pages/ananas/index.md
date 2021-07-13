@@ -1,9 +1,9 @@
 ---
-title: "Ananas"
-date: "2014-12-21T22:05:52.000Z"
+title: Ananas
+date: 2014-12-21T22:05:52.000Z
 categories: 
-  - "skladniki"
-featuredImage: hero.jpg
+  - skladniki
+featuredImage: 2014-12-12-13.52.23.jpg
 ---
 
 W jednej z moich ulubionych rodzajów pizzy, ananas gra pierwsze skrzypce. Bardzo lubię hawajską i mam ciekawy przepis na nią <a title="Pizza Hawajska" href="/pizza-hawajska/">w wersji łagodnej</a> i <a title="Pizza hawajska pikantna" href="/pizza-hawajska-pikantna/">pikantnej</a>, a także na <a title="Pizza z tuńczykiem i ananasem" href="/pizza-z-tunczykiem-ananasem/">pizzę z tuńczykiem i ananasem</a>.
@@ -116,23 +116,23 @@ Obieranie ananasa nie jest takie trudne wbrew pozorom. Szukając sposobu na najl
 9. Pozostaje Ci jeszcze wyciąć ze środka najtwardszą część, czyli wspomniane już łyko. To już bułka z masłem, wystarczy, że pociągniesz nożem od góry do dołu i już.
 10. Teraz masz ćwiartki ananasa. Wystarczy, że pokroisz je na plasterki o grubości 3-5 mm i już możesz rzucać je na pizzę.
 
-![Obieranie ananasa - obetnij wierzchołek i spód](./images/2014-12-12-13.51.51-300x225.jpg)
+![Obieranie ananasa - obetnij wierzchołek i spód](2014-12-12-13.51.51-300x225.jpg)
 
 Obieranie ananasa - obetnij wierzchołek i spód
 
-![Obieranie ananasa - zacznij ścinać skórę idąc od góry do dołu.](./images/2014-12-12-13.52.23-300x225.jpg)
+![Obieranie ananasa - zacznij ścinać skórę idąc od góry do dołu.](2014-12-12-13.52.23-300x225.jpg)
 
 Obieranie ananasa - zacznij ścinać skórę idąc od góry do dołu.
 
-![Obieranie ananasa - powycinaj pozostałe chropowate wypustki.](./images/2014-12-12-13.54.14-300x225.jpg)
+![Obieranie ananasa - powycinaj pozostałe chropowate wypustki.](2014-12-12-13.54.14-300x225.jpg)
 
 Obieranie ananasa - powycinaj pozostałe chropowate wypustki.
 
-![Obieranie ananasa - tak obranego ananasa przekrój na ćwiartki. Dzięki temu będziesz miał łatwy dostęp do łyka, które trzeba wyciąć.](./images/2014-12-12-13.59.15-300x225.jpg)
+![Obieranie ananasa - tak obranego ananasa przekrój na ćwiartki. Dzięki temu będziesz miał łatwy dostęp do łyka, które trzeba wyciąć.](2014-12-12-13.59.15-300x225.jpg)
 
 Obieranie ananasa - tak obranego ananasa przekrój na ćwiartki. Dzięki temu będziesz miał łatwy dostęp do łyka, które trzeba wyciąć.
 
-![Obieranie ananasa - teraz masz ćwiartki ananasa. Wystarczy, że pokroisz je na plasterki o grubości 3-5 mm i już możesz rzucać je na pizzę.](./images/2014-12-12-14.02.07-300x225.jpg)
+![Obieranie ananasa - teraz masz ćwiartki ananasa. Wystarczy, że pokroisz je na plasterki o grubości 3-5 mm i już możesz rzucać je na pizzę.](2014-12-12-14.02.07-300x225.jpg)
 
 Obieranie ananasa - teraz masz ćwiartki ananasa. Wystarczy, że pokroisz je na plasterki o grubości 3-5 mm i już możesz rzucać je na pizzę.
 
@@ -149,7 +149,7 @@ Co zrobić ze skórkami z ananasa, łyka i odkrojonego spodu? To proste! Możesz
 
 Jeśli masz szybkowar, kompot zrobi Ci się nawet w 5 minut.
 
-![Kompot z ananasa](./images/2014-12-12-14.03.24-300x225.jpg)
+![Kompot z ananasa](2014-12-12-14.03.24-300x225.jpg)
 
 Kompot z ananasa
 

@@ -1,8 +1,8 @@
 ---
-title: "Jak wałkować ciasto do pizzy?"
-date: "2014-12-16T22:34:33.000Z"
+title: Jak wałkować ciasto do pizzy?
+date: 2014-12-16T22:34:33.000Z
 categories: 
-  - "akcesoria"
+  - akcesoria
 ---
 
 Ustalmy na początek do jakiej pizzy dążymy:-) Dla mnie idealną pizzą jest ta o wielkości ok. 30 cm i grubości 3-4 mm. Opiszę Ci jak udaje mi się za każdym razem taką uzyskać.

@@ -1,14 +1,14 @@
 ---
-title: "Pizza z oscypkiem, żurawiną i wiejską kiełbasą"
-date: "2016-02-23T22:07:14.000Z"
+title: Pizza z oscypkiem, żurawiną i wiejską kiełbasą
+date: 2016-02-23T22:07:14.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "kielbasa-wiejska"
-  - "ser-oscypek"
-  - "sos-pomidorowy"
-  - "zurawina"
-featuredImage: "./images/pizza-z-oscypkiem-zurawina-kielbasa.jpg"
+  - kielbasa-wiejska
+  - ser-oscypek
+  - sos-pomidorowy
+  - zurawina
+featuredImage: pizza-z-oscypkiem-zurawina-kielbasa.jpg
 ---
 
 Pizza to już międzynarodowe danie, do którego każdy kraj czy region można dorzucić swój akcent. Skoro można zamówić pizza sushi(!), to pizza w stylu góralskim z oscypkiem brzmi całkiem naturalnie. Smakuje świetnie:-)

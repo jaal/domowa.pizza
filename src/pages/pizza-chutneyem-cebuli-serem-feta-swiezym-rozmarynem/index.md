@@ -1,11 +1,11 @@
 ---
-title: "Pizza z chutneyem z cebuli, serem feta i świeżym rozmarynem"
-date: "2016-07-17T20:38:44.000Z"
+title: Pizza z chutneyem z cebuli, serem feta i świeżym rozmarynem
+date: 2016-07-17T20:38:44.000Z
 categories: 
-  - "danie-wegetarianskie"
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
-featuredImage: "./images/pizza-chutney-feta-rozmaryn.jpg"
+  - danie-wegetarianskie
+  - pizza-wegetarianska
+  - przepis-na-pizze
+featuredImage: pizza-chutney-feta-rozmaryn.jpg
 ---
 
 Czasami brakujemi mi pomysłów na nowe pizze, chociaż staram się notować każdy fajny pomysł, na który natrafię. Tak było wczoraj. Zdecydowanie zabrakło mi weny. Prosiłem o pomoc fanów bloga domowej pizzy na Facebooku.

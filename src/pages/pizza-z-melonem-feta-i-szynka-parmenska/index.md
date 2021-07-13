@@ -1,19 +1,19 @@
 ---
-title: "Pizza z melonem, fetą i szynką parmeńską"
-date: "2015-06-24T20:58:26.000Z"
+title: Pizza z melonem, fetą i szynką parmeńską
+date: 2015-06-24T20:58:26.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "granat"
-  - "jogurt-grecki"
-  - "melon"
-  - "oliwki"
-  - "oregano"
-  - "ser-feta"
-  - "ser-kozi"
-  - "sos-smietanowy"
-  - "szynka-parmenska"
-featuredImage: "./images/IMG_20150607_142230809.jpg"
+  - granat
+  - jogurt-grecki
+  - melon
+  - oliwki
+  - oregano
+  - ser-feta
+  - ser-kozi
+  - sos-smietanowy
+  - szynka-parmenska
+featuredImage: IMG_20150607_142230809.jpg
 ---
 
 Po upalnych dniach zostało mi w lodówce trochę owoców, których nie zjedliśmy na deser. Między innymi został melon i granat. Sprawdzało mi się połączenie dojrzewającej szynki, melonu i sera feta w formie sałatki. Dlaczego miałoby mi się nie sprawdzić na pizzy? I sprawdziło się. Zobacz jak. Do dzieła!

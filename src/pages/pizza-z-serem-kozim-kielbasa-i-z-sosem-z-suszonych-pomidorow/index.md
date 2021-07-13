@@ -1,16 +1,16 @@
 ---
-title: "Pizza z serem kozim, kiełbasą i z sosem z suszonych pomidorów"
-date: "2015-10-01T07:11:44.000Z"
+title: Pizza z serem kozim, kiełbasą i z sosem z suszonych pomidorów
+date: 2015-10-01T07:11:44.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "kielbasa"
-  - "oliwa"
-  - "oregano"
-  - "ser-kozi"
-  - "sos-z-suszonych-pomidorow"
-featuredImage: "./images/pizza-z-kozim-serem-kielbasa-sosem-suszonych-pomidorow.jpg"
+  - czarne-oliwki
+  - kielbasa
+  - oliwa
+  - oregano
+  - ser-kozi
+  - sos-z-suszonych-pomidorow
+featuredImage: pizza-z-kozim-serem-kielbasa-sosem-suszonych-pomidorow.jpg
 ---
 
 Prosta i smaczna pizza składająca się dosłownie z 3 składników. Uwierz mi, dobrej jakości kiełbasa, ser kozi i sos z suszonych pomidorów w zupełności wystarczą, aby osiągnąć wyjątkowy smak!

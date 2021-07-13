@@ -1,8 +1,8 @@
 ---
-title: "Jak wkładać pizzę na gorący kamień?"
-date: "2014-11-13T22:28:01.000Z"
+title: Jak wkładać pizzę na gorący kamień?
+date: 2014-11-13T22:28:01.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 A więc korzystasz z kamienia do pizzy:-) Na początek - moje gratulacje! Kamień do pizzy to jedna z tych rzeczy, które pomogą zrobić świetną pizzę zamiast tylko dobrej.
@@ -11,7 +11,7 @@ Mirek, jeden z czytelników bloga, zapytał mnie w mailu jak wkładam pizzę na 
 
 Na samym początku korzystania z kamienia miałem ten sam problem - jak przenieść pizzę na gorący kamień... więc na początku wyciągałem kamień z piekarnika, kładłem pizzę i z powrotem wsuwałem kamień do piekarnika. Pracochłonne i niebezpieczne. Kamień jest strasznie ciężki i gorący. W dodatku zmiany temperatury wpływają na niego tak sobie. Zresztą tak mi pękł pierwszy kamień - duża różnica temperatur, z gorącego piekarnika na zimne powietrze, a następnie zimna pizza, nic fajnego dla kamienia i pękł.
 
-![Łopatka do pizzy Kuchenprofi](./images/lopatka-do-pizzy-kuchenprofi-300x300.jpg)
+![Łopatka do pizzy Kuchenprofi](lopatka-do-pizzy-kuchenprofi-300x300.jpg)
 
 Łopatka do pizzy Kuchenprofi
 
@@ -27,7 +27,7 @@ Wiem, że wymaga to cierpliwości i anielskiego spokoju, szczególnie gdy bucha 
 
 Jako [łopatkę plastikową możesz użyć coś podobnego do tego](http://www.ceneo.pl/2395917#cid=7705&crid=36300&pid=5958). Ważne aby wytrzymywała wysokie temperatury. Nie polecam metalowych, ponieważ nie są tak "śliskie" jak te plastikowego do patelni teflonowych. Próbowałem z drewnianymi i też pizza do nich przywiera. Dłuższa rączka jest mile widziana.
 
-[![Ceneo](./images/ap-logo-transparent-small.png)](http://www.ceneo.pl/#pid=5958&crid=36299&cid=7705 "Ceneo") 
+[![Ceneo](ap-logo-transparent-small.png)](http://www.ceneo.pl/#pid=5958&crid=36299&cid=7705 "Ceneo") 
 
 <script type="text/javascript" charset="utf-8">// <![CDATA[ if (typeof CeneoAPOptions == "undefined" || CeneoAPOptions == null) { var CeneoAPOptions = new Array(); stamp = parseInt(new Date().getTime()/86400, 10); var script = document.createElement("script"); script.setAttribute("type", "text/javascript"); script.setAttribute("src", "//partnerzyapi.ceneo.pl/External/ap.js?"+stamp); script.setAttribute("charset", "utf-8"); var head = document.getElementsByTagName("head")[0]; head.appendChild(script); } CeneoAPOptions[CeneoAPOptions.length] = { ad_creation: 36299, ad_channel: 7705, ad_partner: 5958, ad_type: 3, ad_content: '33288431,2395917,1380187,26444664', ad_format: 1, ad_newpage: true, ad_basket: true, ad_container: 'ceneoaffcontainer36299', ad_formatTypeId: 1, ad_contextual: false, ad_recommended: false }; // ]]></script>
 
@@ -55,6 +55,6 @@ Jakie jest Twój sposób na przełożenie pizzy z łopatki na kamień i w drugą
 
 ## Zobacz które produkty rekomenduję
 
-[![Ceneo](./images/ap-logo-transparent-small.png)](http://www.ceneo.pl/#pid=5958&crid=36301&cid=7705 "Ceneo") 
+[![Ceneo](ap-logo-transparent-small.png)](http://www.ceneo.pl/#pid=5958&crid=36301&cid=7705 "Ceneo") 
 
 <script type="text/javascript" charset="utf-8">// <![CDATA[ if (typeof CeneoAPOptions == "undefined" || CeneoAPOptions == null) { var CeneoAPOptions = new Array(); stamp = parseInt(new Date().getTime()/86400, 10); var script = document.createElement("script"); script.setAttribute("type", "text/javascript"); script.setAttribute("src", "//partnerzyapi.ceneo.pl/External/ap.js?"+stamp); script.setAttribute("charset", "utf-8"); var head = document.getElementsByTagName("head")[0]; head.appendChild(script); } <div></div> CeneoAPOptions[CeneoAPOptions.length] = { ad_creation: 36301, ad_channel: 7705, ad_partner: 5958, ad_type: 3, ad_content: '6754864,10200823,36965956,39237890,39237891', ad_format: 1, ad_newpage: true, ad_basket: true, ad_container: 'ceneoaffcontainer36301', ad_formatTypeId: 1, ad_contextual: false, ad_recommended: false }; // ]]></script>

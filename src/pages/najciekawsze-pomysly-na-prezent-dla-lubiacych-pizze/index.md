@@ -1,13 +1,13 @@
 ---
-title: "Najciekawsze pomysły na prezent dla lubiących pizzę"
-date: "2014-10-29T21:01:21.000Z"
+title: Najciekawsze pomysły na prezent dla lubiących pizzę
+date: 2014-10-29T21:01:21.000Z
 categories: 
-  - "akcesoria"
+  - akcesoria
 ---
 
 Tak się zastanawiałem jaki jest najciekawszy pomysł na prezent dla lubiących piec domową pizzę… W sumie święta już za pasem, może warto się zastanowić co można podarować fanowi włosko-pizzerskich klimatów? Mam kilka ciekawych propozycji.
 
-![Kamień do pizzy Kuchenprofi](./images/kamien-do-pizzy-kuchenprofi-300x300.jpg)
+![Kamień do pizzy Kuchenprofi](kamien-do-pizzy-kuchenprofi-300x300.jpg)
 
 Kamień do pizzy Kuchenprofi
 
@@ -23,7 +23,7 @@ W cenie 100-150 zł możesz znaleźć kamienie do pizzy, które będą pasowały
 
 [Kamień do pizzy na Ceneo](http://www.ceneo.pl/12797711#cid=7705&pid=5958)
 
-![Nożyce kuchenne Lurch](./images/i-lurch-nozyce-kuchenne-uniwersalne-lu-00010019-158x300.jpg)
+![Nożyce kuchenne Lurch](i-lurch-nozyce-kuchenne-uniwersalne-lu-00010019-158x300.jpg)
 
 Nożyce kuchenne Lurch
 
@@ -37,7 +37,7 @@ Pamiętaj, aby dokładnie osuszyć nożyce po użyciu.
 
  
 
-![Stojak do pizzy](./images/stojak-do-pizzy-300x201.jpg)
+![Stojak do pizzy](stojak-do-pizzy-300x201.jpg)
 
 Stojak do pizzy
 
@@ -71,7 +71,7 @@ Doskonale nadaje się również do przechowywania w lodówce osuszonej sałaty.
 
 Ten gadżet przydaje się nie tylko w przypadku sałaty na sałatkę, która towarzyszy obiadowi. Składnikiem wielu pizz jest również rukola, roszponka albo szpinak świeży w liściach.
 
-![Pizza w rożku](./images/pizza-rozek-300x180.jpg)
+![Pizza w rożku](pizza-rozek-300x180.jpg)
 
 Pizza w rożku
 
@@ -81,7 +81,7 @@ Bardzo podoba mi się ten pomysł, aby serwować pizzę jak lody w rożku:-) Prz
 
 [http://7rano.com/post/101165691090/pizza-w-rozku](http://7rano.com/post/101165691090/pizza-w-rozku)
 
-![Literki na pizzy](./images/pizza-pomysl-na-prezent-300x201.jpg)
+![Literki na pizzy](pizza-pomysl-na-prezent-300x201.jpg)
 
 Literki na pizzy
 

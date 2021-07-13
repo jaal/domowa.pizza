@@ -1,10 +1,10 @@
 ---
-title: "Jak mrozić ciasto na pizzę?"
-date: "2015-05-31T09:08:58.000Z"
+title: Jak mrozić ciasto na pizzę?
+date: 2015-05-31T09:08:58.000Z
 categories: 
-  - "inne"
-  - "porady"
-featuredImage: "./images/ciasto_na_pizze_2.jpg"
+  - inne
+  - porady
+featuredImage: ciasto_na_pizze_2.jpg
 ---
 
 Piszę o bardzo praktycznym temacie, który może Ci zaoszczędzić nawet do pół godziny przy przygotowywaniu na obiad pizzy oraz pozwoli na zrobienie pizzy nawet w środku tygodnia. Często mrożę pizzę. W sumie to zawsze mam odłożoną kulkę albo dwie ciasta tak „na wszelki wypadek”. Dzięki temu mogę zrobić pizzę naprawdę szybko - nawet w 40 minut w środku tygodnia.

@@ -1,17 +1,17 @@
 ---
-title: "Pizza z rukolą, szynką parmeńska i parmezanem"
-date: "2014-09-05T20:24:37.000Z"
+title: Pizza z rukolą, szynką parmeńska i parmezanem
+date: 2014-09-05T20:24:37.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwki"
-  - "oregano"
-  - "parmezan"
-  - "rukola"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka-parmenska"
-featuredImage: "./images/DSC07023.jpg"
+  - oliwki
+  - oregano
+  - parmezan
+  - rukola
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka-parmenska
+featuredImage: DSC07023.jpg
 ---
 
 Polecam pizzę, która aż dymi od świeżości. Klucz do jej wyjątkowego smaku tkwi w składnikach. Wszystkie one kojarzą się mocno z Włochami. Zarówno rukola, szynka parmeńska czy parmezan to składniki wielu tradycyjnych potraw i dań z Półwyspu Apenińskiego. Czy można więc zrobić taką pizzę w domu?

@@ -1,14 +1,14 @@
 ---
-title: "Pizza ze szparagami, awokado i jajkiem"
-date: "2016-05-10T17:35:11.000Z"
+title: Pizza ze szparagami, awokado i jajkiem
+date: 2016-05-10T17:35:11.000Z
 categories: 
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "awokado"
-  - "jajko"
-  - "szparagi"
-featuredImage: "./images/pizza-ze-szparagami-awokado-jajkiem.jpg"
+  - awokado
+  - jajko
+  - szparagi
+featuredImage: pizza-ze-szparagami-awokado-jajkiem.jpg
 ---
 
 W maju i czerwcu królują u nas w domu szparagi. W sumie mamy jakieś 4 tygodnie, aby nacieszyć się szparagami na cały rok! Zrobiłem też pizzę ze szparagami i... ta pizza naprawdę mi się udała! I wizualnie i smakowo. Jest super prosta, super zdrowa, wegetariańska. Są na niej moje ulubione składniki, których nigdy nie mam dość: szparagi, awokado i jajka.

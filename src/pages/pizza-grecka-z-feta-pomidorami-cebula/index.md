@@ -1,16 +1,16 @@
 ---
-title: "Pizza grecka z fetą, pomidorami i cebulą"
-date: "2014-12-26T19:20:10.000Z"
+title: Pizza grecka z fetą, pomidorami i cebulą
+date: 2014-12-26T19:20:10.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "cebula"
-  - "oliwki"
-  - "oregano"
-  - "pomidor"
-  - "ser-feta"
-  - "sos-pomidorowy"
-featuredImage: "./images/DSC07407-e1420140369575.jpg"
+  - cebula
+  - oliwki
+  - oregano
+  - pomidor
+  - ser-feta
+  - sos-pomidorowy
+featuredImage: DSC07407-e1420140369575.jpg
 ---
 
 Czy jest możliwe połączenie kuchni grecki i włoskiej na jednym talerzu? Brzmi to idealnie - feta, pomidory, ogórki, cebula i oliwa na cieście do pizzy z sosem pomidorowym. Moja ukochana pizza i bardzo lubiana przeze mnie sałatka w jednej potrawie... Spróbowałem... i wyszło świetnie!

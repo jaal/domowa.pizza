@@ -1,11 +1,11 @@
 ---
-title: "Książka \"Domowy chleb w 12 minut\""
-date: "2020-10-08T18:15:43.000Z"
+title: Książka \"Domowy chleb w 12 minut\"
+date: 2020-10-08T18:15:43.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
-![Książka "Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb"](./images/okladka_internet_small.jpg)
+![Książka "Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb"](okladka_internet_small.jpg)
 
 \[wce\_code id=20\]
 
@@ -15,7 +15,7 @@ Hej, nazywam się Olek i lubię gotować, zwłaszcza dla rodziny i przyjaciół.
 
 ## Dlaczego w ogóle zacząłem piec domowy chleb?
 
-![](./images/75-2-225x300.jpg)
+![](75-2-225x300.jpg)
 
 Moja przygoda z chlebem zaczęła się w lutym 2012 roku. Zaczęła się bardziej z głębokiej potrzeby niż chęci. Pół roku wcześniej dostałem zalecenie od lekarza i od dietetyka, że powinienem zacząć zwracać uwagę na to co jem. Niewłaściwe odżywianie się było przyczyną moich kłopotów zdrowotnych. Rozwiązaniem było zacząć się prawidłowo odżywiać.
 
@@ -25,7 +25,7 @@ W tamtym okresie po raz pierwszy zacząłem się zastanawiać dlaczego niektóre
 
 Żeby nie było, że rzucam słowa na wiatr, zrobiłem zdjęcia listy składników kilku chlebów w supermarkecie jednej z sieci. Jak widać, daleko im do czterech składników.
 
-![](./images/IMG_20190930_162401-225x300.jpg) ![](./images/IMG_20190930_162424-225x300.jpg) ![](./images/IMG_20190930_162504-225x300.jpg)
+![](IMG_20190930_162401-225x300.jpg) ![](IMG_20190930_162424-225x300.jpg) ![](IMG_20190930_162504-225x300.jpg)
 
 ## Pierwszy chleb
 
@@ -43,7 +43,7 @@ Po kilku próbach zacząłem łapać w czym rzecz. Chleb zaczął być coraz pro
 
 W niedługim czasie przekonałem się, że domowy chleb jest prosty, szybki, tani i zdrowy. Co więcej, wypracowałem sposób, aby go zrobić w 12 minut czasu mojej pracy. Od 2012 roku wyszło spod moich rąk ponad 1000 upieczonych bochenków domowego chleba.
 
-Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](./images/DSC_0864-1-1024x681.jpg) \[wce\_code id=20\]
+Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](DSC_0864-1-1024x681.jpg) \[wce\_code id=20\]
 
 ## Z czym mi się kiedyś kojarzył domowy chleb?
 
@@ -65,7 +65,7 @@ Moją obietnicą w tej książce jest pokazanie, że domowy chleb jest:
 - szybki
 - tani
 
-Książka zawiera przepis na tradycyjny chleb, zwany też ze względu na swój okrągły kształt wiejskim lub bochnem, który można zrobić w 12 minut. Oczywiście, nie będę Cię oszukiwał, że chleb wyrośnie lub upiecze się w 12 minut. To niemożliwe. Dobry chleb musi swoje odstać. Obiecuję, że na jego przygotowanie nie zejdzie więcej niż 12 minut Twojego czasu pracy. ![](./images/DSC_0853-1024x681.jpg)
+Książka zawiera przepis na tradycyjny chleb, zwany też ze względu na swój okrągły kształt wiejskim lub bochnem, który można zrobić w 12 minut. Oczywiście, nie będę Cię oszukiwał, że chleb wyrośnie lub upiecze się w 12 minut. To niemożliwe. Dobry chleb musi swoje odstać. Obiecuję, że na jego przygotowanie nie zejdzie więcej niż 12 minut Twojego czasu pracy. ![](DSC_0853-1024x681.jpg)
 
 ## Co znajdziesz w tej książce?
 

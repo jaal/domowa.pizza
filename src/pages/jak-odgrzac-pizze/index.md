@@ -1,9 +1,9 @@
 ---
-title: "Jak odgrzać pizzę?"
-date: "2014-11-09T21:59:08.000Z"
+title: Jak odgrzać pizzę?
+date: 2014-11-09T21:59:08.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/DSC07529.jpg"
+  - inne
+featuredImage: DSC07529.jpg
 ---
 
 Założę się, że każdy z nas został kiedyś z problemem „wczorajszej pizzy”. Zrobisz więcej, więc zostanie na kolejny dzień i nie wiadomo jak to podgrzać, aby dało się jeść.
@@ -55,7 +55,7 @@ Obserwuj dobrze pizzę przy kilku pierwszych odgrzaniach, aby jej nie przypalić
 
 ## 2. Jak odgrzać pizzę na patelni?
 
-![Odgrzewanie pizzy na patelnii](./images/DSC07173-300x200.jpg)
+![Odgrzewanie pizzy na patelnii](DSC07173-300x200.jpg)
 
 Odgrzewanie pizzy na patelni
 

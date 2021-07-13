@@ -1,19 +1,19 @@
 ---
-title: "Pizza z dynią i prażoną cebulą"
-date: "2015-01-05T21:56:18.000Z"
+title: Pizza z dynią i prażoną cebulą
+date: 2015-01-05T21:56:18.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "czerwona-cebula"
-  - "dynia"
-  - "oliwa-z-oliwek"
-  - "oregano"
-  - "pieprz"
-  - "ser-parmezan"
-  - "sol-morska"
-  - "sos-pomidorowy"
-featuredImage: "./images/2014-12-12-16.50.42-e1420322430513.jpg"
+  - czarne-oliwki
+  - czerwona-cebula
+  - dynia
+  - oliwa-z-oliwek
+  - oregano
+  - pieprz
+  - ser-parmezan
+  - sol-morska
+  - sos-pomidorowy
+featuredImage: 2014-12-12-16.50.42-e1420322430513.jpg
 ---
 
 Jak pierwszy raz zobaczyłem tę pizzę, od razu sobie pomyślałem “jeśli smakuje tak dobrze, jak wygląda to mam hit”. Pizza była po prostu multikolorowa! Pomarańczowa dynia, fioletowa cebula, czerwony sos pomidorowy, czarne oliwki i to wszystko na chrupiącym i cienkim cieście… Wegetariańskie mniam, mniam! Chyba nie mogłem trafić lepiej?:-)

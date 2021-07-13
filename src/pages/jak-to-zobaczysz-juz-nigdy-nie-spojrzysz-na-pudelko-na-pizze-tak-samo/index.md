@@ -1,8 +1,8 @@
 ---
-title: "Jak to zobaczysz, już nigdy nie spojrzysz na pudełko na pizzę tak samo…"
-date: "2015-04-26T20:36:46.000Z"
+title: Jak to zobaczysz, już nigdy nie spojrzysz na pudełko na pizzę tak samo…
+date: 2015-04-26T20:36:46.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 To takie proste i takie genialne! Nigdy nie sądziłem, że powiem coś takiego o pudełku na pizzę. W jednym pudełku aż trzy zastosowania, z czego dwa zupełnie innowacyjne! Po tym filmiku nie spojrzysz już na pudełko na pizzę  tak samo...

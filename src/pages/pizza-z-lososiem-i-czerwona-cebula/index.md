@@ -1,9 +1,9 @@
 ---
-title: "Pizza z łososiem i czerwoną cebulą"
-date: "2016-03-01T07:16:03.000Z"
+title: Pizza z łososiem i czerwoną cebulą
+date: 2016-03-01T07:16:03.000Z
 categories: 
-  - "przepis-na-pizze"
-featuredImage: "./images/pizza-z-lososiem-cebula.jpg"
+  - przepis-na-pizze
+featuredImage: pizza-z-lososiem-cebula.jpg
 ---
 
 Lekko słony wędzony łosoś oraz pikantna i delikatnie słodka czerwona cebula z sosem pomidorowym pod kremową i mięciutką mozzarellą na miękkim i chrupiącym cieście smakuje rewelacyjnie. Wiem, że trochę odpłynąłem w tym opisie, bo to przecież tylko pizza. Warto spróbować!

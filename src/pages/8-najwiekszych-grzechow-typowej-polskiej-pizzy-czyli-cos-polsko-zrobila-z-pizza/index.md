@@ -1,8 +1,8 @@
 ---
-title: "8 największych grzechów typowej polskiej pizzy - czyli coś Polsko zrobiła z pizzą?"
-date: "2014-11-17T22:05:01.000Z"
+title: 8 największych grzechów typowej polskiej pizzy - czyli coś Polsko zrobiła z pizzą?
+date: 2014-11-17T22:05:01.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 Jeśli masz więcej niż dwadzieścia lat, pewnie masz gdzieś w pamięci obraz jednych z pierwszych wizyt w polskiej pizzerii. Polska gastronomia dopiero uczyła się nowej mody na pizzę i popełniała błędy, które w raz z upływem lat stały się naszymi przyzwyczajeniami i tradycjami.

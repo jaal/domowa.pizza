@@ -1,9 +1,9 @@
 ---
-title: "Przepis na domowy chleb na zakwasie w 14 minut"
-date: "2020-04-01T21:33:21.000Z"
+title: Przepis na domowy chleb na zakwasie w 14 minut
+date: 2020-04-01T21:33:21.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/przepis-na-domowy-chleb-na-zakwasie-w-14-minut.jpeg"
+  - inne
+featuredImage: przepis-na-domowy-chleb-na-zakwasie-w-14-minut.jpeg
 ---
 
 Chyba po prostu lubię być w mące ubrudzony ;-) Oprócz pieczenia pizzy piekę też chleb - robię to regularnie 2-3 razy w tygodniu. Składniki w sumie są te same - mąka, woda, drożdże i sól, tylko proces inny.

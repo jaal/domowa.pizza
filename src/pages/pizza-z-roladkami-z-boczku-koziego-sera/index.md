@@ -1,17 +1,17 @@
 ---
-title: "Pizza z roladkami z boczku i koziego sera"
-date: "2015-01-08T09:24:22.000Z"
+title: Pizza z roladkami z boczku i koziego sera
+date: 2015-01-08T09:24:22.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "czarne-oliwki"
-  - "ocet-balsamiczny"
-  - "oregano"
-  - "rukola"
-  - "ser-kozi"
-  - "sos-pomidorowy"
-featuredImage: "./images/DSC_0170-e1420666008677.jpg"
+  - boczek
+  - czarne-oliwki
+  - ocet-balsamiczny
+  - oregano
+  - rukola
+  - ser-kozi
+  - sos-pomidorowy
+featuredImage: DSC_0170-e1420666008677.jpg
 ---
 
 Jestem wielkim fanem koziego sera. Lubię jego wyrazisty smak i to, że jest zdrowy, zdrowszy niż mleko pochodzenia krowiego.

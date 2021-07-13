@@ -1,15 +1,15 @@
 ---
-title: "Pizza ze szpinakiem i kiełbasą"
-date: "2014-10-04T09:20:35.000Z"
+title: Pizza ze szpinakiem i kiełbasą
+date: 2014-10-04T09:20:35.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwki"
-  - "oregano"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szpinak"
-featuredImage: "./images/DSC07088-e1415389900231.jpg"
+  - oliwki
+  - oregano
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szpinak
+featuredImage: DSC07088-e1415389900231.jpg
 ---
 
 ## Sprawdź przepis na pizzę z kiełbasą i szpinakiem
@@ -52,7 +52,7 @@ Na przygotowane ciasto nałóż sos pomidorowy. Najlepiej to zrobić chochlą, a
 
 W niecałe 40 minut po zakupach w Biedronce masz zrobioną pyszną pizzę ze szpinakiem i kiełbasą.
 
-![Pizza ze szpinakiem i kiełbasą](./images/DSC07088-1024x685.jpg)
+![Pizza ze szpinakiem i kiełbasą](DSC07088-1024x685.jpg)
 
 Pizza ze szpinakiem i kiełbasą
 

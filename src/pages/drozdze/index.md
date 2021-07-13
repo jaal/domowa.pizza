@@ -1,15 +1,15 @@
 ---
-title: "Jakie drożdże do pizzy?"
-date: "2015-01-16T19:15:05.000Z"
+title: Jakie drożdże do pizzy?
+date: 2015-01-16T19:15:05.000Z
 categories: 
-  - "skladniki"
+  - skladniki
 tags: 
-  - "ciasto-na-pizze-przepis-drozdze"
-  - "drozdze"
-  - "drozdze-instant-a-swieze"
-  - "drozdze-suszone"
-  - "jakie-drozdze-do-pizzy"
-featuredImage: "./images/2015-01-10-13.36.23.jpg"
+  - ciasto-na-pizze-przepis-drozdze
+  - drozdze
+  - drozdze-instant-a-swieze
+  - drozdze-suszone
+  - jakie-drozdze-do-pizzy
+featuredImage: 2015-01-10-13.36.23.jpg
 ---
 
 Jakie drożdże najlepiej użyć do pizzy? Drożdże suszone, świeże a może instant. Dowiedz się wszystkiego czego potrzebujesz na temat drożdży do pizzy. Każde z nich mają swoje wady i zalety.

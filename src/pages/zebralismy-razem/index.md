@@ -1,8 +1,8 @@
 ---
-title: "Zebraliśmy razem..."
-date: "2016-11-28T21:34:26.000Z"
+title: Zebraliśmy razem...
+date: 2016-11-28T21:34:26.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 Hejka,

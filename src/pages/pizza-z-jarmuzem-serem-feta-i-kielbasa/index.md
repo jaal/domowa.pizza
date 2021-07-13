@@ -1,16 +1,16 @@
 ---
-title: "Pizza z jarmużem, serem feta i kiełbasą"
-date: "2015-08-15T06:29:58.000Z"
+title: Pizza z jarmużem, serem feta i kiełbasą
+date: 2015-08-15T06:29:58.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "jarmuz"
-  - "kielbasa"
-  - "oregano"
-  - "ser-feta"
-  - "sos-pomidorowy"
-featuredImage: "./images/pizza-jarmuz-ser-kozi-kielbasa.jpg"
+  - czarne-oliwki
+  - jarmuz
+  - kielbasa
+  - oregano
+  - ser-feta
+  - sos-pomidorowy
+featuredImage: pizza-jarmuz-ser-kozi-kielbasa.jpg
 ---
 
 Ciekawe wyszło mi to połączenie. Lekko słonawa feta, chrupiący jarmuż i aromatyczna zapieczona kiełbasa dały radę. Nie chcę mówić, że ta pizza to bomba zdrowia, ale zadbałem o to, aby kiełbasa była dobrej jakości, ser feta był z mleka owczego, a jarmuż świeży, więc na pewno wyjdziesz na tej pizzy dobrze:-) Taka pizza z jarmużem to prawie bomba zdrowia.

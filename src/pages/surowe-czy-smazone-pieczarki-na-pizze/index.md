@@ -1,9 +1,9 @@
 ---
-title: "Surowe czy smażone pieczarki na pizzę?"
-date: "2015-05-20T20:40:19.000Z"
+title: Surowe czy smażone pieczarki na pizzę?
+date: 2015-05-20T20:40:19.000Z
 categories: 
-  - "porady"
-featuredImage: "./images/DSC07619.jpg"
+  - porady
+featuredImage: DSC07619.jpg
 ---
 
 Skąd taki dylemat? Problemem jest to, że pieczarki puszczają wodę. Przez to pizza może wyjść wodnista i gąbiasta. Nie ma się co dziwić. Pieczarki składają się w nawet 90% z wody. Dlaczego puszczają wodę i jak temu zapobiec?

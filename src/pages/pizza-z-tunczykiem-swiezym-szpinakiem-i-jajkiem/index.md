@@ -1,16 +1,16 @@
 ---
-title: "Pizza z tuńczykiem, świeżym szpinakiem i jajkiem"
-date: "2015-05-25T20:19:08.000Z"
+title: Pizza z tuńczykiem, świeżym szpinakiem i jajkiem
+date: 2015-05-25T20:19:08.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "jajko"
-  - "oregano"
-  - "sos-pomidorowy"
-  - "swiezy-szpinak"
-  - "tunczyk"
-featuredImage: "./images/IMG_20150525_120428695.jpg"
+  - czarne-oliwki
+  - jajko
+  - oregano
+  - sos-pomidorowy
+  - swiezy-szpinak
+  - tunczyk
+featuredImage: IMG_20150525_120428695.jpg
 ---
 
 Bardzo lubię połączenie pomidor - szpinak - tuńczyk. Udało mi się dostać w Lidlu tuńczyka w zalewie z oliwy oraz świeży szpinak. Do tego dołożyłem sos pomidorowy oraz jajko i już! Multikolorowa pizza gotowa! Smakuje świetnie, lekko i wiosennie.

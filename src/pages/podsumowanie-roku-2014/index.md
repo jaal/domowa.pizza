@@ -1,8 +1,8 @@
 ---
-title: "Podsumowanie roku 2014"
-date: "2015-01-02T22:01:05.000Z"
+title: Podsumowanie roku 2014
+date: 2015-01-02T22:01:05.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 Zakończył się rok 2014 i zaczął się 2015. Chciałem w kilku zdaniach podsumować to, co minęło.

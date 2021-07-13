@@ -1,17 +1,17 @@
 ---
-title: "Sos z suszonych pomidorów"
-date: "2015-09-23T07:48:53.000Z"
+title: Sos z suszonych pomidorów
+date: 2015-09-23T07:48:53.000Z
 categories: 
-  - "danie-weganskie"
-  - "danie-wegetarianskie"
-  - "przepis-na-sos"
+  - danie-weganskie
+  - danie-wegetarianskie
+  - przepis-na-sos
 tags: 
-  - "bazyli"
-  - "ocet-balsamiczny"
-  - "oliwa-z-oliwek"
-  - "suszone-pomidory"
-  - "tymianek"
-featuredImage: "./images/sos-suszone-pomidory.jpg"
+  - bazyli
+  - ocet-balsamiczny
+  - oliwa-z-oliwek
+  - suszone-pomidory
+  - tymianek
+featuredImage: sos-suszone-pomidory.jpg
 ---
 
 Sos z suszonych pomidorów - zastanawiałem się czy mogę mój sos z suszonych pomidorów nazywać sosem… bo jest tak prosty w przygotowaniu. Ale w końcu podkręca smak pizzy w znaczny sposób, więc mogę uznać:-)

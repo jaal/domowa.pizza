@@ -1,15 +1,15 @@
 ---
-title: "Pizza z boczkiem na śmietanie"
-date: "2014-09-08T20:50:44.000Z"
+title: Pizza z boczkiem na śmietanie
+date: 2014-09-08T20:50:44.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "cebula"
-  - "oliwki"
-  - "pieczarki"
-  - "ser-ementaler"
-  - "sos-smietanowy"
+  - boczek
+  - cebula
+  - oliwki
+  - pieczarki
+  - ser-ementaler
+  - sos-smietanowy
 ---
 
 Dla fanów boczku, przygotowałem przepis na wyśmienitą pizzę z boczkiem, śmietaną, cebulą i ementalerem. Pizza ma lekko słodkawy posmak, dzięki obecności słodkiego sera ementaler i śmietany, który świetnie się łączy z smakiem ciasta na pizzę. Jest po prostu mniam-mniam:-)

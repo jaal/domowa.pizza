@@ -1,13 +1,13 @@
 ---
-title: "Pizza z pesto, boczkiem i serem kozim"
-date: "2015-09-09T07:54:06.000Z"
+title: Pizza z pesto, boczkiem i serem kozim
+date: 2015-09-09T07:54:06.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "ser-kozi"
-  - "sos-pesto"
-featuredImage: "./images/pizza-pesto-boczek-ser-kozi.jpg"
+  - boczek
+  - ser-kozi
+  - sos-pesto
+featuredImage: pizza-pesto-boczek-ser-kozi.jpg
 ---
 
 Boczek na pizzy… jest pyszny. Jest taki słodki, tłuściutki i chrupiący. To taki mój wyrzut sumienia, który mam gdy jem i wiem, że moja pizza mogłaby być trochę zdrowsza bez boczku. W połączeniu z pesto - wychodzi pysznie. Czasami można sobie pozwolić na te boczkowe szaleństwo!

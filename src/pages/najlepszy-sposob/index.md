@@ -1,9 +1,9 @@
 ---
-title: "Mój najlepszy sposób na upieczenie idealnej domowej pizzy w 3 krokach"
-date: "2017-06-25T20:06:19.000Z"
+title: Mój najlepszy sposób na upieczenie idealnej domowej pizzy w 3 krokach
+date: 2017-06-25T20:06:19.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/pizza-caprese.jpg"
+  - inne
+featuredImage: pizza-caprese.jpg
 ---
 
 Często zadajcie pytanie, jak najlepiej ustawić domowy piekarnik, aby spód i góra były zrobione jak z pizzerii. Po wielu testach (idących już w setki upieczonych pizz) doszedłem do pewnego sposobu, którym chętnie się podzielę, a składa się on z 3 kroków.

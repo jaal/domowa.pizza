@@ -1,11 +1,11 @@
 ---
-title: "Sos śmietanowy"
-date: "2014-08-13T21:16:24.000Z"
+title: Sos śmietanowy
+date: 2014-08-13T21:16:24.000Z
 categories: 
-  - "przepis-na-sos"
+  - przepis-na-sos
 tags: 
-  - "smietana-do-zup-i-sosow"
-featuredImage: "./images/sos-kokosowy-do-pizzy.jpg"
+  - smietana-do-zup-i-sosow
+featuredImage: sos-kokosowy-do-pizzy.jpg
 ---
 
 Przepis na sos śmietanowy do pizzy - jak zrobić sos śmietanowy w 1 minutę. Pobierz darmowy PDF z 12 przepisami na sos do pizzy, w tym przepis na klasyczny sos pomidorowy, sos marinara, sos kokosowy czy curry. Poznasz również mniej kaloryczne wersje sosu śmietanowego.
@@ -20,7 +20,7 @@ W przypadku śmietany, nie może być to śmietana kwaśna (w tzw. kubeczku), po
 
 Ma dwie niebywałe przewagi nad tradycyjną śmietaną - bardzo ciężko jest ją zważyć oraz jest płynna. Przez to idealnie nadaje się do nałożenia na ciasto pizzy. Wystarczy polać bezpośrednio po cieście lub przelać do szklanki i wymieszać z dodatkami, o których piszę na końcu.
 
-Nie polecam śmietany 36% - z mojego doświadczenia jest za gęsta i za tłusta. W zupełności wystarczy "osiemnastka". Generalnie śmietana sama w sobie jest ciężka. W połączeniu z boczkiem, cebulą czy serem... no cóż, lżejsza nie jest. Dlatego w zupełności wystarczy 18%. ![Przepis na sos śmietanowy - śmietanka do zup i sosów](./images/przepis-na-sos-smietanowy-smietanka-laciata-18-do-zup-i-sosow-250ml-Full-300x300.jpg)
+Nie polecam śmietany 36% - z mojego doświadczenia jest za gęsta i za tłusta. W zupełności wystarczy "osiemnastka". Generalnie śmietana sama w sobie jest ciężka. W połączeniu z boczkiem, cebulą czy serem... no cóż, lżejsza nie jest. Dlatego w zupełności wystarczy 18%. ![Przepis na sos śmietanowy - śmietanka do zup i sosów](przepis-na-sos-smietanowy-smietanka-laciata-18-do-zup-i-sosow-250ml-Full-300x300.jpg)
 
 ## 2\. Podkręć smak sosu śmietanowego
 
@@ -55,7 +55,7 @@ Jeśli z jakiś powodów nie przepadasz za śmietaną, mam dla Ciebie dwie propo
 
 ### 3.1 Śmietana sojowa
 
- ![Śmietana sojowa](./images/smietana-sojowa-243x300.jpg) Jeśli szukasz czegoś zdrowszego niż śmietana do zup i sosów, skorzystaj ze śmietany na bazie soi. Sprawdza się szczególnie jeśli nie tolerujesz białka krowiego lub laktozy, albo jesteś wegetarianinem. Nie poczułem na pizzy różnicy pomiędzy śmietaną krowią i sojową.
+ ![Śmietana sojowa](smietana-sojowa-243x300.jpg) Jeśli szukasz czegoś zdrowszego niż śmietana do zup i sosów, skorzystaj ze śmietany na bazie soi. Sprawdza się szczególnie jeśli nie tolerujesz białka krowiego lub laktozy, albo jesteś wegetarianinem. Nie poczułem na pizzy różnicy pomiędzy śmietaną krowią i sojową.
 
 ### 3.2 Jogurt grecki
 

@@ -1,16 +1,16 @@
 ---
-title: "Pizza z serem kozim, śmietaną, pieczarkami i szynką parmeńską"
-date: "2015-03-24T21:43:15.000Z"
+title: Pizza z serem kozim, śmietaną, pieczarkami i szynką parmeńską
+date: 2015-03-24T21:43:15.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "jogurt-grecki"
-  - "pieczarki"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "sos-smietanowy"
-  - "szynka-parmenska"
-featuredImage: "./images/DSC07605.jpg"
+  - jogurt-grecki
+  - pieczarki
+  - ser-kozi
+  - ser-mozzarella
+  - sos-smietanowy
+  - szynka-parmenska
+featuredImage: DSC07605.jpg
 ---
 
 Ta pizzę jest zarazem lekko słodka od śmietany, lekko słona od szynki i wyrazista smakiem od sera koziego. Bardzo ją lubię, bo jest nietypowa w smaku i kolorze, bo kto widział białą i lekko słodkawą pizzę?;-) Kawałek pizzy na talerzu wygląda kapitalnie. Ostrzegam, pizzą najesz się mocno do syta, ponieważ ma na sobie 2 rodzaje sera, śmietanę i szynkę.

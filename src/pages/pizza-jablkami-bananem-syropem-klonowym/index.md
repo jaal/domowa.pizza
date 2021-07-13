@@ -1,16 +1,16 @@
 ---
-title: "Pizza z jabłkami, bananem i syropem klonowym"
-date: "2017-06-01T19:42:35.000Z"
+title: Pizza z jabłkami, bananem i syropem klonowym
+date: 2017-06-01T19:42:35.000Z
 categories: 
-  - "danie-wegetarianskie"
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - danie-wegetarianskie
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "banan"
-  - "jablko"
-  - "maslo"
-  - "syrop-klonowy"
-featuredImage: "./images/pizza-jablka-banany.jpg"
+  - banan
+  - jablko
+  - maslo
+  - syrop-klonowy
+featuredImage: pizza-jablka-banany.jpg
 ---
 
 Poznaj jedną z ulubionych pizzę moich dzieci. Najbardziej ulubiona to ta z… oliwą i tylko oliwą. Ta jest chyba druga w kolejności. Jak się może domyślać, jest trochę na słodko. Oto ona! Pizza z bananami, jabłkami i syropem klonowym na maśle. Dzieciaki wprost za nią przepadają i chętnie pomagają mi ją przyrządzać.

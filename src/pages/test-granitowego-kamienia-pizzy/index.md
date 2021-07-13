@@ -1,9 +1,9 @@
 ---
-title: "Test granitowego kamienia do pizzy"
-date: "2017-02-14T20:24:27.000Z"
+title: Test granitowego kamienia do pizzy
+date: 2017-02-14T20:24:27.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/kamien-granitowy-podstawki-pl.jpg"
+  - akcesoria
+featuredImage: kamien-granitowy-podstawki-pl.jpg
 ---
 
 Dostałem do testów kamień granitowy od firmy [artigiano.pl](https://artigiano.pl/), która zajmuje się między innymi produkcją akcesoriów do kuchni z kamienia, np. kamieni do pieczenia czy desek do krojenia. Kamień sprawdzam pod kątem tego jak dobrze nadaje się do pieczenia pizzy.
@@ -24,7 +24,7 @@ Dostałem do testów kamień granitowy od firmy [artigiano.pl](https://artigiano
 - Zamówienie przyszło solidnie zapakowane. Spodziewałem się znacznie większego i trudniejszego do transportu opakowania, ale paczka była „skompresowana” na tyle, że mogłem ją bez problemu przenieść pod pachą.
 - Pomimo tego, że kamień granitowy i stal do pieczenia ważą według producentów tyle samo, granit wydawał mi się lekko lżejszy.
 
-![Kamień granitowy do pizzy - widok z góry](./images/kamien-granitowy-podstawki-pl_2-201x300.jpg)
+![Kamień granitowy do pizzy - widok z góry](kamien-granitowy-podstawki-pl_2-201x300.jpg)
 
 Kamień granitowy do pizzy - widok z góry
 
@@ -57,19 +57,19 @@ Jak prawidłowo używać kamień granitowy? Jak wkładać na gorący kamień piz
 
 Zobacz kilka pizz, które zrobiłem na testowanym kamieniu.
 
-![Pizza z szarpaną wieprzowiną, musztardą i ogórkiem kiszonym](./images/pizza-pulled-pork-ogorek-musztarda-300x201.jpg)
+![Pizza z szarpaną wieprzowiną, musztardą i ogórkiem kiszonym](pizza-pulled-pork-ogorek-musztarda-300x201.jpg)
 
 Pizza z szarpaną wieprzowiną, musztardą i ogórkiem kiszonym
 
-![Pizza margherita](./images/pizza-margherita-300x207.jpg)
+![Pizza margherita](pizza-margherita-300x207.jpg)
 
 Pizza margherita
 
-![Pizza z gruszką, boczkiem, sosem miodowo-chrzanowym, makiem i kiełkami słonecznika](./images/pizza-miod-mak-gruszki-kielki-boczek-300x200.jpg)
+![Pizza z gruszką, boczkiem, sosem miodowo-chrzanowym, makiem i kiełkami słonecznika](pizza-miod-mak-gruszki-kielki-boczek-300x200.jpg)
 
 Pizza z gruszką, boczkiem, sosem miodowo-chrzanowym, makiem i kiełkami słonecznika
 
-![Pizza z suszonymi pomidorami, groszkiem, rukolą, słonecznikiem i sosem pomidorowym](./images/pizza-suszone-pomidory-slodki-groszek-rukola-300x201.jpg)
+![Pizza z suszonymi pomidorami, groszkiem, rukolą, słonecznikiem i sosem pomidorowym](pizza-suszone-pomidory-slodki-groszek-rukola-300x201.jpg)
 
 Pizza z suszonymi pomidorami, groszkiem, rukolą, słonecznikiem i sosem pomidorowym
 

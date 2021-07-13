@@ -1,9 +1,9 @@
 ---
-title: "Jaki ser wybrać do pizzy?"
-date: "2014-08-11T21:14:18.000Z"
+title: Jaki ser wybrać do pizzy?
+date: 2014-08-11T21:14:18.000Z
 categories: 
-  - "skladniki"
-featuredImage: "./images/ser_mozzarella.jpg"
+  - skladniki
+featuredImage: ser_mozzarella.jpg
 ---
 
 Jaki ser wybrać do pizzy? Czy jest to tylko i wyłącznie mozzarella? A może pizza smakuje również pysznie z innymi serami?
@@ -48,7 +48,7 @@ Jeśli nie jesteś totalnym leniwcem, nie kupuj już startego sera:-) Wyjdzie zd
 
 Możesz dostać również inne sery typu mozzarella, np. w dużej kulce bez zalewy albo po prostu na wagę w kostce. Jest on twardszy i ma mniej wody niż ser w zalewie. Również będą dobrym wyborem, o ile będzie to ser mozzarella:-)
 
-![Ser mozzarella w kulce bez zalewy](./images/2015-01-11-13.16.51-300x225.jpg)
+![Ser mozzarella w kulce bez zalewy](2015-01-11-13.16.51-300x225.jpg)
 
 Ser mozzarella w kulce bez zalewy
 
@@ -107,7 +107,7 @@ Rodzaj sera: **mozzarella w dużej kulce bez zalewy**
 
 W sumie to powinienem napisać szatkowanie lub miksowania na wióry. Jeśli masz ser w kulce bez zalewy, polecam wykorzystanie blendera z odpowiednią końcówką do szatkowania na plastry lub wióry. Ewentualnie możesz wykorzystać zwykłe ostrze Pokrój kulkę na dwie lub więcej części, tak aby zmieściły się do otworu w blenderze. Są duże szanse, że Twój ser będzie wyglądał mniej więcej tak.
 
-![Ser mozzarella po poszatkowaniu przez blender](./images/2015-01-11-13.21.16-300x225.jpg)
+![Ser mozzarella po poszatkowaniu przez blender](2015-01-11-13.21.16-300x225.jpg)
 
 Ser mozzarella po poszatkowaniu przez blender
 
@@ -160,7 +160,7 @@ Mleko kozie i jego przetwory są zdrowsze niż te na bazie mleka krowiego.
 
 ## 3\. Ser feta
 
-[![Feta Greece 2.jpg](./images/Feta_Greece_2.jpg)](http://upload.wikimedia.org/wikipedia/commons/c/c9/Feta_Greece_2.jpg) "[Feta Greece 2](http://commons.wikimedia.org/wiki/File:Feta_Greece_2.jpg#mediaviewer/File:Feta_Greece_2.jpg)". Licencja: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike 3.0") na podstawie [Wikimedia Commons](//commons.wikimedia.org/wiki/).
+[![Feta Greece 2.jpg](Feta_Greece_2.jpg)](http://upload.wikimedia.org/wikipedia/commons/c/c9/Feta_Greece_2.jpg) "[Feta Greece 2](http://commons.wikimedia.org/wiki/File:Feta_Greece_2.jpg#mediaviewer/File:Feta_Greece_2.jpg)". Licencja: [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/ "Creative Commons Attribution-Share Alike 3.0") na podstawie [Wikimedia Commons](//commons.wikimedia.org/wiki/).
 
 Jest to bałkański rodzaj sera, którego nazwa feta jest zastrzeżona tylko dla serów pochodzenia greckiego. Oryginalny ser feta powstaje głównie z mleka owczego z ewentualną domieszką mleka koziego.
 

@@ -1,14 +1,14 @@
 ---
-title: "Pizza z zapieczoną szynką parmeńską"
-date: "2015-07-03T09:51:44.000Z"
+title: Pizza z zapieczoną szynką parmeńską
+date: 2015-07-03T09:51:44.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka-parmenska"
-featuredImage: "./images/pizza-z-szynka-parmenska.jpg"
+  - oliwki
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka-parmenska
+featuredImage: pizza-z-szynka-parmenska.jpg
 ---
 
 Zwykle szynkę parmeńską daję na sam wierzch po wyciągnięciu pizzy z piekarnika. Bardziej mi odpowiada taki delikatna forma. Moja żona woli na odwrót, aby wędlina była mocno zapieczona. Ten przepis na pizzę jest z myślą o niej.

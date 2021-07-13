@@ -1,15 +1,15 @@
 ---
-title: "Sos sfincione"
-date: "2014-12-11T13:53:11.000Z"
+title: Sos sfincione
+date: 2014-12-11T13:53:11.000Z
 categories: 
-  - "przepis-na-sos"
+  - przepis-na-sos
 tags: 
-  - "anchois"
-  - "cebula"
-  - "kapary"
-  - "oliwa-z-oliwek"
-  - "pomidor"
-featuredImage: "./images/DSC_0121-e1418305610357.jpg"
+  - anchois
+  - cebula
+  - kapary
+  - oliwa-z-oliwek
+  - pomidor
+featuredImage: DSC_0121-e1418305610357.jpg
 ---
 
 To sos na bazie pomidorów i cebuli, który dodaje się do pizzy... sfincione;-) czyli tradycyjnej pizzy sycylijskiej. Pizza i sos pojawiły się w jednym z odcinków Masterchefa i stąd moje zainteresowanie. Wyszedł pysznie! Przygotujesz go w ok. 30 minut i składa się tak naprawdę w większości z cebuli i pomidorów. Zobacz jak przyrządzić!

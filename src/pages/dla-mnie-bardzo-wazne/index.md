@@ -1,9 +1,9 @@
 ---
-title: "To dla mnie bardzo ważne..."
-date: "2015-02-15T20:16:48.000Z"
+title: To dla mnie bardzo ważne...
+date: 2015-02-15T20:16:48.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/important.png"
+  - inne
+featuredImage: important.png
 ---
 
 Zwykle to ja piszę do Ciebie, ale tym razem chciałem, abyś to Ty napisał coś do mnie… To dla mnie bardzo ważne, ponieważ bardzo chciałbym pisać o rzeczach, które Cię interesują i rozwiązują Twoje problemy. Dlatego mam do Ciebie 3 pytania, które są dla mnie naprawdę ważne.

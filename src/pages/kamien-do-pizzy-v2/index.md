@@ -1,9 +1,9 @@
 ---
-title: "Kamień do pizzy"
-date: "2014-08-08T21:24:16.000Z"
+title: Kamień do pizzy
+date: 2014-08-08T21:24:16.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/kamien-do-pizzy.jpg"
+  - akcesoria
+featuredImage: kamien-do-pizzy.jpg
 ---
 
 Kamień do pizzy jest najważniejszy. Dowiedz się dlaczego oraz jak możesz go zdobyć za darmo. Sprawdź jak używać i konserwować kamień do pizzy.
@@ -66,7 +66,7 @@ Korzystam z prostokątnego, ponieważ moim zdaniem jest bardziej uniwersalny. Mo
 
 <a href="/kamien-kuchenprofi-ceneo" target="_blank" rel="noopener noreferrer">Osobiście używam kamienia Kuchenprofi</a>, który kupiłem w Aledobre. Jest to prostokątny kamień do pizzy, trochę większy niż tradycyjna pizza o średnicy 30 cm. Do kamienia dołączony jest metalowy stojak, który można wykorzystać do odkładania kamienia. Sprawdź ten <a href="/kamien-kuchenprofi-ceneo" target="_blank" rel="noopener noreferrer">kamień do pizzy na Ceneo</a>
 
-<a href="/kamien-kuchenprofi-ceneo"><img class="wp-image-141 size-medium" src="./images/kamien-do-pizzy-kuchenprofi-e1418493256807-300x213.jpg" alt="Kamień do pizzy Kuchenprofi" width="300" height="213"></a>
+<a href="/kamien-kuchenprofi-ceneo"><img class="wp-image-141 size-medium" src="kamien-do-pizzy-kuchenprofi-e1418493256807-300x213.jpg" alt="Kamień do pizzy Kuchenprofi" width="300" height="213"></a>
 
 Kamień do pizzy Kuchenprofi
 
@@ -74,7 +74,7 @@ Kamień do pizzy Kuchenprofi
 
 [Do pizzy przyda Ci się się również łopatka](http://www.ceneo.pl/10200823#cid=7705&pid=5958). Dzięki niej przeniesiesz gotową pizzę na kamień. Dlatego polecam łopatkę do pizzy Kuchenprofi. [Sprawdź łopatkę do pizzy na Ceneo](http://www.ceneo.pl/10200823#cid=7705&pid=5958)
 
-[![Łopatka do pizzy Kuchenprofi](./images/lopatka-do-pizzy-kuchenprofi-e1418493322969-300x195.jpg)](http://www.ceneo.pl/10200823#cid=7705&pid=5958)
+[![Łopatka do pizzy Kuchenprofi](lopatka-do-pizzy-kuchenprofi-e1418493322969-300x195.jpg)](http://www.ceneo.pl/10200823#cid=7705&pid=5958)
 
 Łopatka do pizzy Kuchenprofi
 

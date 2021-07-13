@@ -1,13 +1,13 @@
 ---
-title: "Dziękuję"
-date: "2016-02-09T09:29:13.000Z"
+title: Dziękuję
+date: 2016-02-09T09:29:13.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 ### Dziękuję za zostawienie swojego adresu e-mail :-)
 
-![To ja, Olek w mące ubrudzony](./images/autor-228x300.jpg)
+![To ja, Olek w mące ubrudzony](autor-228x300.jpg)
 
 Sprawdź pocztę, czeka tam na Ciebie wiadomość ode mnie, a w niej darmowy fragment mojej książki
 

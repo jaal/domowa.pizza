@@ -1,17 +1,17 @@
 ---
-title: "Pizza z sosem kokosowym, suszonymi pomidorami i słonecznikiem"
-date: "2015-08-05T06:03:25.000Z"
+title: Pizza z sosem kokosowym, suszonymi pomidorami i słonecznikiem
+date: 2015-08-05T06:03:25.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "czarne-oliwki"
-  - "oregano"
-  - "ser-mozzarella"
-  - "slonecznik"
-  - "sos-kokosowy"
-  - "suszone-pomidory"
-  - "tymianek"
-featuredImage: "./images/pizza.jpg"
+  - czarne-oliwki
+  - oregano
+  - ser-mozzarella
+  - slonecznik
+  - sos-kokosowy
+  - suszone-pomidory
+  - tymianek
+featuredImage: pizza.jpg
 ---
 
 Przypadł mi do gustu <a title="Przepis na sos kokosowy" href="/sos-kokosowy/">sos kokosowy</a> i poszedłem za ciosem. Przygotowałem pizzę z tym sosem właśnie, suszonymi pomidorami i słonecznikiem. A na koniec dla smaku, aromatu i wygląda dodałem świeżą bazylię. W piekarnika wyciągnąłem pizzę, z której jestem bardzo dumny.  

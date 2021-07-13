@@ -1,16 +1,16 @@
 ---
-title: "Pizza z wędzoną makrelą, kapustą kiszoną, dojrzewającym serem kozim i mozzarellą"
-date: "2019-02-23T20:40:36.000Z"
+title: Pizza z wędzoną makrelą, kapustą kiszoną, dojrzewającym serem kozim i mozzarellą
+date: 2019-02-23T20:40:36.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "kapusta-kiszona"
-  - "oliwa-z-oliwek"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "swiezo-zmielony-pieprz"
-  - "wedzona-makrela"
-featuredImage: "./images/pizza-z-makrela-ser-kozi-kapusta-kiszona.jpg"
+  - kapusta-kiszona
+  - oliwa-z-oliwek
+  - ser-kozi
+  - ser-mozzarella
+  - swiezo-zmielony-pieprz
+  - wedzona-makrela
+featuredImage: pizza-z-makrela-ser-kozi-kapusta-kiszona.jpg
 ---
 
 Robię ją ostatnio regularnie i się nie nudzi. Co więcej, kilka osób, które na początku były sceptycznie nastawione do tego połączenia, po spróbowaniu stwierdziły, że jest pyszna i ma potencjał. A więc - uprzedzenia precz ;-)

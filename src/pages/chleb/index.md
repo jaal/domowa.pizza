@@ -1,9 +1,9 @@
 ---
-title: "Książka o domowym chlebie w 12 minut za darmo"
-date: "2019-10-09T20:54:18.000Z"
+title: Książka o domowym chlebie w 12 minut za darmo
+date: 2019-10-09T20:54:18.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/chleb_small.jpg"
+  - inne
+featuredImage: chleb_small.jpg
 ---
 
 ## Dlaczego oddaję książkę za darmo?
@@ -20,7 +20,7 @@ Hej, nazywam się Olek i lubię gotować, zwłaszcza dla rodziny i przyjaciół.
 
 ## Dlaczego w ogóle zacząłem piec domowy chleb?
 
-![](./images/75-2-225x300.jpg)
+![](75-2-225x300.jpg)
 
 Moja przygoda z chlebem zaczęła się w lutym 2012 roku. Zaczęła się bardziej z głębokiej potrzeby niż chęci. Pół roku wcześniej dostałem zalecenie od lekarza i od dietetyka, że powinienem zacząć zwracać uwagę na to co jem. Niewłaściwe odżywianie się było przyczyną moich kłopotów zdrowotnych. Rozwiązaniem było zacząć się prawidłowo odżywiać.
 
@@ -30,7 +30,7 @@ W tamtym okresie po raz pierwszy zacząłem się zastanawiać dlaczego niektóre
 
 Żeby nie było, że rzucam słowa na wiatr, zrobiłem zdjęcia listy składników kilku chlebów w supermarkecie jednej z sieci. Jak widać, daleko im do czterech składników.
 
-![](./images/IMG_20190930_162401-225x300.jpg) ![](./images/IMG_20190930_162424-225x300.jpg) ![](./images/IMG_20190930_162504-225x300.jpg)
+![](IMG_20190930_162401-225x300.jpg) ![](IMG_20190930_162424-225x300.jpg) ![](IMG_20190930_162504-225x300.jpg)
 
 ## Pierwszy chleb
 
@@ -48,7 +48,7 @@ Po kilku próbach zacząłem łapać w czym rzecz. Chleb zaczął być coraz pro
 
 W niedługim czasie przekonałem się, że domowy chleb jest prosty, szybki, tani i zdrowy. Co więcej, wypracowałem sposób, aby go zrobić w 12 minut czasu mojej pracy. Od 2012 roku wyszło spod moich rąk ponad 1000 upieczonych bochenków domowego chleba.
 
-Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](./images/DSC_0864-1-1024x681.jpg)
+Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](DSC_0864-1-1024x681.jpg)
 
 ## Z czym mi się kiedyś kojarzył domowy chleb?
 
@@ -126,7 +126,7 @@ Gdy upiekłem domowy chleb i wyszedł mi naprawdę super, miałem trudną do opi
 
 Tak bardzo przyzwyczaiłem się do domowego chleba, że zapomniałem ile radości może on dawać osobom, które na co dzień takiego nie mają. Dla mnie to tylko 12 minut pracy i 2,40 zł za kilogram, a dla obdarowanego znacznie więcej. Pamiętam, że dawałem mój domowy chleb w kilku okazjach (ostatni dzień w pracy, grill u znajomych czy podziękowanie za pomoc) i byłem zaskoczony reakcją drugiej osoby. Przekonałem się ile może znaczyć taki upominek.
 
-## ![](./images/DSC_0853-1024x681.jpg)
+## ![](DSC_0853-1024x681.jpg)
 
 ## Jaki jest koszt upieczenia domowego chleba?
 
@@ -177,7 +177,7 @@ Napisałem książkę - ebooka o moim sposobie - "Domowy chleb w 12 minut". Tytu
 
 Wszystko zwięźle zebrane na 19 stronach w pliku PDF.
 
-<a href="/?edd_action=add_to_cart&amp;download_id=7641"><img class="aligncenter wp-image-7644 size-full" src="./images/okladka_internet_small.jpg" alt="Książka &quot;Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb&quot;" width="800" height="1280"></a>
+<a href="/?edd_action=add_to_cart&amp;download_id=7641"><img class="aligncenter wp-image-7644 size-full" src="okladka_internet_small.jpg" alt="Książka &quot;Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb&quot;" width="800" height="1280"></a>
 
 \[wce\_code id=22\]
 

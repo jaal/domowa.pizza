@@ -1,9 +1,9 @@
 ---
-title: "Pieczenie pizzy"
-date: "2014-09-07T18:49:00.000Z"
+title: Pieczenie pizzy
+date: 2014-09-07T18:49:00.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/jak-ustawic-piekarnik-e1418332402839.jpg"
+  - inne
+featuredImage: jak-ustawic-piekarnik-e1418332402839.jpg
 ---
 
 Prawie tak ważne jak przepis na ciasto i sos, jest pieczenie pizzy:-) Dlatego to jest trzeci kluczowy składnik udanej pizzy.

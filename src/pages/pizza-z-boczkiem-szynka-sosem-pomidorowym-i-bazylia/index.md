@@ -1,16 +1,16 @@
 ---
-title: "Pizza z boczkiem, szynką, sosem pomidorowym i bazylią"
-date: "2018-04-20T19:45:22.000Z"
+title: Pizza z boczkiem, szynką, sosem pomidorowym i bazylią
+date: 2018-04-20T19:45:22.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "bazylia"
-  - "boczek"
-  - "oliwa-z-oliwek"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka"
-featuredImage: "./images/pizza-z-boczkiem-szynka-mozzarella-sos-pomidorowy.jpg"
+  - bazylia
+  - boczek
+  - oliwa-z-oliwek
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka
+featuredImage: pizza-z-boczkiem-szynka-mozzarella-sos-pomidorowy.jpg
 ---
 
 Delikatne i chrupiące ciasto na zakwasie o zapachu świeżo pieczonego chleba, a na górę poszedł boczek, szynka, sos pomidorowy, mozzarella i bazylia. Nic więcej nie potrzeba do idealnej pizzy.

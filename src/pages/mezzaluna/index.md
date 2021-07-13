@@ -1,9 +1,9 @@
 ---
-title: "Mezzaluna"
-date: "2015-11-04T07:36:32.000Z"
+title: Mezzaluna
+date: 2015-11-04T07:36:32.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/mezzaluna.jpg"
+  - akcesoria
+featuredImage: mezzaluna.jpg
 ---
 
 Do krojenia pizzy generalnie polecam radełko. [Mam swoje ulubione, które polecam nawet bardziej niż inne](http://www.ceneo.pl/34251637#cid=7705&crid=36523&pid=5958). Ale możesz pokroić pizzę z użyciem innych akcesoriów, o których pisałem tu. Zaraz po radełku polecam mezzalunę. Oczywiście nie tą dużą o długości pół metra, którą używają w pizzeriach, ale jej mniejszy domowy odpowiednik o długości ok. 20 cm.

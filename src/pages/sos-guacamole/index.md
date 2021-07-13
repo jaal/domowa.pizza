@@ -1,14 +1,14 @@
 ---
-title: "Sos guacamole"
-date: "2015-02-10T19:40:18.000Z"
+title: Sos guacamole
+date: 2015-02-10T19:40:18.000Z
 categories: 
-  - "danie-weganskie"
-  - "danie-wegetarianskie"
-  - "przepis-na-sos"
+  - danie-weganskie
+  - danie-wegetarianskie
+  - przepis-na-sos
 tags: 
-  - "danie-weganskie"
-  - "danie-wegetarianskie"
-featuredImage: "./images/640px-Guacamole.jpg"
+  - danie-weganskie
+  - danie-wegetarianskie
+featuredImage: 640px-Guacamole.jpg
 ---
 
 Ten sos idealnie nadaje się do pizzy i do dań kuchni meksykańskiej lub teksańskiej (tex-mex). Oprócz tego świetnie smakuje na kanapkach, zamiast majonezu oraz jako przekąska na stostowanym chlebie. Opcji wykorzystania salsa guacamole jest wiele, a przy okazji jest bardzo prosty, szybki i niedrogi w przygotowaniu. Zrobisz go w 7 minut.

@@ -1,8 +1,8 @@
 ---
-title: "Jak zrobić pizzę na cienkim cieście?"
-date: "2014-08-30T20:34:06.000Z"
+title: Jak zrobić pizzę na cienkim cieście?
+date: 2014-08-30T20:34:06.000Z
 categories: 
-  - "przepis-na-ciasto"
+  - przepis-na-ciasto
 ---
 
 Zrobić pizzę na cienkim cieście to jest naprawdę sztuka! W Polsce jesteśmy przyzwyczajeni do pizzy na grubym spodzie. A gdyby tak zrobić pizzę w trochę bardziej włoskim celu? Jak upiec pizzę, której ciasto nie będzie twarde, ale będzie chrupiące, a w dodatku nie wyrośnie na 2 cm? Mam na to przepis:-)
@@ -31,7 +31,7 @@ Aby nie powstały bąble podczas pieczenia, ponakłuwaj ciasto widelcem przed na
 
 Oczywiście, jest do tego specjalny gadżet, który służy do szybkiego nakłuwania pizzy. Przydaje się jeśli robisz 5 pizz na godzinę przez 8 godzin dziennie:-) W innym przypadku skorzystaj ze zwykłego widelca.
 
-![Jak nakłuwać pizzę?](./images/ddo5-255x300.jpg) ![STARDK-10PT](./images/STARDK-10PT-300x213.jpg)
+![Jak nakłuwać pizzę?](ddo5-255x300.jpg) ![STARDK-10PT](STARDK-10PT-300x213.jpg)
 
 ## 6\. Piecz pizzę krótko w wysokiej temperaturze.
 

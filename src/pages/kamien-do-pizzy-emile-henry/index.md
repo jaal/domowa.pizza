@@ -1,9 +1,9 @@
 ---
-title: "Kamień do pizzy Emile Henry"
-date: "2015-08-11T07:44:07.000Z"
+title: Kamień do pizzy Emile Henry
+date: 2015-08-11T07:44:07.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/kamien-do-pizzy-emile-henry.jpg"
+  - akcesoria
+featuredImage: kamien-do-pizzy-emile-henry.jpg
 ---
 
 Śledząc rynek amerykański w temacie pizzy natknąłem się na ciekawy produkt. Pomyślałem, że mógłby mi pomoc w przygotowaniu lepszej domowej pizzy. Napisałem do producenta z pytaniem o możliwość przetestowania. Producent naprowadził mnie na polskiego dystrybutora, który udostępnił mi ten kamień dedykowany pieczeniu pizzy na grillu (też sprawdzi się w piekarniku).
@@ -36,15 +36,15 @@ featuredImage: "./images/kamien-do-pizzy-emile-henry.jpg"
 - Wyszło mi bardzo fajne ciasto. Było chrupiące, ale nie twarde. Na spodzie zrobiły się delikatne rowki, jak na prawdziwym grillu. Góra też była ok, nie za miękką, nie za twarda, trochę zapieczona. To pewnie dzięki temu, że zamknąłem grill.
 - Po użyciu kamienia należy pozostawić do ostygnięcia.
 
-![Pizza pieczona z dwóch stron na kamieniu Emile Henry](./images/kamien-do-pizzy-emile-henry-1-300x169.jpg)
+![Pizza pieczona z dwóch stron na kamieniu Emile Henry](kamien-do-pizzy-emile-henry-1-300x169.jpg)
 
 Pizza pieczona z dwóch stron na kamieniu Emile Henry
 
-![Spód pizzy po upieczeniu na kamieniu Emile Henry](./images/kamien-do-pizzy-emile-henry-2-300x169.jpg "Spód pizzy po upieczeniu na kamieniu Emile Henry")
+![Spód pizzy po upieczeniu na kamieniu Emile Henry](kamien-do-pizzy-emile-henry-2-300x169.jpg "Spód pizzy po upieczeniu na kamieniu Emile Henry")
 
 Spód pizzy po upieczeniu na kamieniu Emile Henry
 
-![Pizza pieczona z dwóch stron na kamieniu Emile Henry](./images/kamien-do-pizzy-emile-henry-3-300x169.jpg)
+![Pizza pieczona z dwóch stron na kamieniu Emile Henry](kamien-do-pizzy-emile-henry-3-300x169.jpg)
 
 Gotowa pizza z kamienia Emile Henry
 

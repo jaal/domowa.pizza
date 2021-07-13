@@ -1,14 +1,14 @@
 ---
-title: "Pizza z sosem curry"
-date: "2015-07-22T09:09:16.000Z"
+title: Pizza z sosem curry
+date: 2015-07-22T09:09:16.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "ananas"
-  - "czarne-oliwki"
-  - "oregano"
-  - "sos-curry"
-featuredImage: "./images/pizza-z-sosem-curry.jpg"
+  - ananas
+  - czarne-oliwki
+  - oregano
+  - sos-curry
+featuredImage: pizza-z-sosem-curry.jpg
 ---
 
 Sos curry świetnie pasuje do przypieczonego ciasta na pizzę, skarmelizowanego ananasa na górze i roztopionego sera mozzarella. Uwielbiam to połączenie! Mam nadzieję, że Tobie też posmakuje.

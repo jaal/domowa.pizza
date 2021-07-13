@@ -1,9 +1,9 @@
 ---
-title: "Piec do pieczenia pizzy Uuni 3"
-date: "2017-09-22T19:41:28.000Z"
+title: Piec do pieczenia pizzy Uuni 3
+date: 2017-09-22T19:41:28.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/pizza-uuni3_gotowa_2.jpg"
+  - inne
+featuredImage: pizza-uuni3_gotowa_2.jpg
 ---
 
 Od kiedy interesuję się pizzą na poważnie marzyła mi się pizza z pieca opalanego drewnem. Oglądając pracę pizzera lub filmy na Youtube, myślałem o tym jak wsuwam pizzę do pieca. W środku jest drewno, żar i kilkaset stopni Celsjusza. Za kilkadziesiąt sekund zaglądam do środka, obracam pizzę, żeby upiekła się też z drugiej strony. Po niecałych dwóch minutach wyciągam parująca pizzę z delikatnymi śladami zwęglenia. Ciasto ma zapach drewna z którego pochodzi żar, który tę pizzę upiekł w kilkadziesiąt sekund w temperaturze kilkuset stopni. Kropię oliwą i kroję. Ciasto z góry delikatnie pęka. Spód się dłużej opiera, ale puszcza pod naporem siły. Wyciągam „trójkącik” i kropię oliwą. Zjadam wykrojony kawałek. Nie patrzę na to, że gorąca i parzy podniebienie… po prostu jem.
@@ -29,7 +29,7 @@ Każde z nich ma wady o których pisałem powyżej i to jednak nie było to o cz
 
 To piec na pelet do pizzy, w postaci metalowej skrzynki z kominem, o wymiarach 22x36x67 cm i wadze ok. 13 kg.
 
-![Piec Uuni 3](./images/71%2BmfBimYVL._SL1500_.jpg)
+![Piec Uuni 3](71%2BmfBimYVL._SL1500_.jpg)
 
 Piec Uuni 3
 
@@ -58,23 +58,23 @@ Piec Uuni jest spakowany w karton. Proces składania jest bajecznie prosty i dob
 
 ## Jak wyglądają pizze z pieca Uuni 3?
 
-![Pizza z pieca Uuni 3](./images/pizza-uuni3_gotowa_3-300x225.jpg "Pizza z pieca Uuni 3")
+![Pizza z pieca Uuni 3](pizza-uuni3_gotowa_3-300x225.jpg "Pizza z pieca Uuni 3")
 
 Pizza z pieca Uuni 3
 
-![Pizza z pieca Uuni 3](./images/pizza-uuni3_gotowa_1-300x225.jpg)
+![Pizza z pieca Uuni 3](pizza-uuni3_gotowa_1-300x225.jpg)
 
 Pizza z pieca Uuni 3
 
-![Pizza z pieca Uuni 3](./images/pizza-uuni3_gotowa_6-300x225.jpg)
+![Pizza z pieca Uuni 3](pizza-uuni3_gotowa_6-300x225.jpg)
 
 Pizza z pieca Uuni 3
 
-![Pizza z pieca Uuni 3](./images/pizza-uuni3_gotowa_5-300x225.jpg)
+![Pizza z pieca Uuni 3](pizza-uuni3_gotowa_5-300x225.jpg)
 
 Pizza z pieca Uuni 3
 
-![Pizza z pieca Uuni 3](./images/pizza-uuni3_gotowa_4-300x225.jpg)
+![Pizza z pieca Uuni 3](pizza-uuni3_gotowa_4-300x225.jpg)
 
 Pizza z pieca Uuni 3
 
@@ -93,7 +93,7 @@ Generalnie wygląda to tak:
 4. Goście sami przygotowuję resztę
 5. (Ewentualnie) pomagam wrzucić pizzę do pieca
 
-![Stanowisko pracy](./images/pizza-uuni3_stanowisko-300x225.jpg)
+![Stanowisko pracy](pizza-uuni3_stanowisko-300x225.jpg)
 
 Stanowisko pracy
 

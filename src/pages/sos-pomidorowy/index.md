@@ -1,18 +1,18 @@
 ---
-title: "Sos pomidorowy"
-date: "2014-07-26T15:10:55.000Z"
+title: Sos pomidorowy
+date: 2014-07-26T15:10:55.000Z
 categories: 
-  - "przepis-na-sos"
+  - przepis-na-sos
 tags: 
-  - "bazylia"
-  - "cukier"
-  - "oliwa-z-oliwek"
-  - "pieprz"
-  - "pomidor"
-  - "puszka-pomidorow"
-  - "sol"
-  - "ziola-prowansalskie"
-featuredImage: "./images/DSC_0202-e1435398927946.jpg"
+  - bazylia
+  - cukier
+  - oliwa-z-oliwek
+  - pieprz
+  - pomidor
+  - puszka-pomidorow
+  - sol
+  - ziola-prowansalskie
+featuredImage: DSC_0202-e1435398927946.jpg
 ---
 
 Sos pomidorowy do pizzy - jest pyszny, pachnie bazylią i zrobisz go w 3 minuty bez gotowania. Poznaj 11 innych sosów do pizzy. Jak zrobić sos pomidorowy do pizzy? Potrzebujesz puszkę pomidorów i jedną rzecz, która zmienia wszystko - świeżą bazylię. Prócz tego kilka składników dostępnych w każdej kuchni i gotowe!
@@ -53,21 +53,21 @@ Jako, że pizza to w głównej mierze dobre ciasto i dobry sos pomidorowy, warto
 
 - W **Biedronce** znajdziesz pomidory marki _"Nasza Spiżarnia"_. Miałem wrażenie, że kiedyś miały mniej dodatków, teraz niestety więcej.
 
-![nasza-spizarnia-pomidory-w-puszce](./images/nasza-spizarnia-pomidory-w-puszce-203x300.jpg)
+![nasza-spizarnia-pomidory-w-puszce](nasza-spizarnia-pomidory-w-puszce-203x300.jpg)
 
 - Próbowałem też pomidorów w **Lidlu** od "_Nostia"_ - wydają mi się smaczniejsze od Naszej Spiżarni. Cenowo podobnie jak w Biedronce.
 
-![nostia-pomidory-w-puszce](./images/nostia-pomidory-w-puszce-e1420142647736-249x300.jpg)
+![nostia-pomidory-w-puszce](nostia-pomidory-w-puszce-e1420142647736-249x300.jpg)
 
  
 
 - W **Lidlu** pojawił się nowy rodzaj pomidorów w puszce - Freshona Polpa di pomodori. Nie posiadają cukru i soli, w przeciwieństwie do tych z Biedronki.
 
-![Pomidory w puszce Freshona](./images/2015-01-03-12.54.11-225x300.jpg)
+![Pomidory w puszce Freshona](2015-01-03-12.54.11-225x300.jpg)
 
 Pomidory w puszce Freshona
 
-![Pomidory w puszce Freshona - etykieta](./images/2015-01-03-12.54.23-225x300.jpg)
+![Pomidory w puszce Freshona - etykieta](2015-01-03-12.54.23-225x300.jpg)
 
 Pomidory w puszce Freshona - etykieta
 
@@ -75,7 +75,7 @@ Pomidory w puszce Freshona - etykieta
 
 - W **Kauflandzie** znalazłem całkiem spory wybór różnego rodzaju pomidorów i najbardziej do gustu przypadł pomidory w kawałkach firmy _"Mutti"_. Zawiera bardzo dużo pomidorów, mało soku i dodatków. Pomidory są krwiście  czerwone i smaczne. Jedynym minusem jest cena, ponieważ puszka oscyluje pomiędzy 4 a 5 zł.
 
-![mutti-pomidory-w-puszce](./images/mutti-pomidory-w-puszce-190x300.jpg)
+![mutti-pomidory-w-puszce](mutti-pomidory-w-puszce-190x300.jpg)
 
 ## 2\. Wykonanie
 
@@ -92,7 +92,7 @@ Polecam blender, ponieważ pozwala skrócić czas potrzebny na przygotowanie sos
 
 Jeśli lubisz bazylię dobrze posiekaną, do blendera najpierw wrzuć bazylię, dolej oliwę i zmiksuj, a następnie dodaj pozostałe składniki. Osobiście wolę gdy jest trochę większa i bardziej w kawałkach.
 
-![Sos pomidorowy do pizzy - z użyciem blendera](./images/2014-12-12-13.07.34-300x225.jpg)
+![Sos pomidorowy do pizzy - z użyciem blendera](2014-12-12-13.07.34-300x225.jpg)
 
 Sos pomidorowy do pizzy - z użyciem blendera
 
@@ -100,7 +100,7 @@ Sos pomidorowy do pizzy - z użyciem blendera
 
 Przepłucz bazylię, a następnie ją poszatkuj, a później przełóż do miski. Dorzuć tam pomidory z puszki, oliwę, sól, cukier, zioła prowansalskie i świeżo zmielony pieprz. Dobrze wymieszaj i gotowe.
 
-![Sos pomidorowy do pizzy](./images/2014-12-12-13.01.44-300x225.jpg)
+![Sos pomidorowy do pizzy](2014-12-12-13.01.44-300x225.jpg)
 
 Sos pomidorowy do pizzy - bez użycia blendera
 
@@ -128,11 +128,11 @@ Jeżeli nie masz blendera, który pomaga w szybkim przyrządzeniu sosu pomidorow
 
 Ta technika nazywa się chiffonade. Ułóż liście bazylii jeden na drugim, od największego do najmniejszego. Następnie zwiń je w rulon, tak aby wyglądały jak cygaro. Teraz bardzo łatwo będzie pokroić w cienkie paseczki. Na początku pewnie paseczki będą trochę grubsze, ale wraz z wprawą w krojeniu, będą coraz cieńsze. Jak widzisz na załączonych zdjęciach i filmiku nie zawsze wychodzą super cienkie:-)
 
-![Chiffonade - siekanie liście bazylii - układanie liście jeden na drugim](./images/2014-12-12-12.51.58-300x225.jpg)
+![Chiffonade - siekanie liście bazylii - układanie liście jeden na drugim](2014-12-12-12.51.58-300x225.jpg)
 
 Chiffonade - siekanie liście bazylii - układanie liście
 
-![Chffonade - siekanie liści bazylii](./images/2014-12-12-12.52.33-300x225.jpg)
+![Chffonade - siekanie liści bazylii](2014-12-12-12.52.33-300x225.jpg)
 
 Chffonade - siekanie liści bazylii
 
@@ -159,11 +159,11 @@ Oczywiście Twój sos nie musi być gładziutki, a taki będzie po zmiksowaniu w
 - Otwórz puszkę, włóż nóż do środka i potnij pomidory jeszcze w puszcze ruchami w poprzek puszki.
 - Weź sitko i naczynie pod sitko, wrzuć pomidory na sitko i poczekaj aż ociekną z zalewy. Następnie przełóż ocieknięte już pomidory na deskę i pokrój w średniej wielkości kawałki.
 
-![Sos pomidorowy - odsączanie pomidorów](./images/2014-12-12-12.27.31-300x225.jpg)
+![Sos pomidorowy - odsączanie pomidorów](2014-12-12-12.27.31-300x225.jpg)
 
 Sos pomidorowy - odsączanie pomidorów
 
-![Sos pomidorowy - krojenie pomidorów](./images/2014-12-12-12.28.42-300x225.jpg)
+![Sos pomidorowy - krojenie pomidorów](2014-12-12-12.28.42-300x225.jpg)
 
 Sos pomidorowy - krojenie pomidorów
 

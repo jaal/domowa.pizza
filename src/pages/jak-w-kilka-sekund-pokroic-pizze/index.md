@@ -1,10 +1,10 @@
 ---
-title: "Jak w kilka sekund pokroić pizzę na 4, 8, 10 czy 16 kawałków?"
-date: "2015-05-15T20:54:03.000Z"
+title: Jak w kilka sekund pokroić pizzę na 4, 8, 10 czy 16 kawałków?
+date: 2015-05-15T20:54:03.000Z
 categories: 
-  - "inne"
-  - "porady"
-featuredImage: "./images/radelko.jpg"
+  - inne
+  - porady
+featuredImage: radelko.jpg
 ---
 
 Na stole stoi Twoja wymarzona pizza, którą dopiero co upiekłeś. Mniam, mniam:-) Gości przy stole czekają na Twoją wymarzoną pizzę. Jeszcze tylko musisz ją pokroić... Ciasto nie chce się przekroić do końca. Składniki przesuwają jeżdżą po sosie. Ser przylepia się do noża. Generalnie jest dramat:-)
@@ -68,7 +68,7 @@ Nie wypowiadam się o skuteczności tego gadżetu, ponieważ nie korzystałem. J
 
 ## 5\. Radełko
 
-![Radełko Oxo z antyprzywieralną powłoką](./images/radelko-300x201.jpg)
+![Radełko Oxo z antyprzywieralną powłoką](radelko-300x201.jpg)
 
 Radełko Oxo z antyprzywieralną powłoką
 
@@ -110,13 +110,13 @@ Osobiście korzystam z  [radełka Oxo](http://www.leduvel.pl/sklep/oxo/noz-do
 
 1. Jak pokroić pizzę na 4, 8 i 16 kawałków?
     
-    ![Jak podzielić pizzę na 4, 8 i 16 kawałków](./images/jak-podzielic-pizze-4-8-16-kawalkow.jpg)
+    ![Jak podzielić pizzę na 4, 8 i 16 kawałków](jak-podzielic-pizze-4-8-16-kawalkow.jpg)
     
     Jak podzielić pizzę na 4, 8 i 16 kawałków
     
 2. Jak pokroić pizzę na 10 kawałków?
     
-    ![Jak podzielić pizzę na 10 kawałków](./images/jak-podzielic-pizze-10-kawalkow.jpg)
+    ![Jak podzielić pizzę na 10 kawałków](jak-podzielic-pizze-10-kawalkow.jpg)
     
     Jak podzielić pizzę na 10 kawałków
     

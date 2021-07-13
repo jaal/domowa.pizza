@@ -1,17 +1,17 @@
 ---
-title: "Pizza z cebulą, jajkiem i rukolą"
-date: "2016-04-24T19:53:41.000Z"
+title: Pizza z cebulą, jajkiem i rukolą
+date: 2016-04-24T19:53:41.000Z
 categories: 
-  - "danie-wegetarianskie"
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - danie-wegetarianskie
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "cebula-biala"
-  - "jajko"
-  - "rukola"
-  - "ser-mozzarella"
-  - "syrop-balsamiczny"
-featuredImage: "./images/pizza-z-jajkiem-rukola.jpg"
+  - cebula-biala
+  - jajko
+  - rukola
+  - ser-mozzarella
+  - syrop-balsamiczny
+featuredImage: pizza-z-jajkiem-rukola.jpg
 ---
 
 Pizza niby nic a w dodatku bez sosu, bo niby co to za składniki jajko czy cebula ;-) Wpadłem na nią przypadkiem gdy okazało się, że mam w lodówce tylko kilka składników jako tako nadających się na pizzę. Cebulę, jajka mam zawsze, rukolę dość często, a kulkę mozzarelli i ciasta zawsze trzymam w zamrażarce.

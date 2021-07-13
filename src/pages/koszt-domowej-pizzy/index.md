@@ -1,9 +1,9 @@
 ---
-title: "Ile tak naprawdę kosztuje domowa pizza?"
-date: "2016-04-03T06:00:19.000Z"
+title: Ile tak naprawdę kosztuje domowa pizza?
+date: 2016-04-03T06:00:19.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/teraz.jpg"
+  - inne
+featuredImage: teraz.jpg
 ---
 
 Przyszło Ci może do głowy ile kosztuje zrobienie na obiad domowej pizzy? Co się bardziej opłaca, upiec domową pizzę czy zamówić w pizzerii? Jak jest różnica w cenie?

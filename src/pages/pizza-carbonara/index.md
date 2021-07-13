@@ -1,18 +1,18 @@
 ---
-title: "Pizza carbonara"
-date: "2015-10-26T07:06:13.000Z"
+title: Pizza carbonara
+date: 2015-10-26T07:06:13.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "boczek"
-  - "czerwona-cebula"
-  - "jajko"
-  - "ser-kozi"
-  - "ser-mozzarella"
-  - "ser-parmezan"
-  - "sos-smietanowy"
-  - "swiezo-zmielony-pieprz"
-featuredImage: "./images/pizza-carbonara.jpg"
+  - boczek
+  - czerwona-cebula
+  - jajko
+  - ser-kozi
+  - ser-mozzarella
+  - ser-parmezan
+  - sos-smietanowy
+  - swiezo-zmielony-pieprz
+featuredImage: pizza-carbonara.jpg
 ---
 
 Uwielbiam pastę carbonara. To chyba przez to moje zboczenie na punkcie boczku. Gdyby nie to, że ma milion kalorii i ocieka tłuszczem, pewnie mógłbym ją wcinać co drugi dzień. A gdyby tak przełożyć ulubioną carbonarę na ulubioną pizzę? Przyjmuję wyzwanie!

@@ -1,21 +1,21 @@
 ---
-title: "Pizza wielkanocna"
-date: "2018-03-29T10:11:03.000Z"
+title: Pizza wielkanocna
+date: 2018-03-29T10:11:03.000Z
 categories: 
-  - "przepis-na-pizze"
-  - "przepis-na-sos"
+  - przepis-na-pizze
+  - przepis-na-sos
 tags: 
-  - "biala-kielbasa"
-  - "cebula"
-  - "jajko"
-  - "natka-pietruszki"
-  - "oliwa"
-  - "oliwa-z-oliwek"
-  - "sos-chrzanowo-zurkowy"
-  - "sos-chrzanowy"
-  - "swiezo-zmielony-pieprz"
-  - "szczypiorek"
-featuredImage: "./images/pizza-wielkanocna.jpg"
+  - biala-kielbasa
+  - cebula
+  - jajko
+  - natka-pietruszki
+  - oliwa
+  - oliwa-z-oliwek
+  - sos-chrzanowo-zurkowy
+  - sos-chrzanowy
+  - swiezo-zmielony-pieprz
+  - szczypiorek
+featuredImage: pizza-wielkanocna.jpg
 ---
 
 Nikogo nie zachęcam do przygotowania na wielkanocny stół pizzy zamiast tradycyjnego żurku czy kiełbasy. Ale gdyby w kolejne dni zostały gdzieś resztki ze świątecznych potraw, ta pizza pomoże je wykorzystać.

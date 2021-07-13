@@ -1,15 +1,15 @@
 ---
-title: "Pizza z duża ilością chili, ogórkiem kiszonym, natką pietruszki i szynką parmeńską"
-date: "2018-05-13T19:45:32.000Z"
+title: Pizza z duża ilością chili, ogórkiem kiszonym, natką pietruszki i szynką parmeńską
+date: 2018-05-13T19:45:32.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "chili"
-  - "natka-pietruszki"
-  - "ser-mozzarella"
-  - "sos-pomidorowy"
-  - "szynka-parmenska"
-featuredImage: "./images/pizza-chili-ogorki-szynka-pietruszka.jpg"
+  - chili
+  - natka-pietruszki
+  - ser-mozzarella
+  - sos-pomidorowy
+  - szynka-parmenska
+featuredImage: pizza-chili-ogorki-szynka-pietruszka.jpg
 ---
 
 Jej Wysokość Pieprzność! Pizza na cieście na zakwasie z duuuuuuuuużą ilością papryczek chili i świeżo zmielonego pieprzu na sosie pomidorowym, z ogórkiem kiszonym, szynką parmeńską, mozzarellą i natką pietruszki.

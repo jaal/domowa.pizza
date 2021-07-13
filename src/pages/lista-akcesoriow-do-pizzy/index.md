@@ -1,9 +1,9 @@
 ---
-title: "Lista akcesoriów do pieczenia domowej pizzy, których używam"
-date: "2018-03-23T19:54:33.000Z"
+title: Lista akcesoriów do pieczenia domowej pizzy, których używam
+date: 2018-03-23T19:54:33.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/lista-akcesoriow.jpg"
+  - akcesoria
+featuredImage: lista-akcesoriow.jpg
 ---
 
 Poznaj akcesoria do pizzy, które używam na co dzień i dzięki którym Twoja domowa pizza wejdzie na zupełnie nowy poziom. Dowiedz się gdzie najtaniej można je dostać. Jeśli jesteś zaradny, kupisz je za 40 zł. Wiele z nich służy mi latami! Zebrałem te najbardziej potrzebne akcesoria - zmienią w najwyższym stopniu Twoją pizzę i zaoszczędzą Ci czasu. Zresztą, jak widać na zdjęciu, noszą ślady częstego i solidnego korzystania. Co więcej, kupione raz służą przez wiele lat, praktycznie się nie niszcząc. Kamień do pizzy jest ze mną prawie od samego początku i przyżył już liczbę pizz mierzoną w setkach. Podobnie ze stalą do pieczenia, którą prawdopodobnie przekażę swoim dzieciom, a one swoim. Pozostałe akcesoria są na tyle tanie, że można jest szybko i małym kosztem zastąpić.

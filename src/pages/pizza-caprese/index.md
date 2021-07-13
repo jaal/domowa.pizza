@@ -1,17 +1,17 @@
 ---
-title: "Pizza Caprese"
-date: "2016-07-10T18:42:52.000Z"
+title: Pizza Caprese
+date: 2016-07-10T18:42:52.000Z
 categories: 
-  - "danie-wegetarianskie"
-  - "pizza-wegetarianska"
+  - danie-wegetarianskie
+  - pizza-wegetarianska
 tags: 
-  - "bazylia"
-  - "oliwa-z-oliwek"
-  - "pomidor"
-  - "ser-mozzarella"
-  - "sol"
-  - "swiezo-zmielony-pieprz"
-featuredImage: "./images/pizza-caprese.jpg"
+  - bazylia
+  - oliwa-z-oliwek
+  - pomidor
+  - ser-mozzarella
+  - sol
+  - swiezo-zmielony-pieprz
+featuredImage: pizza-caprese.jpg
 ---
 
 Lubię proste potrawy, takie na 4–5 składników. Staram się, aby moje pizze również takie były. Moim idealnym w swojej prostocie posiłkiem jest sałatka caprese: pomidory, mozzarella, bazylia, oliwa z oliwek, sól i pieprz. Jej smak ukryty jest w dobrej jakości składnikach. To muszą być najlepsze jakie możesz dostać pomidory, mają pachnieć, mieć mało ziarenek i wody, a dużo miąższu. Do tego idzie tłuściutka kremowa mozzarella. Na wierzch pachnąca bazylia o sprężystych liściach oraz oliwa z oliwek pełna smaku i aromatu. Mając to na uwadze, przygotowałem swoją pierwszą pizzę caprese.

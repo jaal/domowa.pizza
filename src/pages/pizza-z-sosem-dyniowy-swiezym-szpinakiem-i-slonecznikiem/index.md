@@ -1,19 +1,19 @@
 ---
-title: "Pizza z sosem dyniowy, świeżym szpinakiem i słonecznikiem"
-date: "2015-10-19T18:56:43.000Z"
+title: Pizza z sosem dyniowy, świeżym szpinakiem i słonecznikiem
+date: 2015-10-19T18:56:43.000Z
 categories: 
-  - "pizza-weganska"
-  - "pizza-wegetarianska"
-  - "przepis-na-pizze"
+  - pizza-weganska
+  - pizza-wegetarianska
+  - przepis-na-pizze
 tags: 
-  - "czerwona-cebula"
-  - "ser-mozzarella"
-  - "slonecznik"
-  - "sos-dyniowy"
-  - "swiezo-zmielony-pieprz"
-  - "swiezy-szpinak"
-  - "syrop-balsamiczny"
-featuredImage: "./images/pizza-sos-dyniowy-swiezy-szpinak.jpg"
+  - czerwona-cebula
+  - ser-mozzarella
+  - slonecznik
+  - sos-dyniowy
+  - swiezo-zmielony-pieprz
+  - swiezy-szpinak
+  - syrop-balsamiczny
+featuredImage: pizza-sos-dyniowy-swiezy-szpinak.jpg
 ---
 
 W sezonie na dynie nie mogę się powstrzymać od gotowania ile wlezie z dynią. Pizza z dynią nie jest wyjątkiem. Polecam wyjątkowo kolorową, lekką i wegetariańską pizzę z sosem dyniowym.

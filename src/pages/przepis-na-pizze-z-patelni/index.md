@@ -1,9 +1,9 @@
 ---
-title: "Przepis na pizzę z patelni"
-date: "2014-09-11T20:15:03.000Z"
+title: Przepis na pizzę z patelni
+date: 2014-09-11T20:15:03.000Z
 categories: 
-  - "przepis-na-ciasto"
-featuredImage: "./images/DSC07529.jpg"
+  - przepis-na-ciasto
+featuredImage: DSC07529.jpg
 ---
 
 Ok, a więc nie masz piekarnika:-) Zdarza się! Nie przejmuj się, zrobisz pizzę bez piekarnika. Jeśli masz piekarnik i chcesz poeksperymentować z patelnią, też mam na to fajny sposób. Jak zrobić pizzę z patelni?

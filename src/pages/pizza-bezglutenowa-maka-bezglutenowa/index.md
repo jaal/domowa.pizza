@@ -1,10 +1,10 @@
 ---
-title: "Przepis na ciasto na pizzę bezglutenowe na bazie mąki bezglutenowej"
-date: "2016-02-16T07:44:32.000Z"
+title: Przepis na ciasto na pizzę bezglutenowe na bazie mąki bezglutenowej
+date: 2016-02-16T07:44:32.000Z
 categories: 
-  - "pizza-bezglutenowa"
-  - "przepis-na-ciasto"
-featuredImage: "./images/pizza-bezglutenowa-maka-bezglutenowa.jpg"
+  - pizza-bezglutenowa
+  - przepis-na-ciasto
+featuredImage: pizza-bezglutenowa-maka-bezglutenowa.jpg
 ---
 
 Przepis na pizzę bezglutenową na bazie mąki bezglutenowej - poznaj przepis na ciasto i zrób pizzę bezglutenową.

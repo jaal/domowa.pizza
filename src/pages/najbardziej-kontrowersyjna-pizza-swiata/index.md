@@ -1,8 +1,8 @@
 ---
-title: "Poznaj historię twórcy najbardziej kontrowersyjnej pizzy świata"
-date: "2017-06-10T20:36:18.000Z"
+title: Poznaj historię twórcy najbardziej kontrowersyjnej pizzy świata
+date: 2017-06-10T20:36:18.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 8 czerwca 2017 roku w wieku 83 lat zmarł Sam Panopoulos, Kanadyjczyk greckiego pochodzenia. Gdy się o tym dowiedziałem i poznałem historię jego pizzy, pomyślałem sobie: ha! ale historia, cieszę się że ją stworzył, ciekawe czy kiedyś mi się uda zrobić taką pizzę, którą będzie jadł cały świat. Generalnie właściciele pizzerii powinni uczcić to minutą ciszy. Ta pizza znajduje się w menu większości pizzerii na świecie i uchodzi za... najbardziej kontrowersyjną…
@@ -20,6 +20,6 @@ Osobiście uwielbiam :-) #TeamPineapple Uwielbiam połączenia słodko (soczysto
 
 Panie i Panowie, oto pizza hawajska.
 
-![](./images/pizza-hawajska-s-1-300x168.jpg)
+![](pizza-hawajska-s-1-300x168.jpg)
 
 Jeśli ktoś ma ochotę, załączam mój przepis na pizzę hawajską w trzech wydaniach -> <a href="/pizza-hawajska/">https://domowa.pizza/pizza-hawajska/</a>

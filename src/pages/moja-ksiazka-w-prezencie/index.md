@@ -1,9 +1,9 @@
 ---
-title: "Moja książka w prezencie dla Ciebie"
-date: "2016-11-24T21:45:33.000Z"
+title: Moja książka w prezencie dla Ciebie
+date: 2016-11-24T21:45:33.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/fb_ads_1.jpg"
+  - inne
+featuredImage: fb_ads_1.jpg
 ---
 
 Hej!

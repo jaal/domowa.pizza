@@ -1,17 +1,17 @@
 ---
-title: "Pizza z papryką i szynką"
-date: "2015-06-07T20:34:42.000Z"
+title: Pizza z papryką i szynką
+date: 2015-06-07T20:34:42.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "kielbasa"
-  - "oliwki"
-  - "oregano"
-  - "papryka"
-  - "ser-mozzarella"
-  - "sos-pomi"
-  - "szynka"
-featuredImage: "./images/IMG_20150625_181558803.jpg"
+  - kielbasa
+  - oliwki
+  - oregano
+  - papryka
+  - ser-mozzarella
+  - sos-pomi
+  - szynka
+featuredImage: IMG_20150625_181558803.jpg
 ---
 
 To chyba jeden z najpopularniejszych klasyków, jeśli chodzi o pizzę. Połączenie papryki i szynki (lub kiełbasy) to standard w każdej pizzerii. Smakuje pewnie i dobrze, dlatego warto jej spróbować.

@@ -1,13 +1,13 @@
 ---
-title: "Szukasz pomysłu na sylwestrowe danie, które zachwyci Twoich znajomych?"
-date: "2014-12-31T10:33:25.000Z"
+title: Szukasz pomysłu na sylwestrowe danie, które zachwyci Twoich znajomych?
+date: 2014-12-31T10:33:25.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 Sylwester już tuż tuż! Jeśli szukasz fajnego pomysłu na potrawę, która świetnie się sprawdzi na sylwestrowym stole, polecam Ci stromboli, czyli roladę z pizzy. Bardzo dobrze pasuje jako mała przekąska do chwycenia w rękę, nie wymaga dużo pracy i możesz ją zrobić z ogólnodostępnych składników. <a title="Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy" href="/stromboli-czyli-rolada-z-pizzy/">Sprawdź przepis na stromboli z szynką i bazylią</a>.
 
-![Stromboli - idealna potrawa na sylwestrowy stół](./images/DSC07279-e1420016927394.jpg "Stromboli - idealna potrawa na sylwestrowy stół")
+![Stromboli - idealna potrawa na sylwestrowy stół](DSC07279-e1420016927394.jpg "Stromboli - idealna potrawa na sylwestrowy stół")
 
 Stromboli - idealna potrawa na sylwestrowy stół
 

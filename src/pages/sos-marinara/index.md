@@ -1,17 +1,17 @@
 ---
-title: "Sos marinara"
-date: "2015-03-28T13:22:04.000Z"
+title: Sos marinara
+date: 2015-03-28T13:22:04.000Z
 categories: 
-  - "danie-weganskie"
-  - "danie-wegetarianskie"
-  - "przepis-na-sos"
+  - danie-weganskie
+  - danie-wegetarianskie
+  - przepis-na-sos
 tags: 
-  - "bazylia"
-  - "cebula"
-  - "czosnek"
-  - "natka-pietruszki"
-  - "puszka-pomidorow"
-featuredImage: "./images/sos-marinara.jpg"
+  - bazylia
+  - cebula
+  - czosnek
+  - natka-pietruszki
+  - puszka-pomidorow
+featuredImage: sos-marinara.jpg
 ---
 
 Wyrazisty i lekko pikantny. Sos marinara jest prosty i szybki w przygotowaniu. Dodatkowo pobierz darmowy PDF z 12 innymi przepisami na sos do pizzy.

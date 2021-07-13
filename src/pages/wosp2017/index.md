@@ -1,9 +1,9 @@
 ---
-title: "Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy"
-date: "2017-01-10T19:43:28.000Z"
+title: Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy
+date: 2017-01-10T19:43:28.000Z
 categories: 
-  - "inne"
-featuredImage: "./images/olek.png"
+  - inne
+featuredImage: olek.png
 ---
 
 Hejka :-)
@@ -51,12 +51,12 @@ Aukcje trwają do ok. 18-19 stycznia 2017 roku. Zapraszam do licytowania >> **[h
 
 ### Tak może wyglądać Twoja pizza jeśli się postarasz
 
-![Pizza Margherita - przepis na pizzę Margherita](./images/pizza-margherita-300x201.jpg)
+![Pizza Margherita - przepis na pizzę Margherita](pizza-margherita-300x201.jpg)
 
 Pizza Margherita
 
 ### Tak może wyglądać Twoja pizza, jeśli nie będziesz słuchał tego co mówię ;-)
 
-![Moja pizza dawniej](./images/dawno-dawno-temu-300x225.jpg)
+![Moja pizza dawniej](dawno-dawno-temu-300x225.jpg)
 
 Pozdrawiam w mące ubrudzony, Olek

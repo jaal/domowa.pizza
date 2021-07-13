@@ -1,17 +1,17 @@
 ---
-title: "Pizza z szarpana wołowiną"
-date: "2018-02-18T21:19:39.000Z"
+title: Pizza z szarpana wołowiną
+date: 2018-02-18T21:19:39.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "mozzarella"
-  - "oliwa"
-  - "parmezan"
-  - "sos-pomidorowy"
-  - "swiezo-zmielony-pieprz"
-  - "szarpana-wieprzowina"
-  - "szarpana-wolowina"
-featuredImage: "./images/pizza-z-szarpana-wolowina.jpg"
+  - mozzarella
+  - oliwa
+  - parmezan
+  - sos-pomidorowy
+  - swiezo-zmielony-pieprz
+  - szarpana-wieprzowina
+  - szarpana-wolowina
+featuredImage: pizza-z-szarpana-wolowina.jpg
 ---
 
 Co zrobić gdy zostanie Ci z obiadu z poprzedniego dnia szarpana wołowina? Wrzuć ją na pizzę! Wyszło.

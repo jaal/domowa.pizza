@@ -1,15 +1,15 @@
 ---
-title: "Pizza z sosem pesto i pomidorami"
-date: "2014-09-14T19:23:21.000Z"
+title: Pizza z sosem pesto i pomidorami
+date: 2014-09-14T19:23:21.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "oliwki"
-  - "oregano"
-  - "pomidor"
-  - "ser-mozzarella"
-  - "sos-pesto"
-featuredImage: "./images/DSC07080.jpg"
+  - oliwki
+  - oregano
+  - pomidor
+  - ser-mozzarella
+  - sos-pesto
+featuredImage: DSC07080.jpg
 ---
 
 ## Sprawdź przepis na pizzę z sosem pesto i pomidorami
@@ -54,7 +54,7 @@ Na rozwałkowane ciasto nanieś cienką warstwę <a title="Sos pesto – jak zro
 
 W niecałe 40 minut po zakupach w Biedronce masz zrobioną pyszną pizzę z pomidorami i sosem pesto.
 
-![Pizza z pesto i pomidorami](./images/DSC07080-1024x685.jpg)
+![Pizza z pesto i pomidorami](DSC07080-1024x685.jpg)
 
 Pizza z pesto i pomidorami
 

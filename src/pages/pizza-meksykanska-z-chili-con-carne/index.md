@@ -1,16 +1,16 @@
 ---
-title: "Pizza meksykańska z chili con carne"
-date: "2014-11-28T20:57:37.000Z"
+title: Pizza meksykańska z chili con carne
+date: 2014-11-28T20:57:37.000Z
 categories: 
-  - "przepis-na-pizze"
+  - przepis-na-pizze
 tags: 
-  - "cebula"
-  - "oliwki"
-  - "oregano"
-  - "papryka"
-  - "ser-mozzarella"
-  - "sos-chili-con-carne"
-featuredImage: "./images/DSC07170.jpg"
+  - cebula
+  - oliwki
+  - oregano
+  - papryka
+  - ser-mozzarella
+  - sos-chili-con-carne
+featuredImage: DSC07170.jpg
 ---
 
 Zapraszam na pizzę do pikantnego Meksyku - część drugą. Już opisywałem <a title="Pizza meksykańska z ostrym pepperoni i jalapeños" href="/pizza-meksykanska-z-ostrym-pepperoni-jalapenos/">pizzę meksykańską z jalapenos i pepperoni</a> i <a title="Pizza Meksykańska" href="/pizza-meksykanska/">pizzę meksykańską z chili i pepperoni</a>. Mam nadzieję, że ten przepis na pizzę z chili con carne również bardzo podpasuje. Naprawdę! Możesz położyć sos chili con carne na drożdżowy placek i przykryć serem - wyjdzie pyszne, zobaczysz.
@@ -64,7 +64,7 @@ Mam dwie zasady: piekę w najwyższej możliwej temperaturze przez kilka minut. 
 
 ## I gotowe!
 
-![Pizza z chili con carne](./images/DSC07170-300x200.jpg)
+![Pizza z chili con carne](DSC07170-300x200.jpg)
 
 Pizza z chili con carne
 

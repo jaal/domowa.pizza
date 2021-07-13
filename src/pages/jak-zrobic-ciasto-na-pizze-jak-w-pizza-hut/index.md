@@ -1,17 +1,17 @@
 ---
-title: "Jak zrobić ciasto na pizzę jak w Pizza Hut?"
-date: "2014-09-01T21:12:35.000Z"
+title: Jak zrobić ciasto na pizzę jak w Pizza Hut?
+date: 2014-09-01T21:12:35.000Z
 categories: 
-  - "przepis-na-ciasto"
-  - "przepis-na-pizze"
+  - przepis-na-ciasto
+  - przepis-na-pizze
 tags: 
-  - "pomidorki-koktajlowe"
-  - "rukola"
-  - "ser-mozzarella"
-  - "ser-parmezan"
-  - "sos-pomidorowy"
-  - "szynka-parmenska"
-featuredImage: "./images/DSC07534.jpg"
+  - pomidorki-koktajlowe
+  - rukola
+  - ser-mozzarella
+  - ser-parmezan
+  - sos-pomidorowy
+  - szynka-parmenska
+featuredImage: DSC07534.jpg
 ---
 
 Pizza Hut robi pyszną pizzę:-) To moja ulubiona sieciowa pizzeria. Wiem, piszę tu o domowej pizzy i chwalę sieciówkową pizze. Ale nie będę oszukiwał. Bardzo mi smakuje ich pizza na grubym cieście (chociaż jestem zwolennikiem pizzy na cienkim cieście). Jak zrobić grube ciasto jak w Pizza Hut? To proste.

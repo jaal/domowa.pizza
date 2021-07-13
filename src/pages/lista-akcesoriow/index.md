@@ -1,9 +1,9 @@
 ---
-title: "5 tanich jak barszcz akcesoriów do pizzy, które polecam i używam"
-date: "2016-03-22T21:55:49.000Z"
+title: 5 tanich jak barszcz akcesoriów do pizzy, które polecam i używam
+date: 2016-03-22T21:55:49.000Z
 categories: 
-  - "akcesoria"
-featuredImage: "./images/lista-akcesoriow.jpg"
+  - akcesoria
+featuredImage: lista-akcesoriow.jpg
 ---
 
 Wybrałem dla Ciebie tylko te najpotrzebniejsze akcesoria, które pomogą Ci osiągnąć największy efekt, przy najmniejszym nakładzie pieniędzy. Jeśli dobrze wszystko zorganizujesz, nie zapłacisz więcej niż kilkadziesiąt złotych. Jeśli chcesz dokładny zestaw, który używam, jest to wydatek ponad 300 zł. Ale w zupełności wystarczy Ci ten tańszy.
@@ -12,7 +12,7 @@ W artykule znajdują się linki afiliacyjne, kliknięcie w nie nic Ciebie nie k
 
 # 1\. Kamień do pizzy
 
-![Kamień do pizzy](./images/kamien-do-pizzy-300x201.jpg)
+![Kamień do pizzy](kamien-do-pizzy-300x201.jpg)
 
 Kamień do pizzy
 
@@ -34,7 +34,7 @@ Osobiście używam kamienia Kuchenprofi. Jest to prostokątny kamień do pizzy, 
 
 # 2\. Łopatka do pizzy
 
-![Największy blog o domowym pieczeniu pizzy. Sprawdzone przepisy na pizze, ciasto i sosy. Upiecz w domu pizzę jak z włoskiej pizzerii](./images/DSC08250FIX-300x227.jpg)
+![Największy blog o domowym pieczeniu pizzy. Sprawdzone przepisy na pizze, ciasto i sosy. Upiecz w domu pizzę jak z włoskiej pizzerii](DSC08250FIX-300x227.jpg)
 
 Łopatka do pizzy
 
@@ -63,7 +63,7 @@ Wałek polecam szczególnie na początku. Można bezstresowo zamienić kulkę ci
 
 # 5\. Radełko
 
-![Radełko Oxo z antyprzywieralną powłoką](./images/radelko-300x201.jpg)
+![Radełko Oxo z antyprzywieralną powłoką](radelko-300x201.jpg)
 
 Radełko Oxo z antyprzywieralną powłoką
 
@@ -85,13 +85,13 @@ Zastanów się jeszcze na tymi akcesoriami. Nie są to tanie rzeczy, ale naprawd
 
 ## Domowy piec do pieczenia pizzy
 
-![piec-do-pizzy](./images/piec-do-pizzy-298x300.png) Generalnie z piecem do pizzy możesz upiec pizzę… wszędzie! Piec jest niewielki, mobilny, osiąga bardzo wysoką temperaturę, przez co pizza wychodzi już po kilku minutach chrupiąca. Piec który posiadam to wydatek ok. 500 zł
+![piec-do-pizzy](piec-do-pizzy-298x300.png) Generalnie z piecem do pizzy możesz upiec pizzę… wszędzie! Piec jest niewielki, mobilny, osiąga bardzo wysoką temperaturę, przez co pizza wychodzi już po kilku minutach chrupiąca. Piec który posiadam to wydatek ok. 500 zł
 
 <a href="/optima-electra-pizza-express-napoli/">Więcej &gt;&gt;</a>
 
 ## Stal do pizzy
 
-![Stal do pizzy](./images/stal-do-pizzy-1-300x300.jpg)
+![Stal do pizzy](stal-do-pizzy-1-300x300.jpg)
 
 Stal do pizzy
 
