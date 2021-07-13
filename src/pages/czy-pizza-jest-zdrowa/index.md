@@ -1,8 +1,8 @@
 ---
-title: "Czy pizza jest zdrowa?"
-date: "2014-10-25T18:57:34.000Z"
+title: Czy pizza jest zdrowa?
+date: 2014-10-25T18:57:34.000Z
 categories: 
-  - "inne"
+  - inne
 ---
 
 To świetnie pytanie. Nie da się na nie jednoznacznie odpowiedzieć. Odpowiedzią na nie powinno być kolejne pytanie, "a o jaką pizzę Ci chodzi"?
@@ -21,7 +21,7 @@ Jak definiuję zdrowszą pizzę?
 - Ma więcej wartościowych składników, które są mniej przetworzone
 - Ma mniej konserwantów, barwników i innych sztucznych dodatków
 
-![Mąka na pizzę: pszenna, pełnoziarnista czy inna?](./images/320px-Flours.jpg)
+![Mąka na pizzę: pszenna, pełnoziarnista czy inna?](320px-Flours.jpg)
 
 Mąka na pizzę: pszenna, pełnoziarnista czy inna?
 
@@ -65,7 +65,7 @@ Udało mi się zrobić ciasto z 3 szklanek żytniej i 1 szklanki kukurydzianej. 
 
 Naprawdę! Pizza nic na tym nie straci, prócz kalorii:):) Spróbuj. Mój przepis na ciasto na pizzę jest do tego stworzony, aby zrobić jak najcieńszą pizzę. Jeśli dodatkowo zrobisz ją na kamieniu, sukces murowany.
 
-![Ser mozzarella na pizzę](./images/320px-Mozzarella_cheese.jpg)
+![Ser mozzarella na pizzę](320px-Mozzarella_cheese.jpg)
 
 Ser mozzarella na pizzę
 
@@ -103,7 +103,7 @@ W dobrym sosie pomidorowym nie są potrzebne żadne konserwanty czy wzmacniacze 
 
 **Odpuść sobie jakieś wymysły polskiej kuchni jak "sos czosnkowy"**. Nie wiem po co i na co to komu! Zwykle jest na bazie majonezu. Zabija tylko smak pizzy. Jest pewnie dawany w polskich pizzeriach, aby dało się w ogóle te pizze przełknąć. Bez takiego zabijacza smaku pewnie nie tknąłbyś ich kijem od miotły.
 
-![Mięso na pizzę](./images/320px-FoodMeat.jpg)
+![Mięso na pizzę](320px-FoodMeat.jpg)
 
 Mięso na pizzę
 

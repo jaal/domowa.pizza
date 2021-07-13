@@ -1,14 +1,14 @@
 ---
-title: "Ciasto na pizzę z mąki orkiszowej"
-date: "2015-04-05T20:12:27.000Z"
+title: Ciasto na pizzę z mąki orkiszowej
+date: 2015-04-05T20:12:27.000Z
 categories: 
-  - "przepis-na-ciasto"
+  - przepis-na-ciasto
 tags: 
-  - "drozdze"
-  - "maka-orkiszowa"
-  - "sol"
-  - "woda"
-featuredImage: "./images/ciasto-na-pizze-z-maki-orkiszowej.jpg"
+  - drozdze
+  - maka-orkiszowa
+  - sol
+  - woda
+featuredImage: ciasto-na-pizze-z-maki-orkiszowej.jpg
 ---
 
 Warto dla odmiany spróbować pizzy zrobionej na mące innej niż pszenna. Przetestowałem mąkę orkiszową i byłem pozytywnie zaskoczony jej smakiem i konsystencją. Spodziewałem się, że przygotowanie ciasta będzie o wiele trudniejsze niż w przypadku mąki pszennej, ale bardzo pozytywnie się zaskoczyłem.
@@ -77,7 +77,7 @@ Ciasto wychodzi delikatniejsze niż w tradycyjnym przepisie, zarówno podczas za
 
 ## I gotowe!
 
-![Pizza na mące orkiszowej](./images/pizza-z-ciasta-na-mace-orkiszowej-300x201.jpg)
+![Pizza na mące orkiszowej](pizza-z-ciasta-na-mace-orkiszowej-300x201.jpg)
 
 Pizza na mące orkiszowej
 
