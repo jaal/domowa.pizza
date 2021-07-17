@@ -1,6 +1,6 @@
 ---
-title: Pizza z awokado, limonką, serem fetą i kozim
-date: 2015-10-04T07:01:52.000Z
+title: "Pizza z awokado, limonką, serem fetą i kozim"
+date: "2015-10-04T07:01:52.000Z"
 categories: 
   - pizza-weganska
   - pizza-wegetarianska
@@ -12,7 +12,7 @@ tags:
   - ser-kozi
   - sos-pomidorowy
   - swiezo-zmielony-pieprz
-featuredImage: pizza-z-awokado-limonka-serem-feta-i-kozim.jpg
+featuredImage: "pizza-z-awokado-limonka-serem-feta-i-kozim.jpg"
 ---
 
 Lubię awokado w każdej postaci. Czasami mam taką chęć, że mogę zjeść bez niczego palcami. Nie wiem skąd u mnie taka fascynacja? Może dlatego, że jedząc awokado mam przekonanie, że przy okazji wciągam kawał zdrowia? Awokado jest bogate w dobre dla organizmu tłuszcze i zawiera bardzo mało cukru. Jeśli dodam do tego, że ma dużo witaminy A, C i E chyba również Cię przekonam.

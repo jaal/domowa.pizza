@@ -1,6 +1,6 @@
 ---
-title: Arkusz kalkulacyjny z kosztami pizzy
-date: 2016-03-31T20:05:24.000Z
+title: "Arkusz kalkulacyjny z kosztami pizzy"
+date: "2016-03-31T20:05:24.000Z"
 categories: 
   - inne
 ---

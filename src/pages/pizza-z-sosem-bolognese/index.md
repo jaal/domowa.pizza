@@ -1,6 +1,6 @@
 ---
-title: Pizza z sosem bolognese
-date: 2014-10-11T16:08:13.000Z
+title: "Pizza z sosem bolognese"
+date: "2014-10-11T16:08:13.000Z"
 categories: 
   - przepis-na-pizze
 tags: 

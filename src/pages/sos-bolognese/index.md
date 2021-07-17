@@ -1,6 +1,6 @@
 ---
-title: Sos bolognese
-date: 2014-09-28T20:53:28.000Z
+title: "Sos bolognese"
+date: "2014-09-28T20:53:28.000Z"
 categories: 
   - przepis-na-sos
 ---

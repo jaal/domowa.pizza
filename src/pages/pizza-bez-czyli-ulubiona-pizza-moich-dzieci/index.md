@@ -1,6 +1,6 @@
 ---
-title: Pizza BEZ, czyli ulubiona pizza moich dzieci :-)
-date: 2017-05-27T20:00:12.000Z
+title: "Pizza BEZ, czyli ulubiona pizza moich dzieci :-)"
+date: "2017-05-27T20:00:12.000Z"
 categories: 
   - danie-weganskie
   - danie-wegetarianskie
@@ -9,7 +9,7 @@ categories:
   - przepis-na-pizze
 tags: 
   - oliwa-z-oliwek
-featuredImage: pizza-bez.jpg
+featuredImage: "pizza-bez.jpg"
 ---
 
 Jak amator domowej pizzy powinienem znaleźć też taki przepis, który posmakuje moim dzieciakom. Na ten moment jest to pizza BEZ, czyli bez niczego :-D Taką moje dzieciaki lubią najbardziej.

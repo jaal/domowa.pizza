@@ -1,9 +1,9 @@
 ---
-title: Kamień do pizzy
-date: 2014-08-08T21:24:16.000Z
+title: "Kamień do pizzy"
+date: "2014-08-08T21:24:16.000Z"
 categories: 
   - akcesoria
-featuredImage: kamien-do-pizzy.jpg
+featuredImage: "kamien-do-pizzy.jpg"
 ---
 
 Kamień do pizzy jest najważniejszy. Dowiedz się dlaczego oraz jak możesz go zdobyć za darmo. Sprawdź jak używać i konserwować kamień do pizzy.

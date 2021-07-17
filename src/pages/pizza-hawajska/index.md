@@ -1,6 +1,6 @@
 ---
-title: Pizza z ananasem \"hawajska\" na 3 sposoby
-date: 2014-08-23T20:59:11.000Z
+title: "Pizza z ananasem \"hawajska\" na 3 sposoby"
+date: "2014-08-23T20:59:11.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -14,7 +14,7 @@ tags:
   - sos-pomidorowy
   - szynka
   - tunczyk
-featuredImage: pizza-hawajska-s.jpg
+featuredImage: "pizza-hawajska-s.jpg"
 ---
 
 Pizza hawajska - prosty przepis na pizzę hawajską ze świeżym ananasem na 3 różne sposoby. Jak ją przygotować?

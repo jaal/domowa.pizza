@@ -1,6 +1,6 @@
 ---
-title: Najciekawsze pomysły na prezent dla lubiących pizzę
-date: 2014-10-29T21:01:21.000Z
+title: "Najciekawsze pomysły na prezent dla lubiących pizzę"
+date: "2014-10-29T21:01:21.000Z"
 categories: 
   - akcesoria
 ---

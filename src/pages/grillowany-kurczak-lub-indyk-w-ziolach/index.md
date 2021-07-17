@@ -1,9 +1,9 @@
 ---
-title: Grillowany kurczak w ziołach - szybki, prosty przepis na dodatek do pizzy
-date: 2015-06-01T20:34:16.000Z
+title: "Grillowany kurczak w ziołach - szybki, prosty przepis na dodatek do pizzy"
+date: "2015-06-01T20:34:16.000Z"
 categories: 
   - skladniki
-featuredImage: DSC07755.jpg
+featuredImage: "DSC07755.jpg"
 ---
 
 W moich pizzach często korzystam z grillowanego kurczaka lub indyka. Albo w drugą stronę, przygotowuję takiego kurczaka na obiad i jak zostają mi resztki, wykorzystuję go na pizzy. Na pizzy smakuje świetnie. Nie jest tak ciężkie jak wędliny wieprzowe czy kiełbasa, które też często są na mojej pizzy.

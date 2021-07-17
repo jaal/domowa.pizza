@@ -1,9 +1,9 @@
 ---
-title: Test granitowego kamienia do pizzy
-date: 2017-02-14T20:24:27.000Z
+title: "Test granitowego kamienia do pizzy"
+date: "2017-02-14T20:24:27.000Z"
 categories: 
   - akcesoria
-featuredImage: kamien-granitowy-podstawki-pl.jpg
+featuredImage: "kamien-granitowy-podstawki-pl.jpg"
 ---
 
 Dostałem do testów kamień granitowy od firmy [artigiano.pl](https://artigiano.pl/), która zajmuje się między innymi produkcją akcesoriów do kuchni z kamienia, np. kamieni do pieczenia czy desek do krojenia. Kamień sprawdzam pod kątem tego jak dobrze nadaje się do pieczenia pizzy.

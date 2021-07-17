@@ -1,6 +1,6 @@
 ---
-title: Jak zrobić ciasto na pizzę jak w Pizza Hut?
-date: 2015-04-30T20:35:52.000Z
+title: "Jak zrobić ciasto na pizzę jak w Pizza Hut?"
+date: "2015-04-30T20:35:52.000Z"
 categories: 
   - przepis-na-ciasto
   - przepis-na-pizze

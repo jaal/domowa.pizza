@@ -1,6 +1,6 @@
 ---
-title: Pizza z guacamole
-date: 2015-02-12T22:05:25.000Z
+title: "Pizza z guacamole"
+date: "2015-02-12T22:05:25.000Z"
 categories: 
   - danie-weganskie
   - danie-wegetarianskie
@@ -13,7 +13,7 @@ tags:
   - ser-mozzarella
   - sos-guacamole
   - sos-pomidorowy
-featuredImage: 2015-02-07-14.46.59.jpg
+featuredImage: "2015-02-07-14.46.59.jpg"
 ---
 
 Lubię proste pizze. Jeden, dwa, trzy składniki i jest smak! Jak zadbam o jakość tych składników, to już w ogóle palce lizać. Dzisiaj chciałem zaprezentować bardzo prostą pizzę w której na pierwszym planie jest sos guacamole. Sos jest prosty, szybki i przepyszny. Warto spróbować takiej pizzy. Do dzieła!

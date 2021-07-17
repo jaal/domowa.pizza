@@ -1,6 +1,6 @@
 ---
-title: 8 największych grzechów typowej polskiej pizzy - czyli coś Polsko zrobiła z pizzą?
-date: 2014-11-17T22:05:01.000Z
+title: "8 największych grzechów typowej polskiej pizzy - czyli coś Polsko zrobiła z pizzą?"
+date: "2014-11-17T22:05:01.000Z"
 categories: 
   - inne
 ---

@@ -1,6 +1,6 @@
 ---
-title: Pizza z kabanosami, pieczarkami, kaparami i oliwkami
-date: 2015-04-11T14:29:26.000Z
+title: "Pizza z kabanosami, pieczarkami, kaparami i oliwkami"
+date: "2015-04-11T14:29:26.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -11,7 +11,7 @@ tags:
   - pieczarki
   - ser-mozzarella
   - sos-pomidorowy
-featuredImage: pizza-z-kabanosami-pieczarkami-kaparami-oliwkami.jpg
+featuredImage: "pizza-z-kabanosami-pieczarkami-kaparami-oliwkami.jpg"
 ---
 
 Podstawą tej pizzy są dobre kabanosy. Polecane przeze mnie kabanosy znajdziesz poniżej. Są pełne mięsa i bez konserwantów czy dodatków. Naprawdę jest to ewenement.

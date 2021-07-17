@@ -1,6 +1,6 @@
 ---
-title: Pizza z kurkami, mozzarellą i czerwoną cebulą
-date: 2016-07-23T13:18:10.000Z
+title: "Pizza z kurkami, mozzarellą i czerwoną cebulą"
+date: "2016-07-23T13:18:10.000Z"
 categories: 
   - danie-wegetarianskie
   - pizza-wegetarianska
@@ -12,7 +12,7 @@ tags:
   - ser-mozzarella
   - sol
   - swiezo-zmielony-pieprz
-featuredImage: pizza-z-kurkami-mozzarella-czerwona-cebula.jpg
+featuredImage: "pizza-z-kurkami-mozzarella-czerwona-cebula.jpg"
 ---
 
 Jak dla mnie sezon na kurki jest już rozpoczęty. Na start prosta i pyszna pizza z kurkami, serem mozzarella, czerwoną cebulą, solą i pieprzem.

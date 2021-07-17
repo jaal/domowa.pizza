@@ -1,6 +1,6 @@
 ---
-title: Podsumowanie roku 2014
-date: 2015-01-02T22:01:05.000Z
+title: "Podsumowanie roku 2014"
+date: "2015-01-02T22:01:05.000Z"
 categories: 
   - inne
 ---

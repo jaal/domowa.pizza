@@ -1,9 +1,9 @@
 ---
-title: Stal do pieczenia
-date: 2016-05-15T19:59:51.000Z
+title: "Stal do pieczenia"
+date: "2016-05-15T19:59:51.000Z"
 categories: 
   - akcesoria
-featuredImage: stal-do-pizzy-1.jpg
+featuredImage: "stal-do-pizzy-1.jpg"
 ---
 
 Kiedyś gdzieś przeczytałem o stali do pieczenia. Wydawało mi się, że to jakaś nowa forma blachy, generalnie nic co by mogłoby się równać z kamieniem do pizzy. W końcu cały świat pizzy stoi na kamieniu: pizzerie mają piece wyposażone w kamienie szamotowe, w sklepach znajdziesz kamienie do pieczenia pizzy. Dlaczego stal miałaby być lepsza? Bardzo dokładnie ją przetestowałem i przekonałem się na własnej skórze co to znaczy upiec coś na stali.

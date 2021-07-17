@@ -1,6 +1,6 @@
 ---
-title: Pizza z serem kozim, jogurtem greckim i szynką parmeńską
-date: 2015-03-18T08:21:21.000Z
+title: "Pizza z serem kozim, jogurtem greckim i szynką parmeńską"
+date: "2015-03-18T08:21:21.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -13,7 +13,7 @@ tags:
   - szynka-parmenska
   - szynka-prosciutto
   - tymianek
-featuredImage: DSC07569.jpg
+featuredImage: "DSC07569.jpg"
 ---
 
 Uwielbiam ser kozi, a połączenie z jogurtem greckim (lub śmietaną) i szynką parmeńską położoną na sam koniec jest po prostu świetne! Koniecznie spróbuj!

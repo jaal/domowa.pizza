@@ -1,6 +1,6 @@
 ---
-title: Jak zrobić pizzę na cienkim cieście?
-date: 2014-08-30T20:34:06.000Z
+title: "Jak zrobić pizzę na cienkim cieście?"
+date: "2014-08-30T20:34:06.000Z"
 categories: 
   - przepis-na-ciasto
 ---

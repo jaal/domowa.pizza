@@ -1,6 +1,6 @@
 ---
-title: Czy pizza jest zdrowa?
-date: 2014-10-25T18:57:34.000Z
+title: "Czy pizza jest zdrowa?"
+date: "2014-10-25T18:57:34.000Z"
 categories: 
   - inne
 ---

@@ -1,6 +1,6 @@
 ---
-title: Jaki blender do kuchni kupić?
-date: 2014-12-30T22:15:19.000Z
+title: "Jaki blender do kuchni kupić?"
+date: "2014-12-30T22:15:19.000Z"
 categories: 
   - akcesoria
 ---

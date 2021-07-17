@@ -1,6 +1,6 @@
 ---
-title: Moja pizza wstydu...
-date: 2016-03-25T11:20:18.000Z
+title: "Moja pizza wstydu..."
+date: "2016-03-25T11:20:18.000Z"
 categories: 
   - inne
 ---

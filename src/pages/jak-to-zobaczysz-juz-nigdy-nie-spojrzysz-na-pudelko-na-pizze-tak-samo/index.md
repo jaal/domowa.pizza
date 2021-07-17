@@ -1,6 +1,6 @@
 ---
-title: Jak to zobaczysz, już nigdy nie spojrzysz na pudełko na pizzę tak samo…
-date: 2015-04-26T20:36:46.000Z
+title: "Jak to zobaczysz, już nigdy nie spojrzysz na pudełko na pizzę tak samo…"
+date: "2015-04-26T20:36:46.000Z"
 categories: 
   - inne
 ---

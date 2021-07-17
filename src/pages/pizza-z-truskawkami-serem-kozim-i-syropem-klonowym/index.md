@@ -1,6 +1,6 @@
 ---
-title: Pizza z truskawkami, serem kozim i syropem klonowym
-date: 2018-06-01T16:26:01.000Z
+title: "Pizza z truskawkami, serem kozim i syropem klonowym"
+date: "2018-06-01T16:26:01.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -10,7 +10,7 @@ tags:
   - ser-mozzarella
   - syrop-klonowy
   - truskawki
-featuredImage: pizza-z-truskawkami-serem-kozim-i-syropem-klonowym.jpg
+featuredImage: "pizza-z-truskawkami-serem-kozim-i-syropem-klonowym.jpg"
 ---
 
 Prosta, sezonowa pizza za którą przepadają moje dzieci. Ja zresztą też.

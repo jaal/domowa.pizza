@@ -1,6 +1,6 @@
 ---
-title: Pizza z jarmużem, kozim serem i świeżymi pomidorami
-date: 2015-01-24T05:59:08.000Z
+title: "Pizza z jarmużem, kozim serem i świeżymi pomidorami"
+date: "2015-01-24T05:59:08.000Z"
 categories: 
   - pizza-weganska
   - pizza-wegetarianska
@@ -12,7 +12,7 @@ tags:
   - pomidor
   - ser-kozi
   - sos-pomidorowy
-featuredImage: pizza-z-jarmuzem-pomidorami-kozim-serem.jpg
+featuredImage: "pizza-z-jarmuzem-pomidorami-kozim-serem.jpg"
 ---
 
 Lekka, delikatna, wiosenna - te słowa najlepiej opisują pizzę z jarmużem, kozim serem i świeżymi pomidorami. Wszystkie składniki dostaniesz w najbliższym markecie - nawet jarmuż, a wykonanie jest bardzo proste.

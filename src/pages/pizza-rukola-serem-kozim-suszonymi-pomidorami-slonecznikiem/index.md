@@ -1,6 +1,6 @@
 ---
-title: Pizza z rukolą, serem kozim, suszonymi pomidorami i słonecznikiem
-date: 2018-02-11T21:23:03.000Z
+title: "Pizza z rukolą, serem kozim, suszonymi pomidorami i słonecznikiem"
+date: "2018-02-11T21:23:03.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -14,7 +14,7 @@ tags:
   - slonecznik
   - suszone-pomidory
   - swiezo-zmielony-pieprz
-featuredImage: IMG_20180211_142148.jpg
+featuredImage: "IMG_20180211_142148.jpg"
 ---
 
 Nic dodać, nic ująć, te połączenie było tak dobre, że musiałem zrobić dwie takie pizze, żeby zaspokoić zapotrzebowanie. Rukola z suszonymi pomidorami i prażonym słonecznikiem na mozzarelli z karmelizowaną cebulą - pychota!

@@ -1,6 +1,6 @@
 ---
-title: Pizza z serem fontina i świeżym szpinakem
-date: 2016-04-10T19:53:37.000Z
+title: "Pizza z serem fontina i świeżym szpinakem"
+date: "2016-04-10T19:53:37.000Z"
 categories: 
   - danie-wegetarianskie
   - pizza-weganska
@@ -11,7 +11,7 @@ tags:
   - ser-mozzarella
   - swiezo-zmielony-pieprz
   - swiezy-szpinak
-featuredImage: pizza-fontina-szpinak.jpg
+featuredImage: "pizza-fontina-szpinak.jpg"
 ---
 
 Jak znalazłem ten przepis, nie spodziewałem się, że będzie taka fajna w smaku.W dodatku świetnie wygląda. Swój smak zawdzięcza przede wszystkim serowi fontina oraz szpinakowi. Można go dostać w dobrej cenie w ramach tygodnia włoskiego w Lidlu.

@@ -1,6 +1,6 @@
 ---
-title: W czym piec chleb?
-date: 2020-04-08T21:56:00.000Z
+title: "W czym piec chleb?"
+date: "2020-04-08T21:56:00.000Z"
 categories: 
   - inne
 tags: 

@@ -1,6 +1,6 @@
 ---
-title: Pizza z szarpaną wieprzowiną, czyli pulled pork pizza
-date: 2016-06-07T08:44:15.000Z
+title: "Pizza z szarpaną wieprzowiną, czyli pulled pork pizza"
+date: "2016-06-07T08:44:15.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szarpana-wieprzowina
-featuredImage: pizza-pulled-pork-szarpana-wieprzowina.jpg
+featuredImage: "pizza-pulled-pork-szarpana-wieprzowina.jpg"
 ---
 
 Kiedyś w jakimś food trucka zjadłem bułę z szarpaną wieprzowiną. Mięso było tak delikatne, soczyste i rozpływające się w ustach, że jeszcze długo po tym miałem posmak. Przyrzekłem sobie, że zrobię kiedyś taką wieprzowinę w domu! Znalazłem przepis i… załamałem ręce. Czas marynowania: 24 godziny, czas pieczenia: 12 godzin. To było zdecydowanie za wiele, bo przecież piekarnik chodzący przez 12 godzin to sposób na wysoki rachunek, o czym dalej.

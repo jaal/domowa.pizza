@@ -1,6 +1,6 @@
 ---
-title: Pizza z oliwą, szynką parmeńską, cebulą i mozzarellą
-date: 2015-10-09T19:47:46.000Z
+title: "Pizza z oliwą, szynką parmeńską, cebulą i mozzarellą"
+date: "2015-10-09T19:47:46.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - oregano
   - ser-mozzarella
   - szynka-parmenska
-featuredImage: pizza-z-oliwa-szynka-cebula-i-mozzarella.jpg
+featuredImage: "pizza-z-oliwa-szynka-cebula-i-mozzarella.jpg"
 ---
 
 To jedna z prostszych pizzy, które kiedykolwiek przyrządziłem. W tym przypadku „prosta” nie znaczy wcale biedna czy bez wyrazu! Wręcz przeciwnie - jej smak to poezja. To jest jedna z tych pizz, w których jakość składników robi wielką różnicę, bo nie użyłem żadnego sosu. Skropiłem tylko ciasto oliwą i na końcu też dodałem oliwy. W tym przypadku jakość oliwy ma duże znaczenie.

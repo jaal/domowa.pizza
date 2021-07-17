@@ -1,9 +1,9 @@
 ---
-title: Mata (stolnica) silikonowa do pieczenia i wałkowania
-date: 2015-01-30T21:30:40.000Z
+title: "Mata (stolnica) silikonowa do pieczenia i wałkowania"
+date: "2015-01-30T21:30:40.000Z"
 categories: 
   - akcesoria
-featuredImage: silikonowa-mata.jpg
+featuredImage: "silikonowa-mata.jpg"
 ---
 
 Stolnica (mata) silikonowa pomoże Ci szybciej i łatwiej przyrządzić pizzę i nie tylko. Sprawdź wszystkie za i przeciw oraz zobacz, którą matę (stolnicę) polecam.

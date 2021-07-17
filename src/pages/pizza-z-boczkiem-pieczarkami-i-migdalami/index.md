@@ -1,6 +1,6 @@
 ---
-title: Pizza z boczkiem, pieczarkami i migdałami
-date: 2015-09-13T07:22:35.000Z
+title: "Pizza z boczkiem, pieczarkami i migdałami"
+date: "2015-09-13T07:22:35.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - pieczarki
   - ser-mozzarella
   - sos-pomidorowy
-featuredImage: pizza-z-boczkiem-pieczarkami-migdalami.jpg
+featuredImage: "pizza-z-boczkiem-pieczarkami-migdalami.jpg"
 ---
 
 Pizza z boczkiem... kocham i nienawidzę boczku:-) To balsam na moje kubki smakowe i balast na moim żołądku. Ale jak powiadam, raz na jakiś czas nie zaszkodzi. Tym razem boczek w swym genialnym smaku połączył się z pieczarkami, migdałami, sosem pomidorowym i mozzarella.

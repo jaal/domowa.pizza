@@ -1,6 +1,6 @@
 ---
-title: Pizza z musztardą, szynką parmeńską i serem kozim
-date: 2015-10-15T07:05:26.000Z
+title: "Pizza z musztardą, szynką parmeńską i serem kozim"
+date: "2015-10-15T07:05:26.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - sos-musztardowy
   - swiezo-zmielony-pieprz
   - szynka-parmenska
-featuredImage: pizza-musztarda-szynka-ser-kozi.jpg
+featuredImage: "pizza-musztarda-szynka-ser-kozi.jpg"
 ---
 
 To mój absolutny hit ostatnio. Robię już po raz 4. w ostatnim miesiącu. Sekret kapitalnego smaku tej pizzy to połączenie odpowiedniej musztardy i sera koziego. W dodatku pizza jest prosta i szybka w przygotowaniu.

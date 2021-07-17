@@ -1,6 +1,6 @@
 ---
-title: Pizza ze szpinakiem i świeżymi pomidorami
-date: 2015-06-29T09:32:09.000Z
+title: "Pizza ze szpinakiem i świeżymi pomidorami"
+date: "2015-06-29T09:32:09.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - oregano
   - pomidor
   - szpinak
-featuredImage: pizza-z-pomidorerm-i-szpinakiem.jpg
+featuredImage: "pizza-z-pomidorerm-i-szpinakiem.jpg"
 ---
 
 To bardzo prosta i smaczna pizza, która składa się z dosłownie dwóch składników: szpinaku i pomidorów. Zwróć uwagę na pomidory - fajnie jeśli będą soczyste i słodkie. Użyłem w przepisie pomarańczowych i czerwonych. W połączeniu z białą mozzarellą i zielonym szpinakiem wygląda kapitalnie. Generalnie pizza ze szpinakiem i świeżymi pomidorami jest letnia i kolorowa.

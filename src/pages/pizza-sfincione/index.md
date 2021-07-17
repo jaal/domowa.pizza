@@ -1,6 +1,6 @@
 ---
-title: Pizza Sfincione, czyli tradycyjna pizza sycylijska
-date: 2014-12-12T13:54:46.000Z
+title: "Pizza Sfincione, czyli tradycyjna pizza sycylijska"
+date: "2014-12-12T13:54:46.000Z"
 categories: 
   - danie-weganskie
   - danie-wegetarianskie
@@ -15,7 +15,7 @@ tags:
   - oregano
   - ser-mozzarella
   - sos-sfincione
-featuredImage: DSC_0143-e1418328700729.jpg
+featuredImage: "DSC_0143-e1418328700729.jpg"
 ---
 
 Zainspirowany jednym z odcinków Masterchef, który odbywał się na Sycylii, spróbowałem zrobić pizzę Sfincione, czyli tradycyjną pizzę sycylijską. W programie uczestnicy się nią zajadali. Przepis jest dość prosty i w Polsce do zrobienia w prawie 100%. Dlaczego? W tradycyjne pizzy sfincione należy użyć sycylijskiego sera, sycylijskiej oliwy z oliwek czy sycylijskich pomidorów (z puszki lub świeżych), przez co smak będzie się różnił. No chyba że masz dostęp do takich rarytasów. Generalnie spróbowałem zaadoptować tę pizzę do naszych standardów:-) Pizza jest trochę grubsza niż tradycyjna włoska. Ciasto jest bardziej wyrośnięte u góry, bardziej miękkie przez sos i trochę chrupiące przez bułkę tartą. Ciekawy miks! Do dzieła! Będziesz potrzebować

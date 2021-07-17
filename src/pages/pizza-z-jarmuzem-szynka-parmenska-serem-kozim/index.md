@@ -1,6 +1,6 @@
 ---
-title: Pizza z jarmużem, szynką parmeńską i serem kozim
-date: 2015-11-25T07:31:13.000Z
+title: "Pizza z jarmużem, szynką parmeńską i serem kozim"
+date: "2015-11-25T07:31:13.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - ser-kozi
   - sos-pomidorowy
   - szynka-parmenska
-featuredImage: pizza-jarmuz-szynka-parmenska.jpg
+featuredImage: "pizza-jarmuz-szynka-parmenska.jpg"
 ---
 
 To jest jedna z tych super lekkich pizz, których można zjeść sporo i wstać od stołu bez uczucia ciężkości. Dodatkowo jarmuż i jogurt grecki świetnie się uzupełniają, dając wrażenie jakbym jadł delikatną i lekką sałatkę, a nie ciężkostrawną pizzę. Między innymi dlatego tak polubiłem na swoich pizzach jarmuż oraz jogurt, które nadają świeżości. Nie wspominam w ogóle o walorach zdrowotnych jarmużu, który według Plotka;-) jedzą wszystkie liczące się gwiazdy Hollywood.

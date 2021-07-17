@@ -1,6 +1,6 @@
 ---
-title: Pizza z kapustą kiszoną
-date: 2014-11-30T22:03:11.000Z
+title: "Pizza z kapustą kiszoną"
+date: "2014-11-30T22:03:11.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -14,7 +14,7 @@ tags:
   - ser-mozzarella
   - sos-musztardowy
   - wiejska-szynka
-featuredImage: pizza-z-kapusta-kiszona_2.jpg
+featuredImage: "pizza-z-kapusta-kiszona_2.jpg"
 ---
 
 Kapusta kiszona i pizza to bardzo dobry przykład polskiego wkładu w pizzę. O złych polskim wpływie na pizzę pisałem tu https://domowa.pizza/8-najwiekszych-grzechow-typowej-polskiej-pizzy-czyli-cos-polsko-zrobila-z-pizza/. Po raz pierwszy spotkałem się z tym przepisem w restauracji kilka lat temu. Przeglądałem kartę i zobaczyłem tę pizzę. Już wiedziałem, co zamówię. Po kilku minutach na stół wjechał talerz z potrawą pachnącą trochę kulebiakiem:-) To była moja pizza z kapustą kiszoną i kiełbasą. Dziwne w tej historii jest to, że ta pizza zniknęła z menu w tej restauracji. Może zmienił się kucharz i wyrzucił? Albo nikt nie zamawiał? Nie wiem dlaczego. Pamięć po niej pozostała w mojej głowie. Postanowiłem przetestować taką pizzę.

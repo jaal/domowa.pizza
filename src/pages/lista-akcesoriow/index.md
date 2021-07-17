@@ -1,9 +1,9 @@
 ---
-title: 5 tanich jak barszcz akcesoriów do pizzy, które polecam i używam
-date: 2016-03-22T21:55:49.000Z
+title: "5 tanich jak barszcz akcesoriów do pizzy, które polecam i używam"
+date: "2016-03-22T21:55:49.000Z"
 categories: 
   - akcesoria
-featuredImage: lista-akcesoriow.jpg
+featuredImage: "lista-akcesoriow.jpg"
 ---
 
 Wybrałem dla Ciebie tylko te najpotrzebniejsze akcesoria, które pomogą Ci osiągnąć największy efekt, przy najmniejszym nakładzie pieniędzy. Jeśli dobrze wszystko zorganizujesz, nie zapłacisz więcej niż kilkadziesiąt złotych. Jeśli chcesz dokładny zestaw, który używam, jest to wydatek ponad 300 zł. Ale w zupełności wystarczy Ci ten tańszy.

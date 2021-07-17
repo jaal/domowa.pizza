@@ -1,6 +1,6 @@
 ---
-title: Sos musztardowy
-date: 2015-03-16T09:58:05.000Z
+title: "Sos musztardowy"
+date: "2015-03-16T09:58:05.000Z"
 categories: 
   - przepis-na-sos
 ---

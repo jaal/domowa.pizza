@@ -1,6 +1,6 @@
 ---
-title: Pizza z ziemniakami, cukinią, panchettą i pesto
-date: 2014-11-05T22:04:35.000Z
+title: "Pizza z ziemniakami, cukinią, panchettą i pesto"
+date: "2014-11-05T22:04:35.000Z"
 categories: 
   - przepis-na-pizze
 tags: 

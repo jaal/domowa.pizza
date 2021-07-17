@@ -1,6 +1,6 @@
 ---
-title: Pizza z jarmużem, szpinakiem i kozim serem
-date: 2015-11-20T07:14:33.000Z
+title: "Pizza z jarmużem, szpinakiem i kozim serem"
+date: "2015-11-20T07:14:33.000Z"
 categories: 
   - danie-weganskie
   - danie-wegetarianskie
@@ -18,7 +18,7 @@ tags:
   - swiezo-zmielony-pieprz
   - szalotka
   - szpinak
-featuredImage: pizza-jarmuz-szpinak-ser-kozi.jpg
+featuredImage: "pizza-jarmuz-szpinak-ser-kozi.jpg"
 ---
 
 Jarmuż na pizzy to moje małe odkrycie. W połączeniu ze szpinakiem i serem kozim daje mojej pizzy świeżość i całą paletę zielonych odcieni.

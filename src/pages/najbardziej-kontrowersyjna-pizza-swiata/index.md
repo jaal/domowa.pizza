@@ -1,6 +1,6 @@
 ---
-title: Poznaj historię twórcy najbardziej kontrowersyjnej pizzy świata
-date: 2017-06-10T20:36:18.000Z
+title: "Poznaj historię twórcy najbardziej kontrowersyjnej pizzy świata"
+date: "2017-06-10T20:36:18.000Z"
 categories: 
   - inne
 ---

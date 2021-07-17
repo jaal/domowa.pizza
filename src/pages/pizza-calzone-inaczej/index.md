@@ -1,6 +1,6 @@
 ---
-title: Pizza calzone inaczej
-date: 2015-12-28T07:01:59.000Z
+title: "Pizza calzone inaczej"
+date: "2015-12-28T07:01:59.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka
-featuredImage: pizza-calzone-inaczej.jpg
+featuredImage: "pizza-calzone-inaczej.jpg"
 ---
 
 Pizza calzone to idealne rozwiązanie gdy szukasz oryginalnego i smacznego pomysłu na przekąskę na imprezę. Jedna taka pizza to 8 bardzo sytych kawałków do schrupania.

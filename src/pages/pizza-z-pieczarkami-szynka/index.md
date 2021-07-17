@@ -1,6 +1,6 @@
 ---
-title: Pizza z pieczarkami i szynką
-date: 2014-09-02T20:06:28.000Z
+title: "Pizza z pieczarkami i szynką"
+date: "2014-09-02T20:06:28.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -11,7 +11,7 @@ tags:
   - sos-pomidorowy
   - szynka
   - szynka-parmenska
-featuredImage: DSC07610.jpg
+featuredImage: "DSC07610.jpg"
 ---
 
 Pizza z pieczarkami i szynką - to jest już polski klasyk, dostaniesz ją w każdej pizzerii. Spróbuj jej w domu. Poznaj przepis na klasyczną pizzę z pieczarkami i szynką.

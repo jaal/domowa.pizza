@@ -1,6 +1,6 @@
 ---
-title: Pizza z dynią, szynką parmeńską i słonecznikiem
-date: 2015-10-30T07:24:24.000Z
+title: "Pizza z dynią, szynką parmeńską i słonecznikiem"
+date: "2015-10-30T07:24:24.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
-featuredImage: pizza-z-dynia-szynka-parmenska.jpg
+featuredImage: "pizza-z-dynia-szynka-parmenska.jpg"
 ---
 
 Pizza z dynią - słodka dynia, delikatna i słona szynka parmeńska oraz rozpuszczający się ser mozzarella. Pyszne połączenie nie tylko dla fanów dyni.

@@ -1,9 +1,9 @@
 ---
-title: Przelicznik drożdży
-date: 2015-08-20T07:16:21.000Z
+title: "Przelicznik drożdży"
+date: "2015-08-20T07:16:21.000Z"
 categories: 
   - inne
-featuredImage: 2015-01-10-13.36.23.jpg
+featuredImage: "2015-01-10-13.36.23.jpg"
 ---
 
 Mam z tym problem. Jak przelicz wagę jednych drożdży na drugie. Czasami kupię inne drożdże niż zwykle, a zwykle kupuję świeże. Albo eksperymentuję z nowym przepisem na ciasto, który bazuje na innych drożdżach niż aktualnie posiadam. A zdarza się, że po prostu świeże drożdże okazują się nieświeże i wtedy sięgam po rezerwowy zapas drożdży suszonych. Jak to wszystko przeliczyć? Przygotowałem proste wzory, znalazłem tablę i stworzyłem przelicznik drożdży, dzięki którym możesz łatwo przeliczyć jedne drożdże na drugie.

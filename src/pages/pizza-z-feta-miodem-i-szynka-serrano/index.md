@@ -1,6 +1,6 @@
 ---
-title: Pizza z fetą, miodem i szynką serrano
-date: 2018-04-08T19:48:56.000Z
+title: "Pizza z fetą, miodem i szynką serrano"
+date: "2018-04-08T19:48:56.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -11,7 +11,7 @@ tags:
   - pomidory-koktajlowe
   - ser-feta
   - szynka-serrano
-featuredImage: pizza-feta-serrano-miod.jpg
+featuredImage: "pizza-feta-serrano-miod.jpg"
 ---
 
 Lubię pizzę, w których mieszają się różne smaki. W tym przypadku miesza się słodycz miodu, słoność fety i ostrość chili i soczystość pomidorów pod przykryciem z delikatnej i aromatycznej szynki serrano.

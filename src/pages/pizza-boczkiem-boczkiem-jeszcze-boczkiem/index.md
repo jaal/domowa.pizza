@@ -1,9 +1,9 @@
 ---
-title: Pizza z boczkiem, boczkiem i... jeszcze raz z boczkiem
-date: 2017-01-21T19:58:21.000Z
+title: "Pizza z boczkiem, boczkiem i... jeszcze raz z boczkiem"
+date: "2017-01-21T19:58:21.000Z"
 categories: 
   - przepis-na-pizze
-featuredImage: pizza-z-boczkiem-boczkiem-i-jeszcze-raz-z-boczkiem.jpg
+featuredImage: "pizza-z-boczkiem-boczkiem-i-jeszcze-raz-z-boczkiem.jpg"
 ---
 
 Te pizzę zrobiłem specjalnie dla mojej żony, która ze wszystkich warzyw na świecie najbardziej lubi boczek ;-) Pizza wyszła rewelacyjnie! Pesto i boczek to świetni przyjaciele, a jeszcze jak na wierzch pójdzie kremowa mozzarella… mniam, mniam :-)

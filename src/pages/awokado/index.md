@@ -1,9 +1,9 @@
 ---
-title: Awokado
-date: 2016-04-17T07:04:41.000Z
+title: "Awokado"
+date: "2016-04-17T07:04:41.000Z"
 categories: 
   - skladniki
-featuredImage: 640px-Avocado_with_cross_section_edit.jpg
+featuredImage: "640px-Avocado_with_cross_section_edit.jpg"
 ---
 
 Dojrzałe awokado jest prawie jak masło! Czy trafiło Ci się kiedyś tak dojrzałe awokado, że można było je rozsmarować na grzance jak masło? Mi tak:-) Wtedy się zakochałem w tym owocu.

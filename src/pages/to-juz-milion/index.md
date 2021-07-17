@@ -1,6 +1,6 @@
 ---
-title: To już milion!
-date: 2016-12-21T21:47:07.000Z
+title: "To już milion!"
+date: "2016-12-21T21:47:07.000Z"
 categories: 
   - inne
 ---

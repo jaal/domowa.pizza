@@ -1,6 +1,6 @@
 ---
-title: Pizza z figami i fetą
-date: 2016-03-07T16:11:52.000Z
+title: "Pizza z figami i fetą"
+date: "2016-03-07T16:11:52.000Z"
 categories: 
   - danie-wegetarianskie
   - pizza-wegetarianska
@@ -12,7 +12,7 @@ tags:
   - oliwa-z-oliwek
   - ser-feta
   - ser-mozzarella
-featuredImage: pizza-z-figami-feta.jpg
+featuredImage: "pizza-z-figami-feta.jpg"
 ---
 
 Nie skłamię w ogóle, jeśli powiem, że cała moja rodzina była zachwycona tą pizzą. Na początku podchodziła sceptycznie do tego pomysłu. Coś w stylu „ale jak to tak, pizza na słodko?”. Wyszła rewelacyjnie! Podczas pieczenia pierwszej pizzy, najpierw w kuchnii, a później w całym domu, można było poczuć słodki zapach karmelizowanych fig. Już wtedy wiedziałem, że dobrze zrobiłem, że wybrałem właśnie ten przepis! Po wyjęciu z pieca było jeszcze lepiej! Słodki smak zapieczonych fig połączył się ze słonym i kremowym serem feta.

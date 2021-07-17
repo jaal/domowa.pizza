@@ -1,6 +1,6 @@
 ---
-title: Pizza ze szpinakiem, jajkiem i parmezanem (Fiorentina)
-date: 2014-08-29T19:32:31.000Z
+title: "Pizza ze szpinakiem, jajkiem i parmezanem (Fiorentina)"
+date: "2014-08-29T19:32:31.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -13,7 +13,7 @@ tags:
   - sos-pomidorowy
   - szpinak
   - szynka-parmenska
-featuredImage: pizza-fiorentina.jpg
+featuredImage: "pizza-fiorentina.jpg"
 ---
 
 Jeśli lubisz szpinak, ta pizza jest dla Ciebie. Jeżeli masz przykre doświadczenie z dzieciństwa związane z mdłym szpinakiem w formie papki - czas to zmienić:) Ta pizzą Ci w tym pomoże. Smak szpinaku podkręcony jest czosnkiem i parmezanem. Jest prosta, pyszna, wegetariańska i wygląda kapitalnie. Pizzę tę możesz spotkać w restauracji pod nazwą Fiorentina, Florentina lub Florencka.

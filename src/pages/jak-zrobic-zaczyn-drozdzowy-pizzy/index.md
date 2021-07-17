@@ -1,9 +1,9 @@
 ---
-title: Jak zrobić zaczyn (rozczyn) drożdżowy do pizzy
-date: 2015-02-06T21:08:52.000Z
+title: "Jak zrobić zaczyn (rozczyn) drożdżowy do pizzy"
+date: "2015-02-06T21:08:52.000Z"
 categories: 
   - inne
-featuredImage: 2015-01-25-11.53.45.jpg
+featuredImage: "2015-01-25-11.53.45.jpg"
 ---
 
 Dowiedz się jak zrobić zaczyn na ciasta na pizzę, po co go przygotowuję, dlaczego używam świeżych drożdży, jakich składników użyć, ile czasu zaczyn ma wyrastać.

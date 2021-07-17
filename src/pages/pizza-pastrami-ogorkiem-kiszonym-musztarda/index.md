@@ -1,6 +1,6 @@
 ---
-title: Pizza z pastrami, ogórkiem kiszonym i musztardą
-date: 2018-03-10T09:39:26.000Z
+title: "Pizza z pastrami, ogórkiem kiszonym i musztardą"
+date: "2018-03-10T09:39:26.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - pastrami
   - ser-mozzarella
   - sos-musztardowy
-featuredImage: pizza-z-pastrami.jpg
+featuredImage: "pizza-z-pastrami.jpg"
 ---
 
 Tradycyjna kanapka pastrami to chleb żytni, pastrami, ogórki kiszone i musztarda. Pomyślałem, dlaczego nie spróbować pizzy w podobnym stylu?

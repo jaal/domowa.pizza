@@ -1,9 +1,9 @@
 ---
-title: Piec do pieczenia pizzy Uuni 3
-date: 2017-09-22T19:41:28.000Z
+title: "Piec do pieczenia pizzy Uuni 3"
+date: "2017-09-22T19:41:28.000Z"
 categories: 
   - inne
-featuredImage: pizza-uuni3_gotowa_2.jpg
+featuredImage: "pizza-uuni3_gotowa_2.jpg"
 ---
 
 Od kiedy interesuję się pizzą na poważnie marzyła mi się pizza z pieca opalanego drewnem. Oglądając pracę pizzera lub filmy na Youtube, myślałem o tym jak wsuwam pizzę do pieca. W środku jest drewno, żar i kilkaset stopni Celsjusza. Za kilkadziesiąt sekund zaglądam do środka, obracam pizzę, żeby upiekła się też z drugiej strony. Po niecałych dwóch minutach wyciągam parująca pizzę z delikatnymi śladami zwęglenia. Ciasto ma zapach drewna z którego pochodzi żar, który tę pizzę upiekł w kilkadziesiąt sekund w temperaturze kilkuset stopni. Kropię oliwą i kroję. Ciasto z góry delikatnie pęka. Spód się dłużej opiera, ale puszcza pod naporem siły. Wyciągam „trójkącik” i kropię oliwą. Zjadam wykrojony kawałek. Nie patrzę na to, że gorąca i parzy podniebienie… po prostu jem.

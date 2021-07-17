@@ -1,11 +1,11 @@
 ---
-title: Pizza z kurkami, papryczką chilli, suszonymi pomidorami i czerwoną cebulą
-date: 2016-07-29T20:58:47.000Z
+title: "Pizza z kurkami, papryczką chilli, suszonymi pomidorami i czerwoną cebulą"
+date: "2016-07-29T20:58:47.000Z"
 categories: 
   - danie-wegetarianskie
   - pizza-wegetarianska
   - przepis-na-pizze
-featuredImage: pizza-z-kurkami-mozzarella-chilli-suszonymi-pomidorami-czerwona-cebula.jpg
+featuredImage: "pizza-z-kurkami-mozzarella-chilli-suszonymi-pomidorami-czerwona-cebula.jpg"
 ---
 
 Delikatne kurki, ostre chilli, kremowa mozzarella, lekko słodkawa, ale wyraźnia w smaku czerwona ceubla i aromatyczne suszone pomidory - dla mnie rewelka:-) Ta pizza z kurkami na stale zagości w moim jadłospisie!

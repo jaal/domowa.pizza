@@ -1,9 +1,9 @@
 ---
-title: Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy
-date: 2017-01-10T19:43:28.000Z
+title: "Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy"
+date: "2017-01-10T19:43:28.000Z"
 categories: 
   - inne
-featuredImage: olek.png
+featuredImage: "olek.png"
 ---
 
 Hejka :-)

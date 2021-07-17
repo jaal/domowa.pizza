@@ -1,6 +1,6 @@
 ---
-title: Pizza z sosem kokosowym, świeżym pomidorem i tymiankiem
-date: 2015-07-29T06:12:51.000Z
+title: "Pizza z sosem kokosowym, świeżym pomidorem i tymiankiem"
+date: "2015-07-29T06:12:51.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - sos-kokosowy
   - swieze-pomidory
   - tymianek
-featuredImage: pizza-sos-kokosowy-pomidory-tymianek.jpg
+featuredImage: "pizza-sos-kokosowy-pomidory-tymianek.jpg"
 ---
 
 Przygotowałem pizzę wegańską na bazie <a title="Przepis na sos kokosowy" href="/sos-kokosowy/">sosu kokosowego</a> i świeżych pomidorów. Najpierw kuchnia zapachniała zapiekanym czosnkiem, który przygotowywałem do sosu. Następnie aromat świeżych pomidorów malinówek. Na koniec zapach ziół, oregano, tymianku i świeżej bazylii dopełnił całości. W piekarnika wyszła biało-czerwono-zielona pizza, które pachniała i smakowała wyśmienicie.

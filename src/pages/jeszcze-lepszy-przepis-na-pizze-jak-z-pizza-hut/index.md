@@ -1,10 +1,10 @@
 ---
-title: Jeszcze lepszy przepis na pizzę jak z Pizza Hut
-date: 2015-02-22T20:30:58.000Z
+title: "Jeszcze lepszy przepis na pizzę jak z Pizza Hut"
+date: "2015-02-22T20:30:58.000Z"
 categories: 
   - przepis-na-ciasto
   - przepis-na-pizze
-featuredImage: DSC07534.jpg
+featuredImage: "DSC07534.jpg"
 ---
 
 Przepis na ciasto na pizzę - to mój jeszcze lepszy przepis na pizzę jak z Pizza Hut. Ciasto wychodzi bardziej chrupiące! Sprawdź jak to zrobiłem. Lubię pizzę z Pizza Hut, <a title="Jak zrobić ciasto na pizzę jak w Pizza Hut?" href="/jak-zrobic-ciasto-na-pizze-jak-w-pizza-hut/">już kiedyś o tym pisałem</a>:-) To najsmaczniejsza pizza sieciowa i bardzo ją lubię. Chciałem uzyskać w domu to, co dostaję w restuaracji, czyli grubsze ciasto, trochę tłuściutkie, chrupiące z dołu i chrupiące z góry. Taki był mój cel. Miałem wrażenie, że moja pizza jak z Pizza Hut mogłaby być jeszcze bardziej jak z Pizza Hut, czyli jeszcze bardziej chrupiąca. Eksperymentowałem z nowymi przepisami na ciasto, temperaturę i ustawienia piekarnika… Efekty były różne. Kilka pizz, które upiekłem nadawały się słabo do zjedzenia, kilka innych były bardzo zbliżone w smaku do starego przepisu, a kilka przypominało stare dobre polskie pizze z ciastem na trzy palce:-) Po kilkunastu eksperymentach udało mi się w końcu uzyskać pizzę jeszcze bardziej przypominającą tę z Pizza Hut… Ten przepis mocno różni się o tego, do czego przywykłem przygotowując moje pizze. Ale cel uświęca środki - jeśli wyszła lepsza, to warto zmodyfikować swój stary sposób myślenia i pieczenia. Co się zmieniło?

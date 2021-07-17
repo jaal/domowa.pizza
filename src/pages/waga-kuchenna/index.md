@@ -1,9 +1,9 @@
 ---
-title: Waga kuchenna
-date: 2020-02-27T07:03:18.000Z
+title: "Waga kuchenna"
+date: "2020-02-27T07:03:18.000Z"
 categories: 
   - porady
-featuredImage: waga-kuchenna.jpg
+featuredImage: "waga-kuchenna.jpg"
 ---
 
 Jeśli mógłbym Ci polecić tylko jedno akcesorium, które możesz kupić, aby wynieść swoją pizzę na wyższy poziom to jest to… Nie, to nie jest waga kuchenna. To kamień do pizzy. Waga kuchenna jest na drugim miejscu.

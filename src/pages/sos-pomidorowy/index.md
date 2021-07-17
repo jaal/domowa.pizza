@@ -1,6 +1,6 @@
 ---
-title: Sos pomidorowy
-date: 2014-07-26T15:10:55.000Z
+title: "Sos pomidorowy"
+date: "2014-07-26T15:10:55.000Z"
 categories: 
   - przepis-na-sos
 tags: 
@@ -12,7 +12,7 @@ tags:
   - puszka-pomidorow
   - sol
   - ziola-prowansalskie
-featuredImage: DSC_0202-e1435398927946.jpg
+featuredImage: "DSC_0202-e1435398927946.jpg"
 ---
 
 Sos pomidorowy do pizzy - jest pyszny, pachnie bazylią i zrobisz go w 3 minuty bez gotowania. Poznaj 11 innych sosów do pizzy. Jak zrobić sos pomidorowy do pizzy? Potrzebujesz puszkę pomidorów i jedną rzecz, która zmienia wszystko - świeżą bazylię. Prócz tego kilka składników dostępnych w każdej kuchni i gotowe!

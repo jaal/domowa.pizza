@@ -1,9 +1,9 @@
 ---
-title: Jak zrobić pizzę z grilla?
-date: 2014-08-20T20:44:54.000Z
+title: "Jak zrobić pizzę z grilla?"
+date: "2014-08-20T20:44:54.000Z"
 categories: 
   - przepis-na-pizze
-featuredImage: pizza_z_grilla.jpg
+featuredImage: "pizza_z_grilla.jpg"
 ---
 
 Szukasz pomysłu na trochę inną pizzę lub masz już dosyć kiełbasy z grilla? Polecam Ci **pizzę przyrządzoną na grillu**. Pizza z grilla jest wyśmienita i wcale nie jest trudna w przygotowaniu. Szczególnie **łatwe gdy posiadasz jeden fajny gadżet**, który bardzo mocno ułatwia proces pieczenia pizzy, o którym napiszę później.

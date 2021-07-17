@@ -1,6 +1,6 @@
 ---
-title: Szukasz pomysłu na sylwestrowe danie, które zachwyci Twoich znajomych?
-date: 2014-12-31T10:33:25.000Z
+title: "Szukasz pomysłu na sylwestrowe danie, które zachwyci Twoich znajomych?"
+date: "2014-12-31T10:33:25.000Z"
 categories: 
   - inne
 ---

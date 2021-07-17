@@ -1,6 +1,6 @@
 ---
-title: Sposoby na przedłużenie świeżości domowego chleba
-date: 2020-05-01T18:39:45.000Z
+title: "Sposoby na przedłużenie świeżości domowego chleba"
+date: "2020-05-01T18:39:45.000Z"
 categories: 
   - inne
 ---

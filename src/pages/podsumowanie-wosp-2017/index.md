@@ -1,9 +1,9 @@
 ---
-title: Podsumowanie aukcji WOŚP 2017
-date: 2017-02-05T21:32:33.000Z
+title: "Podsumowanie aukcji WOŚP 2017"
+date: "2017-02-05T21:32:33.000Z"
 categories: 
   - inne
-featuredImage: Logo-WOŚP.jpg
+featuredImage: "Logo-WOŚP.jpg"
 ---
 
 Sie ma!

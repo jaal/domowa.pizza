@@ -1,6 +1,6 @@
 ---
-title: Pizza z pesto, szpinakiem i mozzarellą
-date: 2015-09-16T07:35:26.000Z
+title: "Pizza z pesto, szpinakiem i mozzarellą"
+date: "2015-09-16T07:35:26.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -10,7 +10,7 @@ tags:
   - ser-mozzarella
   - sos-pesto
   - szpinak
-featuredImage: pizza-z-pesto-szpinakiem-mozzarella.jpg
+featuredImage: "pizza-z-pesto-szpinakiem-mozzarella.jpg"
 ---
 
 Pizza wegetariańska z pesto, szpinakiem i mozzarellą powinienem ją nazwać GreenPizz;-) Jest cała zielona, ale bez obaw - też wyrazista w smaku. Smak szpinaku podkręca czosnek i pesto, a całość uzupełnia ciągnąca się mozzarella.

@@ -1,6 +1,6 @@
 ---
-title: Pizza z dynią i boczkiem
-date: 2015-10-23T06:04:18.000Z
+title: "Pizza z dynią i boczkiem"
+date: "2015-10-23T06:04:18.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -12,7 +12,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - syrop-balsamiczny
-featuredImage: pizza-z-dynia-boczkiem.jpg
+featuredImage: "pizza-z-dynia-boczkiem.jpg"
 ---
 
 Pizzy z dynią ciąg dalszy, skoro kilogram można dostać w sezonie za niecałe 3 złote. Tym razem doskonałe połączenie słodkiej dyni i słonego boczku plus na wierzch mięciutka mozzarella. Mniam:-)

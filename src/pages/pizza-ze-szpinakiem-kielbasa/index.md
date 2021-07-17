@@ -1,6 +1,6 @@
 ---
-title: Pizza ze szpinakiem i kiełbasą
-date: 2014-10-04T09:20:35.000Z
+title: "Pizza ze szpinakiem i kiełbasą"
+date: "2014-10-04T09:20:35.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szpinak
-featuredImage: DSC07088-e1415389900231.jpg
+featuredImage: "DSC07088-e1415389900231.jpg"
 ---
 
 ## Sprawdź przepis na pizzę z kiełbasą i szpinakiem

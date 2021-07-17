@@ -1,6 +1,6 @@
 ---
-title: Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy
-date: 2014-11-14T22:49:31.000Z
+title: "Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy"
+date: "2014-11-14T22:49:31.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
-featuredImage: DSC07279-e1420016927394.jpg
+featuredImage: "DSC07279-e1420016927394.jpg"
 ---
 
 Pizza nie musi być tylko plackiem ciasta z serem i szynką. Nie musi też być calzone, czyli pizzą o kształcie pieroga. Można zrobić elegancką przekąskę, idealnie nadającą się na imprezę lub pyszną kanapkę do pracy na lunch lub wycieczkę. Mirek, jeden z czytelników, podesłał mi bardzo ciekawy przepis na... roladę z pizzy, czyli Stromboli. Zrobiłem, spróbowałem i jednym słowem - pyszne:)

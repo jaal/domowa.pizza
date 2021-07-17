@@ -1,6 +1,6 @@
 ---
-title: Jak wyglądała pizza 200 lat temu - historia pizzy
-date: 2014-09-04T20:57:01.000Z
+title: "Jak wyglądała pizza 200 lat temu - historia pizzy"
+date: "2014-09-04T20:57:01.000Z"
 categories: 
   - inne
 ---

@@ -1,9 +1,9 @@
 ---
-title: Kamień do pizzy Emile Henry
-date: 2015-08-11T07:44:07.000Z
+title: "Kamień do pizzy Emile Henry"
+date: "2015-08-11T07:44:07.000Z"
 categories: 
   - akcesoria
-featuredImage: kamien-do-pizzy-emile-henry.jpg
+featuredImage: "kamien-do-pizzy-emile-henry.jpg"
 ---
 
 Śledząc rynek amerykański w temacie pizzy natknąłem się na ciekawy produkt. Pomyślałem, że mógłby mi pomoc w przygotowaniu lepszej domowej pizzy. Napisałem do producenta z pytaniem o możliwość przetestowania. Producent naprowadził mnie na polskiego dystrybutora, który udostępnił mi ten kamień dedykowany pieczeniu pizzy na grillu (też sprawdzi się w piekarniku).

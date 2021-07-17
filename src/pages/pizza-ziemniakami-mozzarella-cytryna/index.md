@@ -1,6 +1,6 @@
 ---
-title: Pizza z ziemniakami, mozzarellą i cytryną
-date: 2016-03-14T10:56:03.000Z
+title: "Pizza z ziemniakami, mozzarellą i cytryną"
+date: "2016-03-14T10:56:03.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -11,7 +11,7 @@ tags:
   - sos-pomidorowy
   - tymianek
   - ugotowane-ziemniaki
-featuredImage: pizza-z-ziemniakami-mozzarella-cytryna.jpg
+featuredImage: "pizza-z-ziemniakami-mozzarella-cytryna.jpg"
 ---
 
 Pizza z ziemniakami? Czemu nie! Jeśli zostały Ci ugotowane ziemniaki z poprzedniego dnia, to to jest pomysł na ich wykorzystanie.

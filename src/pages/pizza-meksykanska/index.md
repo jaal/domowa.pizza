@@ -1,6 +1,6 @@
 ---
-title: Pizza Meksykańska
-date: 2014-08-23T21:29:02.000Z
+title: "Pizza Meksykańska"
+date: "2014-08-23T21:29:02.000Z"
 categories: 
   - przepis-na-pizze
 tags: 

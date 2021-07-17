@@ -1,9 +1,9 @@
 ---
-title: Jak odgrzać pizzę?
-date: 2014-11-09T21:59:08.000Z
+title: "Jak odgrzać pizzę?"
+date: "2014-11-09T21:59:08.000Z"
 categories: 
   - inne
-featuredImage: DSC07529.jpg
+featuredImage: "DSC07529.jpg"
 ---
 
 Założę się, że każdy z nas został kiedyś z problemem „wczorajszej pizzy”. Zrobisz więcej, więc zostanie na kolejny dzień i nie wiadomo jak to podgrzać, aby dało się jeść.

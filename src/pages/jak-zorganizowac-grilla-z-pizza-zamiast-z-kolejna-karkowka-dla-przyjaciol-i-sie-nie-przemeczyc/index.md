@@ -1,9 +1,9 @@
 ---
-title: Jak zorganizować dla przyjaciół grilla z pizzą zamiast kolejnego z kiełbasą i karkówką?
-date: 2015-08-08T06:26:28.000Z
+title: "Jak zorganizować dla przyjaciół grilla z pizzą zamiast kolejnego z kiełbasą i karkówką?"
+date: "2015-08-08T06:26:28.000Z"
 categories: 
   - porady
-featuredImage: pizza_z_grilla.jpg
+featuredImage: "pizza_z_grilla.jpg"
 ---
 
 Kiedy masz już dosyć karkówki i kiełbasek z grilla, to znaczy, że nadszedł czas, aby spróbować czegoś nowego… pizzę z grilla. Przy odrobinie dobrej organizacji i wykorzystaniu kilku moich rad opisanych w tym artykule, bez problemu zorganizujesz grilla z pizzą dla rodziny, przyjaciół czy znajomych. Po przeczytaniu tego artykułu będziesz wiedzieć krok po kroku jak to zrobić.

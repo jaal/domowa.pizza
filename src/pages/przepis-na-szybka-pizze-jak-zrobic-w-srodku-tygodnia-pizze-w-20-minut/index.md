@@ -1,6 +1,6 @@
 ---
-title: Jak zrobić na obiad w środku tygodnia pizzę w 20 minut?
-date: 2014-08-21T20:51:34.000Z
+title: "Jak zrobić na obiad w środku tygodnia pizzę w 20 minut?"
+date: "2014-08-21T20:51:34.000Z"
 categories: 
   - przepis-na-pizze
 ---

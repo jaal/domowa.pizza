@@ -1,6 +1,6 @@
 ---
-title: Pizza z paskami cukinii, szynki i mozzarelli
-date: 2015-08-17T14:13:09.000Z
+title: "Pizza z paskami cukinii, szynki i mozzarelli"
+date: "2015-08-17T14:13:09.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-szwarcwaldzka
-featuredImage: pizza-z-paskami-cukini-szynki-mozzarelli.jpg
+featuredImage: "pizza-z-paskami-cukini-szynki-mozzarelli.jpg"
 ---
 
 Dzisiaj polecam prostą pizzę, którą możesz przyrządzić praktycznie przez cały rok. Jej urok tej pizzy polega na bardzo cienkich plastrach cukinii i szynki szwarcwaldzkiej, które smakują zupełnie inaczej niż gdyby były pokrojone „na grubo”. Jak tak cieniutko pokroić dowiesz się w dalszej części postu. Jednym słowem prosta (jak wszystkie, które robię chyba;-)) zdrowa i syta.

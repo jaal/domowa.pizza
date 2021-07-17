@@ -1,6 +1,6 @@
 ---
-title: Pizza ze szpinakiem, fetą i świeżymi pomidorami
-date: 2015-04-19T20:26:55.000Z
+title: "Pizza ze szpinakiem, fetą i świeżymi pomidorami"
+date: "2015-04-19T20:26:55.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - sos-pomidorowy
   - swieze-pomidory
   - szpinak
-featuredImage: DSC07732.jpg
+featuredImage: "DSC07732.jpg"
 ---
 
 Ta pizza jest kolorowa, wiosenna, lekka i pyszna:-) Polecam wszystkim, którzy lubią takie niemięsne klimaty.

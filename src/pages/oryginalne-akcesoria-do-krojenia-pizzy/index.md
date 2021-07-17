@@ -1,6 +1,6 @@
 ---
-title: 20 najbardziej oryginalnych akcesoriów do krojenia pizzy
-date: 2015-06-18T21:53:01.000Z
+title: "20 najbardziej oryginalnych akcesoriów do krojenia pizzy"
+date: "2015-06-18T21:53:01.000Z"
 categories: 
   - inne
 ---

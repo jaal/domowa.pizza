@@ -1,6 +1,6 @@
 ---
-title: Pizza z czereśniami
-date: 2018-07-07T11:50:02.000Z
+title: "Pizza z czereśniami"
+date: "2018-07-07T11:50:02.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -12,7 +12,7 @@ tags:
   - ser-kozi
   - ser-mozzarella
   - syrop-klonowy
-featuredImage: pizza-z-czeresniami.jpg
+featuredImage: "pizza-z-czeresniami.jpg"
 ---
 
 Ok, uwielbiam też pizze na słodko. Skłamałbym pisząc, że zrobiłem tę pizzę tylko dla dzieci 😄 Jest bajecznie prosta i podpasuje małym miłośnikom pizzy.

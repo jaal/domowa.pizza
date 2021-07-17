@@ -1,9 +1,9 @@
 ---
-title: Książka o domowym chlebie w 12 minut za darmo
-date: 2019-10-09T20:54:18.000Z
+title: "Książka o domowym chlebie w 12 minut za darmo"
+date: "2019-10-09T20:54:18.000Z"
 categories: 
   - inne
-featuredImage: chleb_small.jpg
+featuredImage: "chleb_small.jpg"
 ---
 
 ## Dlaczego oddaję książkę za darmo?

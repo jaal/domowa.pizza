@@ -1,6 +1,6 @@
 ---
-title: Dziękuję
-date: 2016-02-09T09:29:13.000Z
+title: "Dziękuję"
+date: "2016-02-09T09:29:13.000Z"
 categories: 
   - inne
 ---

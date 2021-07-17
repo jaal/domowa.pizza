@@ -1,6 +1,6 @@
 ---
-title: Pizza z pikantnym pepperoni, miodem i chili
-date: 2018-03-17T21:11:47.000Z
+title: "Pizza z pikantnym pepperoni, miodem i chili"
+date: "2018-03-17T21:11:47.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - pepperoni
   - ser-mozzarella
   - sos-pomidorowy
-featuredImage: pizza-pepperoni-miod-chili-2.jpg
+featuredImage: "pizza-pepperoni-miod-chili-2.jpg"
 ---
 
 Ostrość papryczek chili i pepperoni przełamana słodyczą miodu. Lubię takie połączenia na pizzy.

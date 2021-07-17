@@ -1,9 +1,9 @@
 ---
-title: Jak zdobyć kamień do pizzy za darmo?
-date: 2014-12-08T21:29:05.000Z
+title: "Jak zdobyć kamień do pizzy za darmo?"
+date: "2014-12-08T21:29:05.000Z"
 categories: 
   - akcesoria
-featuredImage: DSC07475.jpg
+featuredImage: "DSC07475.jpg"
 ---
 
 Jak zdobyć kamień do pizzy za darmo lub za parę złotych? Potrzeba matką wynalazków. I tym razem było podobnie. Nie miałem kamienia do pizzy, bardzo go potrzebowałem i udało mi się wymyślić sposób jak go zdobyć.

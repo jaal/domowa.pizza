@@ -1,6 +1,6 @@
 ---
-title: Sos pesto
-date: 2014-09-16T20:26:00.000Z
+title: "Sos pesto"
+date: "2014-09-16T20:26:00.000Z"
 categories: 
   - danie-wegetarianskie
   - przepis-na-sos
@@ -10,7 +10,7 @@ tags:
   - oliwa-z-oliwek
   - orzeszki-piniowe
   - parmezan
-featuredImage: DSC07052-e1415389452650.jpg
+featuredImage: "DSC07052-e1415389452650.jpg"
 ---
 
 Przepis na sos pesto. Jak zrobić sos pesto z bazylii orzeszków piniowych parmezanu oliwy i czosnku? Prosty, szybki i domowy sos pesto. Zrobisz go w 15 minut. Oprócz pizzy, wykorzystasz go później do makaronu i zrobisz pyszną pastę.

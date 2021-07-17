@@ -1,6 +1,6 @@
 ---
-title: Pizza z groszkiem, fetą, cukinia i płatkami chili
-date: 2016-12-03T21:18:45.000Z
+title: "Pizza z groszkiem, fetą, cukinia i płatkami chili"
+date: "2016-12-03T21:18:45.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -11,7 +11,7 @@ tags:
   - platki-chilli
   - ser-feta
   - ser-mozzarella
-featuredImage: DSC_0240.jpg
+featuredImage: "DSC_0240.jpg"
 ---
 
 Oj tak, to jest dobre połączenie! Potrzeba matką wynalazków, gdy lodówka pusta, rodzą się pomysły:-) Chrupiący świeży słodki, chrupiący groszek, lekko słonawa feta i kremowa mozzarella, delikatne paski cukini, a na wierzchu pikanterii dodają płatki chili :-) Wszystkie te składniki miałem w lodówce (cukinia i feta), w zamrażarce (mozzarella i groszek) lub na półeczce z przyprawami (płatki chilli).

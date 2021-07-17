@@ -1,6 +1,6 @@
 ---
-title: Pizza ze stekiem
-date: 2018-05-06T09:08:26.000Z
+title: "Pizza ze stekiem"
+date: "2018-05-06T09:08:26.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -10,7 +10,7 @@ tags:
   - oliwa-z-oliwek
   - sol-morska
   - stek
-featuredImage: pizza-ze-stekiem.jpg
+featuredImage: "pizza-ze-stekiem.jpg"
 ---
 
 Nie ukrywam, rzadko kiedy zostaje mi na następny dzień kawałek zrobionego steka. Steki w rodzinie jemy na wyjątkowe okazje i zwykle do ostatniego kawałka. Tym razem wyjątkowo został. Kiedy będę miał następną okazję, aby niewielkim kosztem zrobić pizzę ze stekiem?

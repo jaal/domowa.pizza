@@ -1,9 +1,9 @@
 ---
-title: Pizza domowa w 60 minut
-date: 2020-03-15T22:03:49.000Z
+title: "Pizza domowa w 60 minut"
+date: "2020-03-15T22:03:49.000Z"
 categories: 
   - inne
-featuredImage: pizza-rukola-pomidory-parmezan-szynka.jpg
+featuredImage: "pizza-rukola-pomidory-parmezan-szynka.jpg"
 ---
 
 ## Jak być zawsze przygotowanym, aby zrobić domową pizzę w 60 minut?

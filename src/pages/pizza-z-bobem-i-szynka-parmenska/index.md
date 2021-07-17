@@ -1,6 +1,6 @@
 ---
-title: Pizza z bobem i szynką parmeńską
-date: 2015-07-14T20:27:14.000Z
+title: "Pizza z bobem i szynką parmeńską"
+date: "2015-07-14T20:27:14.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -12,7 +12,7 @@ tags:
   - sos-marinara
   - sos-pomidorowy
   - tymianek
-featuredImage: pizza-z-bobem-szynka-parmenska.jpg
+featuredImage: "pizza-z-bobem-szynka-parmenska.jpg"
 ---
 
 Lubię wykorzystywać sezonowe warzywa i owoce na moich pizzach. Bób takim właśnie jest, a teraz jest szczyt sezonu bobowego. Ugotowałem poprzedniego dnia trochę więcej bobu, niż moja rodzina była w stanie zjeść… Pomyślałem, dlaczego nie zrobić pizzy z bobem? Użyłem sosu marinara, który lepiej pasuje do bobu. W dalszej części dowiesz się jak ugotować bób, aby był lżejszy w trawieniu.

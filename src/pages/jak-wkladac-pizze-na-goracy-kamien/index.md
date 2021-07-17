@@ -1,6 +1,6 @@
 ---
-title: Jak wkładać pizzę na gorący kamień?
-date: 2014-11-13T22:28:01.000Z
+title: "Jak wkładać pizzę na gorący kamień?"
+date: "2014-11-13T22:28:01.000Z"
 categories: 
   - inne
 ---

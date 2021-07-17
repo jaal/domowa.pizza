@@ -1,6 +1,6 @@
 ---
-title: Pizza BBQ (barbecue)
-date: 2015-12-03T07:54:46.000Z
+title: "Pizza BBQ (barbecue)"
+date: "2015-12-03T07:54:46.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -12,7 +12,7 @@ tags:
   - oregano
   - sos-bbq
   - szynka-parmenska
-featuredImage: pizza-bbq-barbecue.jpg
+featuredImage: "pizza-bbq-barbecue.jpg"
 ---
 
 Przez tyle lat czekałem, żeby odtworzyć smak tej pizzy i tego sosu. Okazało się, że to prostsze niż mi się wydawało. Kopę lat temu spróbowałem pewnej pizzy w pewnej pizzerii. Jej smak chodził za mną długo. W sumie to do dzisiaj. Zastanawiałem się jak do tej pizzy podejść, jak powtórzyć jej smak. Wydawało mi się, że jest nie do odtworzenia. Niby prosta sprawa. Tak ją pamiętam: ciasto na pizzę, dużo mięsa, cebula, dużo mozzarelli i sos barbeque. Był słodki, był pikantny, był gęsty - niebo w gębie.

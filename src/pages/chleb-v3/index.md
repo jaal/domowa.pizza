@@ -1,6 +1,6 @@
 ---
-title: Książka \"Domowy chleb w 12 minut\"
-date: 2020-10-08T18:15:43.000Z
+title: "Książka \"Domowy chleb w 12 minut\""
+date: "2020-10-08T18:15:43.000Z"
 categories: 
   - inne
 ---

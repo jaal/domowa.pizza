@@ -1,9 +1,9 @@
 ---
-title: Łopatka do pizzy
-date: 2014-08-25T21:10:17.000Z
+title: "Łopatka do pizzy"
+date: "2014-08-25T21:10:17.000Z"
 categories: 
   - akcesoria
-featuredImage: DSC08250FIX.jpg
+featuredImage: "DSC08250FIX.jpg"
 ---
 
 Jeśli masz już kamień, gorąco;-) polecam, abyś zastanowił się nad łopatką do pizzy. To bardzo przydatną rzecz w domowym pieczeniu pizzy, która ustrzeże Cię przed poparzeniami i innymi niemiłymi rzeczami.

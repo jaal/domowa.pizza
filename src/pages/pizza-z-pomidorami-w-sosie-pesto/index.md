@@ -1,6 +1,6 @@
 ---
-title: Pizza z sosem pesto i pomidorami
-date: 2014-09-14T19:23:21.000Z
+title: "Pizza z sosem pesto i pomidorami"
+date: "2014-09-14T19:23:21.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - pomidor
   - ser-mozzarella
   - sos-pesto
-featuredImage: DSC07080.jpg
+featuredImage: "DSC07080.jpg"
 ---
 
 ## Sprawdź przepis na pizzę z sosem pesto i pomidorami

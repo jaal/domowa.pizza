@@ -1,6 +1,6 @@
 ---
-title: Pizza z szarpaną wieprzowiną, musztardą i kiszonym ogórkiem
-date: 2017-03-07T20:41:17.000Z
+title: "Pizza z szarpaną wieprzowiną, musztardą i kiszonym ogórkiem"
+date: "2017-03-07T20:41:17.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -8,7 +8,7 @@ tags:
   - ogorek-kiszony
   - pulled-pork
   - szarpana-wieprzowina
-featuredImage: pizza-pulled-pork-ogorek-musztarda.jpg
+featuredImage: "pizza-pulled-pork-ogorek-musztarda.jpg"
 ---
 
 Mam sentyment do polskiej kuchni, takiej z musztardą, wieprzowiną czy ogórkami kiszonymi. Przyszedł mi pomysł na pizzę, która to wszyskto połączy. Oto mój sposób na Nieobciachowa Pizza w Stylu Polskim.

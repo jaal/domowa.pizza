@@ -1,6 +1,6 @@
 ---
-title: Pizza wychodzi za mokra - co zrobić?
-date: 2014-11-19T22:03:28.000Z
+title: "Pizza wychodzi za mokra - co zrobić?"
+date: "2014-11-19T22:03:28.000Z"
 categories: 
   - inne
 ---

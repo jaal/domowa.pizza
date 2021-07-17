@@ -1,11 +1,11 @@
 ---
-title: Sos śmietanowy
-date: 2014-08-13T21:16:24.000Z
+title: "Sos śmietanowy"
+date: "2014-08-13T21:16:24.000Z"
 categories: 
   - przepis-na-sos
 tags: 
   - smietana-do-zup-i-sosow
-featuredImage: sos-kokosowy-do-pizzy.jpg
+featuredImage: "sos-kokosowy-do-pizzy.jpg"
 ---
 
 Przepis na sos śmietanowy do pizzy - jak zrobić sos śmietanowy w 1 minutę. Pobierz darmowy PDF z 12 przepisami na sos do pizzy, w tym przepis na klasyczny sos pomidorowy, sos marinara, sos kokosowy czy curry. Poznasz również mniej kaloryczne wersje sosu śmietanowego.

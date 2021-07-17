@@ -1,9 +1,9 @@
 ---
-title: Pizza z ziemniakami, brokułem i boczkiem
-date: 2014-12-04T18:37:06.000Z
+title: "Pizza z ziemniakami, brokułem i boczkiem"
+date: "2014-12-04T18:37:06.000Z"
 categories: 
   - przepis-na-pizze
-featuredImage: DSC_0175-e1418159454360.jpg
+featuredImage: "DSC_0175-e1418159454360.jpg"
 ---
 
 Ostatnio testowałem <a title="Pizza swojska z kapustą kiszoną i kiełbasą" href="/pizza-swojska-z-kapusta-kiszona-kielbasa/">musztardę dijon jako sos do pizzy</a>. Zainspirował mnie smak <a title="Pizza swojska z kapustą kiszoną i kiełbasą" href="/pizza-swojska-z-kapusta-kiszona-kielbasa/">pizzy „po polsku”, czyli z kapustą kiszoną, kiełbasą i właśnie musztardą</a>. Szukałem ciekawych przepisów na pizze z wykorzystaniem musztardy i w sumie z dwóch przepisów zrodził się jeden - bardzo ciekawy zresztą, ponieważ pozwala zagospodarować pozostałości z obiadu dnia poprzedniego.

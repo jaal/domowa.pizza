@@ -1,10 +1,10 @@
 ---
-title: Jak w kilka sekund pokroić pizzę na 4, 8, 10 czy 16 kawałków?
-date: 2015-05-15T20:54:03.000Z
+title: "Jak w kilka sekund pokroić pizzę na 4, 8, 10 czy 16 kawałków?"
+date: "2015-05-15T20:54:03.000Z"
 categories: 
   - inne
   - porady
-featuredImage: radelko.jpg
+featuredImage: "radelko.jpg"
 ---
 
 Na stole stoi Twoja wymarzona pizza, którą dopiero co upiekłeś. Mniam, mniam:-) Gości przy stole czekają na Twoją wymarzoną pizzę. Jeszcze tylko musisz ją pokroić... Ciasto nie chce się przekroić do końca. Składniki przesuwają jeżdżą po sosie. Ser przylepia się do noża. Generalnie jest dramat:-)

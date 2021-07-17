@@ -1,9 +1,9 @@
 ---
-title: Jak ustawić piekarnik do pieczenia pizzy?
-date: 2014-11-07T21:53:26.000Z
+title: "Jak ustawić piekarnik do pieczenia pizzy?"
+date: "2014-11-07T21:53:26.000Z"
 categories: 
   - porady
-featuredImage: jak-ustawic-piekarnik-e1418332402839.jpg
+featuredImage: "jak-ustawic-piekarnik-e1418332402839.jpg"
 ---
 
 Kompletny przewodnik "Jak ustawić piekarnik do pieczenia pizzy". Poznaj każdy sposób jak ustawić piekarnik, aby dobrze upiekł Twoją pizzę, nie zależnie od tego czy masz piekarnik gazowy czy elektryczny, z termoobiegiem czy bez, z kamieniem czy na blaszce. Dasz radę na każdym "sprzęcie". Rozważyłem chyba każdy scenariusz:-) Na samym końcu postu możesz znaleźć propozycję najbardziej optymalnego ustawienia, które zadziała 9/10 razy.

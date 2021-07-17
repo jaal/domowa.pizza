@@ -1,6 +1,6 @@
 ---
-title: Przepis na ciasto na pizzę
-date: 2014-07-26T15:01:48.000Z
+title: "Przepis na ciasto na pizzę"
+date: "2014-07-26T15:01:48.000Z"
 categories: 
   - przepis-na-ciasto
 tags: 
@@ -8,7 +8,7 @@ tags:
   - maka-pszenna
   - sol
   - woda
-featuredImage: ciasto-na-pizze-przepis-na-pizze.jpg
+featuredImage: "ciasto-na-pizze-przepis-na-pizze.jpg"
 ---
 
 Prosty i sprawdzony przepis na ciasto na pizzę. Pizza wyjdzie jak z włoskiej pizzerii - na cienkim, chrupiącym cieście i z wyrośniętymi zapieczonymi brzegami. Po przeczytaniu tego artykułu bez problemu przygotujesz ciasto na 3 pyszne i chrupiące pizze.

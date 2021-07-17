@@ -1,6 +1,6 @@
 ---
-title: Sos dyniowy
-date: 2015-10-12T07:16:53.000Z
+title: "Sos dyniowy"
+date: "2015-10-12T07:16:53.000Z"
 categories: 
   - przepis-na-sos
 tags: 
@@ -10,7 +10,7 @@ tags:
   - oliwa
   - sol
   - swiezo-zmielony-pieprz
-featuredImage: pizza-sos-dyniowy-swiezy-szpinak.jpg
+featuredImage: "pizza-sos-dyniowy-swiezy-szpinak.jpg"
 ---
 
 Żałuję, że dynia nie jest całoroczna. Uwielbiam potrawy z dynią. Od zup dyniowych, przez pasty dyniowe po dynię na słodko w postaci ciasta czy dżemów. Nie może jej zabraknąć również na mojej pizzy. Dlatego przygotowałem sos z dyni, który ozłoci (dosłownie i w przenośni) Twoją pizzę i spowoduje, że jesień nie będzie taka straszna. Ten sos (jak i dynię) możesz spokojnie mrozić i wykorzystać go później, gdy sezon się już skończy. O tym przeczytasz na końcu przepisu.

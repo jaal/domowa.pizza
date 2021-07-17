@@ -1,6 +1,6 @@
 ---
-title: Pizza z grillowanym kurczakiem, brokułami i suszonymi pomidorami
-date: 2015-03-12T21:21:20.000Z
+title: "Pizza z grillowanym kurczakiem, brokułami i suszonymi pomidorami"
+date: "2015-03-12T21:21:20.000Z"
 categories: 
   - przepis-na-pizze
 tags: 
@@ -9,7 +9,7 @@ tags:
   - kurczak
   - oregano
   - suszone-pomidory
-featuredImage: DSC07583.jpg
+featuredImage: "DSC07583.jpg"
 ---
 
 Połączenie grillowanego kurczaka, brokułów i suszonych pomidorów wielokrotnie sprawdziłem przygotowując je z makaronem. Postanowiłem przetestować również na pizzy i efekt był lepszy niż zakładałem. Sprawdź sam!

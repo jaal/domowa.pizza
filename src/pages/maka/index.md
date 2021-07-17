@@ -1,11 +1,11 @@
 ---
-title: Jaka mąka do pizzy?
-date: 2015-01-18T10:01:12.000Z
+title: "Jaka mąka do pizzy?"
+date: "2015-01-18T10:01:12.000Z"
 categories: 
   - skladniki
 tags: 
   - maka
-featuredImage: 640px-Flours.jpg
+featuredImage: "640px-Flours.jpg"
 ---
 
 Jeśli zastanawiasz się jakiej mąki użyć do pizzy to dobrze trafiłeś. Po przeczytaniu tego postu będziesz wiedzieć jaką mąkę kupić na pizzę oraz dowiesz się jakie inne mąki można użyć do pieczenia pizzy.

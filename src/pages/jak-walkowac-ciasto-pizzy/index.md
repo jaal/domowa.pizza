@@ -1,6 +1,6 @@
 ---
-title: Jak wałkować ciasto do pizzy?
-date: 2014-12-16T22:34:33.000Z
+title: "Jak wałkować ciasto do pizzy?"
+date: "2014-12-16T22:34:33.000Z"
 categories: 
   - akcesoria
 ---

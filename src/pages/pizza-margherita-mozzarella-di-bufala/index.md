@@ -1,6 +1,6 @@
 ---
-title: Pizza margherita con mozzarella di bufala
-date: 2016-02-02T21:26:54.000Z
+title: "Pizza margherita con mozzarella di bufala"
+date: "2016-02-02T21:26:54.000Z"
 categories: 
   - pizza-wegetarianska
   - przepis-na-pizze
@@ -8,7 +8,7 @@ tags:
   - bazylia
   - ser-mozzarella-di-bufala
   - sos-pomidorowy
-featuredImage: pizza-mozzarella-di-bufala.jpg
+featuredImage: "pizza-mozzarella-di-bufala.jpg"
 ---
 
 Jest pizza margherita i jest pizza margherita di bufala. Niby różnica tkwi tylko w serze, ale jest to różnica, której warto zakosztować, ponieważ taka pizza jest kwintesencją delikatności. Ser mozzarella z mleka bawolego jest bardziej kremowy w smaku, trochę twardszy w dotyku przed roztopieniem i kapitalnie się ciągnący oraz delikatny po rozpuszczeniu. Warto spróbować w swoim życiu takiej pizzy! Udało mi się go dostać w Lidlu w ramach promocji Tygodnia Włoskiego w bardzo dobrej cenie 40 zł za kilogram. Jeśli uda Ci się do tego upolować w dobrej cenie pomidory San Marzano, a ciasto zrobisz na mące Caputo Blu, to masz przedsmak włoskiej neapolitany. Mniam!

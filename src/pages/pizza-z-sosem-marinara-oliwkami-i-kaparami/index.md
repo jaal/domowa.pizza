@@ -1,6 +1,6 @@
 ---
-title: Pizza z sosem marinara, oliwkami i kaparami
-date: 2015-03-31T09:21:30.000Z
+title: "Pizza z sosem marinara, oliwkami i kaparami"
+date: "2015-03-31T09:21:30.000Z"
 categories: 
   - danie-weganskie
   - danie-wegetarianskie
@@ -13,7 +13,7 @@ tags:
   - oliwa-z-oliwek
   - oregano
   - sos-marinara
-featuredImage: DSC07624.jpg
+featuredImage: "DSC07624.jpg"
 ---
 
 Prosta, nietypowa, wyrazista i ciekawa. Kluczem jest tutaj sos marinara, który w połączeniu z kaparami i oliwkami daje kapitalny smak. Brak sera nie jest tu żadnym minusem, chociaż na końcu napiszę jakiego sera można ewentualnie użyć, gdy nie wyobrażasz sobie pizzy bez sera;-)
