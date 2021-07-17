@@ -15,6 +15,7 @@ import Container from '../components/Container';
 import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
 import Share from '../components/Share';
+import { Tags, Categories } from '../components/Taxonomy'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -53,18 +54,18 @@ class BlogPostTemplate extends React.Component {
             <Article>
               <div dangerouslySetInnerHTML={{ __html: post.html }} />
             </Article>
+            <Categories items={post.frontmatter.categories} />
+            <Tags items={post.frontmatter.tags} />
             {userConfig.showShareButtons && (
               <Share url={url} title={post.frontmatter.title} />
             )}
           </Card>
-
           <PageNav>
             {previous && (
               <Button to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Button>
             )}
-
             {next && (
               <Button to={next.fields.slug} rel="next">
                 {next.frontmatter.title} →
@@ -92,6 +93,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        tags
+        categories
         date(formatString: "DD MMMM YYYY", locale: "pl-PL")
         featuredImage {
           childImageSharp {

@@ -1,6 +1,7 @@
 ---
 title: "Ananas"
 date: "2014-12-21T22:05:52.000Z"
+category: skladniki
 categories: 
   - skladniki
 featuredImage: "2014-12-12-13.52.23.jpg"
