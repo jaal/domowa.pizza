@@ -63,6 +63,8 @@ exports.createPages = ({ graphql, actions }) => {
             createPage: createPage,
             pageTemplate: 'src/templates/index.js',
             pageLength: userConfig.postsPerPage,
+            buildPath: (index, pathPrefix) =>
+              index > 1 ? `/page/${index}` : `/`
           });
 
           createPage({
