@@ -12,6 +12,8 @@ tags:
   - oregano
   - sos-bbq
   - szynka-parmenska
+meta: 
+    description: "Przez tyle lat czekałem, żeby odtworzyć smak tej pizzy i tego sosu. Okazało się, że to prostsze niż mi się wydawało. Wyszło pikantny i słodko - genialnie."
 featuredImage: "pizza-bbq-barbecue.jpg"
 ---
 

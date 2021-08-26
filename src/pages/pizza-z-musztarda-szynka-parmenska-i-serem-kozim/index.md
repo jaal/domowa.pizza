@@ -9,6 +9,8 @@ tags:
   - sos-musztardowy
   - swiezo-zmielony-pieprz
   - szynka-parmenska
+meta: 
+    description: "To mój absolutny hit ostatnio. Sekret smaku to połączenie odpowiedniej musztardy i sera koziego. W dodatku pizza jest prosta i szybka w przygotowaniu."
 featuredImage: "pizza-musztarda-szynka-ser-kozi.jpg"
 ---
 

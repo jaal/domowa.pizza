@@ -3,6 +3,9 @@ title: "Kamień do pizzy"
 date: "2014-08-08T20:42:41.000Z"
 categories: 
   - akcesoria
+meta: 
+    title: "Kamień do pizzy - czy warto, dlaczego warto i jak używać?"
+    description: "Kamień do pizzy jest najważniejszy. Dowiedz się dlaczego oraz jak możesz go zdobyć za darmo. Sprawdź jak używać i konserwować kamień do pizzy."
 featuredImage: "kamien-do-pizzy.jpg"
 ---
 

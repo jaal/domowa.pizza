@@ -9,6 +9,8 @@ tags:
   - kurczak
   - oregano
   - suszone-pomidory
+meta: 
+    description: "Połączenie grillowanego kurczaka, brokułów i suszonych pomidorów wielokrotnie sprawdziłem przygotowując je z makaronem. Postanowiłem przetestować również na pizzy i efekt był lepszy niż zakładałem. Sprawdź sam!"
 featuredImage: "DSC07583.jpg"
 ---
 

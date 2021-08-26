@@ -11,6 +11,8 @@ tags:
   - oliwa-z-oliwek
   - suszone-pomidory
   - tymianek
+meta: 
+    description: "Sos z suszonych pomidorów w 5 minut. Podkręci smak Twojej pizzy."
 featuredImage: "sos-suszone-pomidory.jpg"
 ---
 

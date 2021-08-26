@@ -8,6 +8,9 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    title: "Stromboli z szynką parmeńską i bazylią, czyli rolada z pizzy"
+    description: "Sprawdź przepis na Stromboli z szynką parmeńską i bazylią. Piecze się tylko 20 minut. Zrobisz ze składników z Biedronki"
 featuredImage: "DSC07279-e1420016927394.jpg"
 ---
 

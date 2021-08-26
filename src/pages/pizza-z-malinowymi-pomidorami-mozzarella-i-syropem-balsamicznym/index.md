@@ -14,6 +14,8 @@ tags:
   - ser-mozzarella
   - swieze-pomidory
   - syrop-balsamiczny
+meta: 
+    description: "Pizza z malinówkami - nie spodziewałem się, że tak prosta pizza może tak kapitalnie wyglądać i tak pysznie smakować. A to naprawdę było proste!"
 featuredImage: "pizza-malinowe-pomidory-syrop-balsamiczny.jpg"
 ---
 

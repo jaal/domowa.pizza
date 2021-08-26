@@ -5,6 +5,9 @@ categories:
   - przepis-na-sos
 tags: 
   - smietana-do-zup-i-sosow
+meta: 
+    title: "Sos śmietanowy (nie tylko do pizzy) - przepis w 1 minutę"
+    description: "Przepis na sos śmietanowy do pizzy - jak zrobić sos śmietanowy w 1 minutę bez gotowania. Pobierz darmowy PDF z 12 innymi przepisami na sos do pizzy."
 featuredImage: "sos-kokosowy-do-pizzy.jpg"
 ---
 

@@ -12,6 +12,8 @@ tags:
   - sos-marinara
   - sos-pomidorowy
   - tymianek
+meta: 
+    description: "Pyszna, kolorowa, sezonowa pizza na Twoim talerzu. Bób i szynka parmeńska na mojej pizzy wyglądają jak starzy przyjaciele. I smakują rewelacyjnie."
 featuredImage: "pizza-z-bobem-szynka-parmenska.jpg"
 ---
 

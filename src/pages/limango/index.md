@@ -3,6 +3,8 @@ title: "Mini poradnik Limangosa - Twoja pierwsza domowa pizza w 3 krokach"
 date: "2016-06-06T19:46:51.000Z"
 categories: 
   - inne
+meta: 
+    description: "Drogi Limangosie! Czas najwyższy, abyś zrobił swoją pierwszą domową pizzę, jeśli jeszcze nie miałeś tej przyjemności. To czysta zabawa, więc baw się dobrze!"
 ---
 
 ## Drogi Limangosie!

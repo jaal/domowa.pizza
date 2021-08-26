@@ -11,6 +11,8 @@ tags:
   - ser-mozzarella
   - sos-pomi
   - szynka
+meta: 
+    description: "To chyba jeden z najpopularniejszych klasyków, jeśli chodzi o pizzę. Papryka i szynka (lub kiełbasa) smakuje pewnie i dobrze, dlatego warto jej spróbować."
 featuredImage: "IMG_20150625_181558803.jpg"
 ---
 

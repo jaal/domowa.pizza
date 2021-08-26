@@ -3,6 +3,9 @@ title: "Poznaj 8 prostych dodatków, które zmienią oblicze Twojej domowej pizz
 date: "2015-03-09T16:34:23.000Z"
 categories: 
   - inne
+meta: 
+    title: "8 prostych dodatków, które zmienią oblicze Twojej domowej pizzy"
+    description: "Poznaj 8 prostych i dostępnych w każdym sklepie dodatków, które zmienią oblicze Twojej domowej pizzy pokręcając jej smak."
 featuredImage: "Dried_Peppercorns.jpg"
 ---
 

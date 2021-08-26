@@ -3,6 +3,8 @@ title: "Waga kuchenna"
 date: "2020-02-27T07:03:18.000Z"
 categories: 
   - porady
+meta: 
+    description: "Waga kuchenna - czy z wagą kuchenną możesz przygotować lepszą pizzę? Co jeśli jej nie masz? Jak sobie poradzić bez wagi kuchennej?"
 featuredImage: "waga-kuchenna.jpg"
 ---
 

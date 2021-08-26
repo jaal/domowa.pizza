@@ -12,6 +12,8 @@ tags:
   - ser-kozi
   - sos-pomidorowy
   - swiezo-zmielony-pieprz
+meta: 
+    description: "Pizza z awokado to prawdziwa bomba smaku, zdrowia i witamin, którą zrobisz bardzo prosto."
 featuredImage: "pizza-z-awokado-limonka-serem-feta-i-kozim.jpg"
 ---
 

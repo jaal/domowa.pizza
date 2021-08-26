@@ -3,6 +3,8 @@ title: "Jak wkładać pizzę na gorący kamień?"
 date: "2014-11-13T22:28:01.000Z"
 categories: 
   - inne
+meta: 
+    description: "Jak przenieść pizzę na gorący kamień do pizzy, który znajduje się w piekarniku i ma już ponad 200 stopni Celsjusza? Jest na to sposób. Zobacz."
 ---
 
 A więc korzystasz z kamienia do pizzy:-) Na początek - moje gratulacje! Kamień do pizzy to jedna z tych rzeczy, które pomogą zrobić świetną pizzę zamiast tylko dobrej.

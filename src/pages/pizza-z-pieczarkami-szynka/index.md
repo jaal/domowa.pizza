@@ -11,6 +11,8 @@ tags:
   - sos-pomidorowy
   - szynka
   - szynka-parmenska
+meta: 
+    description: "Pizza z pieczarkami i szynką - to jest już polski klasyk, dostaniesz ją w każdej pizzerii. Spróbuj jej w domu. Poznaj przepis na klasyczną pizzę z pieczarkami i szynką."
 featuredImage: "DSC07610.jpg"
 ---
 

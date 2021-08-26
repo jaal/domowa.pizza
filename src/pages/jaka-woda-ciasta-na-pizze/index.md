@@ -3,6 +3,8 @@ title: "Jaka woda do ciasta na pizzę"
 date: "2015-02-02T07:23:52.000Z"
 categories: 
   - inne
+meta: 
+    description: "Dowiedz się jakiej wody użyć, jaka powinna być temperatura oraz jaką ilość wody dać, aby uzyskać idealne ciasto na pizzę."
 featuredImage: "640px-Water_droplet_blue_bg05.jpg"
 ---
 

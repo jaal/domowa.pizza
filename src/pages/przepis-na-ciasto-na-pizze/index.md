@@ -8,6 +8,9 @@ tags:
   - maka-pszenna
   - sol
   - woda
+meta: 
+    title: "Ciasto na pizzę - prosty i sprawdzony przepis na ciasto na pizzę"
+    description: "Prosty i sprawdzony przepis na ciasto na pizzę. Pizza wyjdzie jak z włoskiej pizzerii - na cienkim, chrupiącym cieście i z wyrośniętymi zapieczonymi brzegami. Po przeczytaniu tego artykułu bez problemu przygotujesz ciasto na 3 pyszne i chrupiące pizze."
 featuredImage: "ciasto-na-pizze-przepis-na-pizze.jpg"
 ---
 

@@ -9,6 +9,8 @@ tags:
   - ser-mozzarella
   - sos-pesto
   - ziemniaki
+meta: 
+    description: "Spróbuj pizzy z ziemniakami, boczkiem, pesto i cukinią. Jak zwykle, zrobisz ją w 40 minut ze składników z Biedronki. Polecam!"
 ---
 
 Pizza z ziemniakami? To brzmi dziwnie na pierwszy rzut oka. Jednak daj temu przepisowi szansę:) We Włoszech bez problemu kupisz w piekarni pizzę na bazie oliwy lub śmietany z ziemniakami i rozmarynem. Palce lizać! Moje będzie trochę inna niż klasyczna włoska focaccia. Sprawdź.

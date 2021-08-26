@@ -12,6 +12,9 @@ tags:
   - puszka-pomidorow
   - sol
   - ziola-prowansalskie
+meta: 
+    title: "Sos pomidorowy - przepis na sos pomidorowy do pizzy"
+    description: "Sos pomidorowy do pizzy - jest pyszny, pachnie bazylią i zrobisz go w 3 minuty bez gotowania. Sprawdź jak zrobić sos. Poznaj też 11 innych sosów do pizzy."
 featuredImage: "DSC_0202-e1435398927946.jpg"
 ---
 

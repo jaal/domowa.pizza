@@ -10,6 +10,8 @@ tags:
   - ser-mozzarella
   - sos-pesto
   - szpinak
+meta: 
+    description: "Pizza wegetariańska z pesto, szpinakiem i mozzarellą - powinienem ją nazwać GreenPizz;-) Jest cała zielona i wyrazista w smaku. Smak szpinaku podkręca czosnek i pesto, a całość uzupełnia ciągnąca się mozzarella."
 featuredImage: "pizza-z-pesto-szpinakiem-mozzarella.jpg"
 ---
 

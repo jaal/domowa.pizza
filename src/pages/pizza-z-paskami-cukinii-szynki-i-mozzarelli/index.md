@@ -10,6 +10,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-szwarcwaldzka
+meta: 
+    description: "Pizza z cukinią, szynką i mozzarellą - Jednym słowem prosta (jak wszystkie, które robię chyba;-)) zdrowa i syta."
 featuredImage: "pizza-z-paskami-cukini-szynki-mozzarelli.jpg"
 ---
 

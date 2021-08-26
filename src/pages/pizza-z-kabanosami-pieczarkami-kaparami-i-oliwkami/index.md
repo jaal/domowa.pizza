@@ -11,6 +11,8 @@ tags:
   - pieczarki
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    description: "Przepis na pizzę z kabanosami, pieczarkami, kaparami i oliwkami. Użyj kabanosów w 100% z mięsa, soli i przypraw. Sprawdź."
 featuredImage: "pizza-z-kabanosami-pieczarkami-kaparami-oliwkami.jpg"
 ---
 

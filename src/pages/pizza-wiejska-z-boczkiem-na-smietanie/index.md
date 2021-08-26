@@ -10,6 +10,8 @@ tags:
   - pieczarki
   - ser-ementaler
   - sos-smietanowy
+meta: 
+    description: "Poznaj Pizzę Wiejską z boczkiem na śmietanie. Zrobisz ją w 40 minut ze składników z Biedronki. Nie wierzysz? Przekonaj się sam."
 ---
 
 Dla fanów boczku, przygotowałem przepis na wyśmienitą pizzę z boczkiem, śmietaną, cebulą i ementalerem. Pizza ma lekko słodkawy posmak, dzięki obecności słodkiego sera ementaler i śmietany, który świetnie się łączy z smakiem ciasta na pizzę. Jest po prostu mniam-mniam:-)

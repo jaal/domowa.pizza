@@ -4,6 +4,9 @@ date: "2015-02-22T20:30:58.000Z"
 categories: 
   - przepis-na-ciasto
   - przepis-na-pizze
+meta: 
+    title: "Przepis na ciasto na pizzę jak z Pizza Hut"
+    description: "Przepis na ciasto na pizzę jak z Pizza Hut - to mój jeszcze lepszy przepis na pizzę jak z Pizza Hut. Ciasto wychodzi bardziej chrupiące! Sprawdź!"
 featuredImage: "DSC07534.jpg"
 ---
 

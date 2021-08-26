@@ -14,6 +14,9 @@ tags:
   - sos-pomidorowy
   - szynka
   - tunczyk
+meta: 
+    title: "Pizza z ananasem \"hawajska\" na 3 różne sposoby"
+    description: "Pizza hawajska z ananasem - prosty przepis na pizzę hawajską z ananasem. Sprawdź 3 różne sposoby: z ananasem i szynką, z ananasem i tuńczykiem oraz pikantna"
 featuredImage: "pizza-hawajska-s.jpg"
 ---
 

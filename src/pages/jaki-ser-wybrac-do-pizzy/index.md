@@ -3,6 +3,9 @@ title: "Jaki ser wybrać do pizzy?"
 date: "2014-08-11T21:14:18.000Z"
 categories: 
   - skladniki
+meta: 
+    title: "Jaki ser wybrać do pizzy?"
+    description: "Jaki ser wybrać do pizzy? Czy jest to tylko i wyłącznie mozzarella? A może pizza smakuje również pysznie z innymi serami? Sprawdź jaki ser możesz wybrać do pizzy!"
 featuredImage: "ser_mozzarella.jpg"
 ---
 

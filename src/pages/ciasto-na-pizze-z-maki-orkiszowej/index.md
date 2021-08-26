@@ -8,6 +8,9 @@ tags:
   - maka-orkiszowa
   - sol
   - woda
+meta: 
+    title: "Ciasto na pizzę z mąki orkiszowej - pizza orkiszowa"
+    description: "Sprawdzony przepis na ciasto na pizzę z mąki orkiszowej. Mąka orkiszowa jest zdrowa, a pizza orkiszowa wychodzi super smaczna i zdrowa. Sprawdź przepis!"
 featuredImage: "ciasto-na-pizze-z-maki-orkiszowej.jpg"
 ---
 

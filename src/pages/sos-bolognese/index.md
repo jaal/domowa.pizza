@@ -3,6 +3,9 @@ title: "Sos bolognese"
 date: "2014-09-28T20:53:28.000Z"
 categories: 
   - przepis-na-sos
+meta: 
+    title: "Sos bolognese - przepis na sos bolognese"
+    description: "Wypróbuj sprawdzony przepis na sos bolognese. Idealnie nadaje się do konkretnych pizz, które mają zawierać mięso. Wszystkie składniki dostaniesz w Biedronce"
 ---
 
 Jak zrobić sos boloński? Przepis nie jest trudny, jedynie czasochłonny. Przy odrobinie wprawy, przygotowanie "wkładu" zajmie Ci ok. 10 minut, natomiast samo gotowanie to od 40 minut nawet do 2 godzin. Chyba, że korzystasz z szybkowaru, wtedy możesz przygotować sos bolognese w niecałe pół godziny!

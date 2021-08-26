@@ -3,6 +3,9 @@ title: "Jak zorganizować dla przyjaciół grilla z pizzą zamiast kolejnego z k
 date: "2015-08-08T06:26:28.000Z"
 categories: 
   - porady
+meta: 
+    title: "Jak zorganizować pizzę z grilla zamiast kolejnej karkówki z grilla"
+    description: "Przewodnik jak zorganizować grilla z pizzą dla przyjaciół i się nie przemęczyć. Pizza z grilla może być szybka i prosta. Poznaj sposoby na smaczniejszą pizzę z grilla."
 featuredImage: "pizza_z_grilla.jpg"
 ---
 

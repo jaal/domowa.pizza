@@ -13,6 +13,8 @@ tags:
   - ser-parmezan
   - sol-morska
   - sos-pomidorowy
+meta: 
+    description: "Sprawdź multikolorową i smakową pizzę z dynią i prażoną cebulą. Warto spróbować oryginalnego smaku, szczególnie jesienią - gdy jest sezon na dynie"
 featuredImage: "2014-12-12-16.50.42-e1420322430513.jpg"
 ---
 

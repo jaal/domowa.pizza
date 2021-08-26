@@ -8,6 +8,9 @@ tags:
   - oregano
   - pomidor
   - szpinak
+meta: 
+    title: "Pizza ze szpinakiem i świeżymi pomidorami"
+    description: "Bardzo prosta i smaczna pizza ze szpinakiem i świeżymi pomidorami. W połączeniu z białą mozzarellą i zielonym szpinakiem wygląda multikolorowo i smakowicie."
 featuredImage: "pizza-z-pomidorerm-i-szpinakiem.jpg"
 ---
 

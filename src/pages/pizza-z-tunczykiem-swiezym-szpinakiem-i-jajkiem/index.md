@@ -10,6 +10,9 @@ tags:
   - sos-pomidorowy
   - swiezy-szpinak
   - tunczyk
+meta: 
+    title: "Pizza z tuńczykiem, świeżym szpinakiem i jajkiem"
+    description: "Pyszne połączenie: pomidor - szpinak - tuńczyk. Do tego jajko i multikolorowa pizza gotowa! Smakuje świetnie, lekko i wiosennie."
 featuredImage: "IMG_20150525_120428695.jpg"
 ---
 

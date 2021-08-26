@@ -3,6 +3,9 @@ title: "Książka o domowym chlebie w 12 minut za darmo"
 date: "2019-10-09T20:54:18.000Z"
 categories: 
   - inne
+meta: 
+    title: "Domowych chleb w 12 minut - książka o domowych chlebie"
+    description: "Domowy chleb w 12 minut. Poznaj prosty sposób na pyszny domowy chleb w 12 minut. Upieczenie domowego chleba jest szybkie, proste i tanie. Sprawdź książkę"
 featuredImage: "chleb_small.jpg"
 ---
 

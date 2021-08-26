@@ -11,6 +11,9 @@ tags:
   - ser-parmezan
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    title: "Pizza jak z Pizza Hut - przepis na ciasto na pizzę"
+    description: "Lubisz pizzę z Pizza Hut na grubym cieście? Zastanawiasz się jak można zrobić ją w domu? Oto sekretny przepis z którym zrobisz własną pizzę jak w Pizza Hut."
 ---
 
 Pizza Hut robi pyszną pizzę:-) To moja ulubiona sieciowa pizzeria. Wiem, piszę tu o domowej pizzy i chwalę sieciówkową pizze. Ale nie będę oszukiwał. Bardzo mi smakuje ich pizza na grubym cieście (chociaż jestem zwolennikiem pizzy na cienkim cieście).

@@ -10,6 +10,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka
+meta: 
+    description: "Przepis na domową pizzę z boczkiem, szynką, sosem pomidorowym, bazylią i mozzarellą. Zrób idealną domową pizzę według sprawdzonego przepisu na ciasto i sos. Delikatne i chrupiące ciasto na zakwasie o zapachu świeżo pieczonego chleba, a na górę poszedł boczek, szynka, sos pomidorowy, mozzarella i bazylia."
 featuredImage: "pizza-z-boczkiem-szynka-mozzarella-sos-pomidorowy.jpg"
 ---
 

@@ -15,6 +15,8 @@ tags:
   - oregano
   - ser-mozzarella
   - sos-sfincione
+meta: 
+    description: "Sprawdź jak zrobić pizzę sfincione, na bazie programu Masterchef. Tradycyjna włoska pizza sfincione do zrobienia w domu. Sprawdź przepis na pizzę."
 featuredImage: "DSC_0143-e1418328700729.jpg"
 ---
 

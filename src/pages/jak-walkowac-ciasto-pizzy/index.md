@@ -3,6 +3,8 @@ title: "Jak wałkować ciasto do pizzy?"
 date: "2014-12-16T22:34:33.000Z"
 categories: 
   - akcesoria
+meta: 
+    description: "Chcesz wiedzieć jak rozwałkować ciasto na domową pizzę od A do Z? Sprawdź sprawdzone sposoby na wałkowanie pizzy. Poznaj pewne akcesoria, które Ci pomogą."
 ---
 
 Ustalmy na początek do jakiej pizzy dążymy:-) Dla mnie idealną pizzą jest ta o wielkości ok. 30 cm i grubości 3-4 mm. Opiszę Ci jak udaje mi się za każdym razem taką uzyskać.

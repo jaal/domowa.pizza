@@ -11,6 +11,8 @@ tags:
   - ser-mozzarella
   - sol
   - swiezo-zmielony-pieprz
+meta: 
+    description: "Pizza caprese na bazie sałatki caprese. Prosta, szybka, aromatyczna, delikatna. Liczą się dobrej jakości składniki: pomidory, ser mozzarella, bazylia i oliwa"
 featuredImage: "pizza-caprese.jpg"
 ---
 

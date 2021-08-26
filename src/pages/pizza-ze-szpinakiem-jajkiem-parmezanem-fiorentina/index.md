@@ -13,6 +13,8 @@ tags:
   - sos-pomidorowy
   - szpinak
   - szynka-parmenska
+meta: 
+    description: "Lubisz szpinak? Jajko, parmezan, czosnek i mozzarella świetnie dopełnią smak szpinaku na Twojej pizzy"
 featuredImage: "pizza-fiorentina.jpg"
 ---
 

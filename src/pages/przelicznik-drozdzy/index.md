@@ -3,6 +3,8 @@ title: "Przelicznik drożdży"
 date: "2015-08-20T07:16:21.000Z"
 categories: 
   - inne
+meta: 
+    description: "Jak przeliczyć drożdże świeże na suszone lub instant? Zobacz tabelę i przelicznik drożdży, dzięki której przeliczysz drożdże do pizzy bez problemu."
 featuredImage: "2015-01-10-13.36.23.jpg"
 ---
 

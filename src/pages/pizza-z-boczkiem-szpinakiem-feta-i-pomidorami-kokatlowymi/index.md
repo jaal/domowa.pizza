@@ -9,6 +9,8 @@ tags:
   - ser-feta
   - sos-pomidorowy
   - swiezy-szpinak
+meta: 
+    description: "Połączenie boczku i szpinaku oraz pomidorów i sera feta to już kulinarna klasyka. Nie wymyślam nic nowego, tylko łączę je w całość i podaję na pizzy. Smacznego!"
 featuredImage: "pizza-boczek-szpinak-pomidory.jpg"
 ---
 

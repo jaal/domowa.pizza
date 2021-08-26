@@ -8,6 +8,8 @@ tags:
   - ser-kozi
   - sliwki
   - sos-pomidorowy
+meta: 
+    description: "Śliwki i boczek to pyszne połączenie, które dopełnia ser kozi. To wszystko na chrupiącym cieście i aromatycznym sosie pomidorowym. Palce lizać!"
 featuredImage: "pizza-ze-sliwkami-boczkiem-serem-kozim.jpg"
 ---
 

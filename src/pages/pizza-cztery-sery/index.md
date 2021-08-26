@@ -11,6 +11,8 @@ tags:
   - ser-kozi
   - ser-mozzarella
   - sos-pom
+meta: 
+    description: "Jak zrobić lekką, zdrową i nie lejącą się pizzę Cztery sery? Oto gotowy przepis. Proponuję ser kozi i owczy, które dostaniesz w każdym dyskoncie."
 featuredImage: "IMG_20150809_135546368.jpg"
 ---
 

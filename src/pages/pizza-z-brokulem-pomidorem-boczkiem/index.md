@@ -11,6 +11,9 @@ tags:
   - panchetta
   - pomidor
   - sos-pomidorowy
+meta: 
+    title: "Pizza z brokułami, pomidorem i boczkiem"
+    description: "Pizza z brokułami, pomidorem i boczkiem. Multikolorowa, lekka i apetyczna.Sprawdź przepis na pizzę z brokułami, pomidorem i boczkiem."
 featuredImage: "DSC_1306-e1415620063841.jpg"
 ---
 

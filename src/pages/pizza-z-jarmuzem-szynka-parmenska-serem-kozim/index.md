@@ -9,6 +9,8 @@ tags:
   - ser-kozi
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    description: "Pizza z jarmużem, szynką, serem kozim i jogurtem - jakbym jadł delikatną i lekką sałatkę, a nie pizzę. W dodatku chrupiącą!"
 featuredImage: "pizza-jarmuz-szynka-parmenska.jpg"
 ---
 

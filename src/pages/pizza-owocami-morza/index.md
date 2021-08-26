@@ -11,6 +11,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szalotka
+meta: 
+    description: "Pizza z owocami morza jest łatwa w przygotowaniu i smakują rewelacyjnie szczególnie w połączeniu z sosem pomidorowym lub sosem marinera. Palce lizać!"
 featuredImage: "pizza-owoce-morza.jpg"
 ---
 

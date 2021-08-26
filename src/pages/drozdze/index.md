@@ -9,6 +9,9 @@ tags:
   - drozdze-instant-a-swieze
   - drozdze-suszone
   - jakie-drozdze-do-pizzy
+meta: 
+    title: "Jakie drożdże do pizzy?"
+    description: "Jakie drożdże najlepiej użyć do pizzy? Drożdże suszone, świeże a może instant. Dowiedz się wszystkiego czego potrzebujesz na temat drożdży do pizzy."
 featuredImage: "2015-01-10-13.36.23.jpg"
 ---
 

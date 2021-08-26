@@ -3,6 +3,9 @@ title: "Czy pizza jest zdrowa?"
 date: "2014-10-25T18:57:34.000Z"
 categories: 
   - inne
+meta: 
+    title: "Czy pizza jest zdrowa? Jak zrobić zdrowszą pizzę?"
+    description: "Czy pizza jest zdrowym posiłkiem? Co możesz zrobić, aby stała się zdrowszym jedzeniem? O co zadbać przy robieniu pizzy?"
 ---
 
 To świetnie pytanie. Nie da się na nie jednoznacznie odpowiedzieć. Odpowiedzią na nie powinno być kolejne pytanie, "a o jaką pizzę Ci chodzi"?

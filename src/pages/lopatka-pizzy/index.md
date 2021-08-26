@@ -3,6 +3,8 @@ title: "Łopatka do pizzy"
 date: "2014-08-25T21:10:17.000Z"
 categories: 
   - akcesoria
+meta: 
+    description: "Sprawdź łopatkę do pizzy. Z pomocą łopatki unikniesz poparzeń i bez problemu uda Ci się nałożyć pizzę do piekarnika."
 featuredImage: "DSC08250FIX.jpg"
 ---
 

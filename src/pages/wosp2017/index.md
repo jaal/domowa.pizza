@@ -3,6 +3,8 @@ title: "Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy"
 date: "2017-01-10T19:43:28.000Z"
 categories: 
   - inne
+meta: 
+    description: "Pomóż WOŚP i poznaj wszystkie sekrety domowej pizzy. Wylicytuj osobisty kurs domowego pieczenia pizzy lub moją książkę \"Sekrety domowej pizzy\". Upieczesz dwie pieczenie na jednym ogniu (czy może raczej dwie pizze na jednym ogniu?)."
 featuredImage: "olek.png"
 ---
 

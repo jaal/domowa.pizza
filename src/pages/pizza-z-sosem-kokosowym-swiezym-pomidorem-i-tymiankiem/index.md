@@ -10,6 +10,8 @@ tags:
   - sos-kokosowy
   - swieze-pomidory
   - tymianek
+meta: 
+    description: "Pizza wegańska z sosem kokosowym i świeżymi pomidorami. Aromatycznie pachnie pieczonym czosnkiem, malinówkami i ziołami: oregano, tymianek i świeża bazylia"
 featuredImage: "pizza-sos-kokosowy-pomidory-tymianek.jpg"
 ---
 

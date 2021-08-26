@@ -10,6 +10,8 @@ tags:
   - salami
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    description: "Sprawdź przepis na pizzę pepperoni (salami). Przygotujesz ją w 40 minut, a składniki kupisz w najbliższej Biedronce. Przekonaj się sam jak może smakować!"
 featuredImage: "pizza-pepperoni-salami.jpg"
 ---
 

@@ -10,6 +10,8 @@ tags:
   - pepperoni
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    description: "Pizza pepperoni (pikantne) z chili i miodem na sosie pomidorowym i kremowej mozzarelli. Idealne połączenie ostrości i słodyczy."
 featuredImage: "pizza-pepperoni-miod-chili-2.jpg"
 ---
 

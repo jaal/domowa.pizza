@@ -3,6 +3,8 @@ title: "Awokado"
 date: "2016-04-17T07:04:41.000Z"
 categories: 
   - skladniki
+meta: 
+    description: "Wszystko o awokado i pizzy z awokado. Jak obierać awokado, jakie awokado kupić, jaka cena, jakie pizze z awokado, jakie właściwości ma awokado, co zrobić z pestką z awokado."
 featuredImage: "640px-Avocado_with_cross_section_edit.jpg"
 ---
 

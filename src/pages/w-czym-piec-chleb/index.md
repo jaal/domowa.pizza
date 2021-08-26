@@ -5,6 +5,8 @@ categories:
   - inne
 tags: 
   - chleb
+meta: 
+    description: "Garnek żeliwny, naczynie żaroodporne czy keksówka? Czy można piec chleb, a w czym najlepiej piec chleb. Jak upiec chleb w naczyniu żaroodpornym, garnku żeliwnym czy keksówce"
 ---
 
 Pytanie które często się powtarza - _"w czym piec chleb?"._ Jest kilka sposobów na upieczenie chleba.

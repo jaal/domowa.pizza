@@ -10,6 +10,8 @@ tags:
   - ser-mozzarella
   - sos-smietanowy
   - szynka-parmenska
+meta: 
+    description: "Smakuje kapitalnie, wygląda świetnie! Pizzę jest zarazem lekko słodka od śmietany, lekko słona od szynki i wyrazista smakiem od sera koziego. Polecam!"
 featuredImage: "DSC07605.jpg"
 ---
 

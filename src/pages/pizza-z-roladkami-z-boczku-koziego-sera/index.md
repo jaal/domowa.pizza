@@ -11,6 +11,8 @@ tags:
   - rukola
   - ser-kozi
   - sos-pomidorowy
+meta: 
+    description: "Zapach pieczonego boczku i rozpływający się w ustach kozi ser, na wierzch chrupiąca rukola. Tak właśnie smakuje pizza z roladkami z boczku i koziego sera. Sprawdź."
 featuredImage: "DSC_0170-e1420666008677.jpg"
 ---
 

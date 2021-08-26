@@ -10,6 +10,8 @@ tags:
   - ser-mozzarella
   - swiezo-zmielony-pieprz
   - wedzona-makrela
+meta: 
+    description: "Robię ją ostatnio regularnie i się nie nudzi. Co więcej, kilka osób, które na początku były sceptycznie nastawione do tego połączenia, po spróbowaniu stwierdziły, że jest pyszna i ma potencjał. A więc - uprzedzenia precz."
 featuredImage: "pizza-z-makrela-ser-kozi-kapusta-kiszona.jpg"
 ---
 

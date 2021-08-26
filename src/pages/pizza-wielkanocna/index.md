@@ -15,6 +15,8 @@ tags:
   - sos-chrzanowy
   - swiezo-zmielony-pieprz
   - szczypiorek
+meta: 
+    description: "Nikogo nie zachęcam do przygotowania na wielkanocny stół pizzy zamiast tradycyjnego żurku czy kiełbasy. Ale gdyby w kolejne dni zostały gdzieś resztki ze świątecznych potraw, ta pizza pomoże je wykorzystać."
 featuredImage: "pizza-wielkanocna.jpg"
 ---
 

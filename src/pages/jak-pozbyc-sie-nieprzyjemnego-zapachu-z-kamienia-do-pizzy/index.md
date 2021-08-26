@@ -4,6 +4,8 @@ date: "2015-03-01T20:26:11.000Z"
 categories: 
   - inne
   - porady
+meta: 
+    description: "Podczas pieczenia pizzy na kamieniu, kamień może dziwnie pachnieć... Czy to może być spowodowane i jak sobie z tym poradzić?"
 featuredImage: "DSC07354-e1419366769559.jpg"
 ---
 

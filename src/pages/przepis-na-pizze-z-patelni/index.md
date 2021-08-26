@@ -3,6 +3,9 @@ title: "Przepis na pizzę z patelni"
 date: "2014-09-11T20:15:03.000Z"
 categories: 
   - przepis-na-ciasto
+meta: 
+    title: "Pizza z patelni - przepis na pizzę z patelni"
+    description: "Pizza z patelni - czy można zrobić pizzę nie mając piekarnika? Tak! Pizza z patelni wyjdzie tak dobra, jak z piekarnika. Sprawdź przepis na pizzę z patelni."
 featuredImage: "DSC07529.jpg"
 ---
 

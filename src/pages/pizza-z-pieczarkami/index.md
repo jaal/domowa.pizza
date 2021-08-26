@@ -9,6 +9,9 @@ tags:
   - pieczarki
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    title: "Przepis na pizzę z pieczarkami"
+    description: "Możesz pomyśleć, że uboga ta pizza - tylko pieczarki, ale w tym przepisie to AŻ pieczarki. Pizza z pieczarkami - sprawdź przepis"
 featuredImage: "DSC07619.jpg"
 ---
 

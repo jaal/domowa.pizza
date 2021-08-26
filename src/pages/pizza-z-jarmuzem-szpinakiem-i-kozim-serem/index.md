@@ -18,6 +18,8 @@ tags:
   - swiezo-zmielony-pieprz
   - szalotka
   - szpinak
+meta: 
+    description: "Jarmuż na pizzy to moje małe odkrycie. W połączeniu ze szpinakiem i serem kozim daje mojej pizzy świeżość i całą paletę zielonych odcieni."
 featuredImage: "pizza-jarmuz-szpinak-ser-kozi.jpg"
 ---
 

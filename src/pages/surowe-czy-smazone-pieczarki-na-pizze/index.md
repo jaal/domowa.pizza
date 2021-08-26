@@ -3,6 +3,8 @@ title: "Surowe czy smażone pieczarki na pizzę?"
 date: "2015-05-20T20:40:19.000Z"
 categories: 
   - porady
+meta: 
+    description: "Surowe czy smażone pieczarki? Dlaczego puszczają wodę i jak temu zapobiec? Twoja pizza z pieczarkami już nigdy nie wyjdzie wodnista, mokra i gąbczasta."
 featuredImage: "DSC07619.jpg"
 ---
 

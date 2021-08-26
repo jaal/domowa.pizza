@@ -3,6 +3,8 @@ title: "Przepis na domowy chleb na zakwasie w 14 minut"
 date: "2020-04-01T21:33:21.000Z"
 categories: 
   - inne
+meta: 
+    description: "Poznaj przepis na domowy chleb na zakwasie w 14 minut oraz sposób na przygotowanie domowego zakwasu. Domowy zakwas to dobry zamiennik drożdży do przygotowanie w kilka dni"
 featuredImage: "przepis-na-domowy-chleb-na-zakwasie-w-14-minut.jpeg"
 ---
 

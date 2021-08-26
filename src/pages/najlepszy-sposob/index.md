@@ -3,6 +3,8 @@ title: "Mój najlepszy sposób na upieczenie idealnej domowej pizzy w 3 krokach"
 date: "2017-06-25T20:06:19.000Z"
 categories: 
   - inne
+meta: 
+    description: "Poznaj mój najlepszy sposób na idealną domową pizzę jak z włoskiej pizzerii w 3 krokach. Potrzebujesz tylko mój przepis, piekarnik i kamień."
 featuredImage: "pizza-caprese.jpg"
 ---
 

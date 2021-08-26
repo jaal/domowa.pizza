@@ -10,6 +10,8 @@ tags:
   - pomidor
   - ser-feta
   - sos-pomidorowy
+meta: 
+    description: "Czy jest możliwe połączenie kuchni grecki i włoskiej na jednym talerzu? Brzmi to idealnie - feta, pomidory, ogórki, cebula i oliwa na cieście do pizzy z sosem pomidorowym."
 featuredImage: "DSC07407-e1420140369575.jpg"
 ---
 

@@ -12,6 +12,8 @@ tags:
   - pomidor
   - ser-kozi
   - sos-pomidorowy
+meta: 
+    description: "Lekka, delikatna, wiosenna - te słowa najlepiej opisują pizzę z jarmużem, kozim serem i pomidorami. Wszystkie składniki dostaniesz w najbliższym markecie."
 featuredImage: "pizza-z-jarmuzem-pomidorami-kozim-serem.jpg"
 ---
 

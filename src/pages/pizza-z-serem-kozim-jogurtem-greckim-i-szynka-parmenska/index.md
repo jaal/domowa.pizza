@@ -13,6 +13,8 @@ tags:
   - szynka-parmenska
   - szynka-prosciutto
   - tymianek
+meta: 
+    description: "Uwielbiam ser kozi, a połączenie z jogurtem greckim (lub śmietaną) i szynką parmeńską położoną na sam koniec jest po prostu świetne! Koniecznie spróbuj!"
 featuredImage: "DSC07569.jpg"
 ---
 

@@ -4,6 +4,8 @@ date: "2015-05-31T09:08:58.000Z"
 categories: 
   - inne
   - porady
+meta: 
+    description: "Mrożenie ciasta na pizzę - dowiedz się czy można mrozić ciasto, jak to robić, jak długo przechowywać ciasto w zamrażarce i jak rozmrozić ciasto"
 featuredImage: "ciasto_na_pizze_2.jpg"
 ---
 

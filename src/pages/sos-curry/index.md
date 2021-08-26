@@ -10,6 +10,9 @@ tags:
   - kurczak
   - mleczko-kokosowe
   - szalotka
+meta: 
+    title: "Sos curry"
+    description: "Przepis na sos curry z kurczakiem i ananasem na bazie mleczka kokosowego. Przepis na sos curry jest prosty i szybki. Przygotowanie zajmie Ci około 10 minut."
 featuredImage: "sos-curry-e1437339748538.jpg"
 ---
 

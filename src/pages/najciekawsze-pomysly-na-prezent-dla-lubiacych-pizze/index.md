@@ -3,6 +3,8 @@ title: "Najciekawsze pomysły na prezent dla lubiących pizzę"
 date: "2014-10-29T21:01:21.000Z"
 categories: 
   - akcesoria
+meta: 
+    description: "Zastanawiałem się jaki jest najciekawszy pomysł na prezent dla lubiących piec domową pizzę… I wtedy zobaczyłem to!"
 ---
 
 Tak się zastanawiałem jaki jest najciekawszy pomysł na prezent dla lubiących piec domową pizzę… W sumie święta już za pasem, może warto się zastanowić co można podarować fanowi włosko-pizzerskich klimatów? Mam kilka ciekawych propozycji.

@@ -3,6 +3,8 @@ title: "Sos musztardowy"
 date: "2015-03-16T09:58:05.000Z"
 categories: 
   - przepis-na-sos
+meta: 
+    description: "Sos musztardowy świetnie komponuje na słodko z piersią z kurczaka. Idealny na pizzę z typowymi polskimi specjałami: wiejska kiełbasa czy ziemniaki. Sprawdź."
 ---
 
 Przygotowanie takiego sosu to nic skomplikowanego. Idealnie nadaje się na pizzę, szczególnie w połączeniu z typowymi polskimi specjałami: wiejska kiełbasa, ziemniaki czy kapusta kiszona lub ogórki konserwowe. Dobrze się komponuje na lekko słodko (musztarda + miód) z piersią z kurczaka. Sprawdź!

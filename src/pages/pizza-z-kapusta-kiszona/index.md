@@ -14,6 +14,9 @@ tags:
   - ser-mozzarella
   - sos-musztardowy
   - wiejska-szynka
+meta: 
+    title: "Pizza z kapustą kiszoną i kiełbasą"
+    description: "To może być typowo polska pizza. Z kapustką kiszoną, kiełbasą i musztardą dijon. Sprawdź jak smakuje."
 featuredImage: "pizza-z-kapusta-kiszona_2.jpg"
 ---
 

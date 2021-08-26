@@ -9,6 +9,8 @@ tags:
   - rukola
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    description: "Tylko dwa składniki i taka dobra pizza? Nie uwierzysz dopóki nie spróbujesz. Kluczem sukcesu jest właściwa kiełbasa, które aromat podkręci smak pizzy."
 featuredImage: "pizza-rukola-kielbasa.jpg"
 ---
 

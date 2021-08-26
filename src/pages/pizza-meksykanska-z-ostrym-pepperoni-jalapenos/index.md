@@ -3,6 +3,9 @@ title: "Pizza meksykańska z ostrym pepperoni i jalapeños"
 date: "2014-11-11T09:42:49.000Z"
 categories: 
   - przepis-na-pizze
+meta: 
+    title: "Pizza meksykańska z ostrym pepperoni i jalapeños"
+    description: "Sprawdź przepis na pizzę meksykańska z ostrym pepperoni i jalapeños. Dla lubiących naprawdę ostre klimaty rodem z Meksyku."
 featuredImage: "DSC_13091.jpg"
 ---
 

@@ -3,6 +3,8 @@ title: "Domowy piec do pizzy Optima Electra Pizza Express Napoli"
 date: "2015-09-05T18:12:44.000Z"
 categories: 
   - akcesoria
+meta: 
+    description: "Domowy piec do pizzy - sprawdź jak się sprawdza w kuchni specjalny włoski piec do domowego pieczenia pizzy. Czy robi różnice w jakości pizzy?"
 featuredImage: "piec-do-pizzy.png"
 ---
 

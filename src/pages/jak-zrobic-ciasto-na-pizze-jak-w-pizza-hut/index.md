@@ -11,6 +11,9 @@ tags:
   - ser-parmezan
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    title: "Pizza jak z Pizza Hut - przepis na ciasto na pizzę"
+    description: "Lubisz pizzę z Pizza Hut na grubym cieście? Zastanawiasz się jak można zrobić ją w domu? Oto sekretny przepis z którym zrobisz własną pizzę jak w Pizza Hut."
 featuredImage: "DSC07534.jpg"
 ---
 

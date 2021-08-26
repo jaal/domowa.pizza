@@ -11,6 +11,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    description: "Zrób pyszną i pachnącą świeżością pizzę z rukolą, szynką parmeńską i parmezanem. Domowa pizza w 40 minut na bazie zakupów w najbliższej Biedronce. Sprawdź."
 featuredImage: "DSC07023.jpg"
 ---
 

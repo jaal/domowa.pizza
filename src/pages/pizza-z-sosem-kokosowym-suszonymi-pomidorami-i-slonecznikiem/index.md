@@ -11,6 +11,8 @@ tags:
   - sos-kokosowy
   - suszone-pomidory
   - tymianek
+meta: 
+    description: "Przygotowałem pizzę z sosem kokosowy, suszonymi pomidorami i słonecznikiem. Na koniec dodałem jeszcze świeżą bazylię. Wyszło przepysznie. Sprawdź!"
 featuredImage: "pizza.jpg"
 ---
 

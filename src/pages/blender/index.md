@@ -3,6 +3,9 @@ title: "Jaki blender do kuchni kupić?"
 date: "2014-12-30T22:15:19.000Z"
 categories: 
   - akcesoria
+meta: 
+    title: "Jaki blender do kuchni kupić?"
+    description: "Zastanawiasz się jaki blender kupić do kuchni? Zobacz jaki blender do kuchni się sprawdzi i pomoże Ci w przygotowaniu wyśmienitej pizzy i nie tylko."
 ---
 
 Nie będę ukrywał - jestem wielkim zwolennikiem blenderów. Polecam blender jaki jedno z akcesoriów, które mocno pomoże Ci w kuchni. Moim zdaniem jest to najlepsze połączenie możliwości, jakie daje, ceny oraz ilości miejsca jaką zajmuje. Aha, cały czas chodzi mi o ręczny blender, czyli taki którym operujesz trzymając go w ręce, w przeciwieństwie do blender stojącego, bo to temat na inną post.

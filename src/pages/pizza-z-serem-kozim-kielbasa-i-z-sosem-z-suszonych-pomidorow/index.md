@@ -10,6 +10,8 @@ tags:
   - oregano
   - ser-kozi
   - sos-z-suszonych-pomidorow
+meta: 
+    description: "Pizza z serem kozim, kiełbasą i z sosem z suszonych pomidorów - prosta i smaczna pizza składająca się dosłownie z 3 składników."
 featuredImage: "pizza-z-kozim-serem-kielbasa-sosem-suszonych-pomidorow.jpg"
 ---
 

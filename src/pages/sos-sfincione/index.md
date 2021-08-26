@@ -9,6 +9,9 @@ tags:
   - kapary
   - oliwa-z-oliwek
   - pomidor
+meta: 
+    title: "Sos sfincione - tradycyjny sycylijski sos do pizzy"
+    description: "Przepis na sos sfincione - spróbuj tradycyjnego sycylijskiego sosu do pizzy. Przepis jest prosty i do szybkiego przygotowania - w niecałe 30 minut. Sprawdź!"
 featuredImage: "DSC_0121-e1418305610357.jpg"
 ---
 

@@ -3,6 +3,8 @@ title: "Bazylia"
 date: "2016-01-17T19:22:57.000Z"
 categories: 
   - skladniki
+meta: 
+    description: "Bazylia jest królową ziół. Ma kapitalny aromat, mnóstwo zastosowań w kuchni, w dodatku jest tania i ogólnie dostępna. Użyj bazylii nie tylko do pizzy!"
 featuredImage: "bazylia.jpg"
 ---
 

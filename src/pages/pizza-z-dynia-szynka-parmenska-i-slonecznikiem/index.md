@@ -8,6 +8,9 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    title: "Pizza z dynią, szynką parmeńską i słonecznikiem"
+    description: "Pizza z dynią - słodka dynia, delikatna i słona szynka parmeńska oraz rozpuszczający się ser mozzarella. Pyszne połączenie nie tylko dla fanów dyni."
 featuredImage: "pizza-z-dynia-szynka-parmenska.jpg"
 ---
 

@@ -9,6 +9,8 @@ tags:
   - pieprz
   - sol
   - tymianek
+meta: 
+    description: "Co by było gdyby zrobić pizzę z sosem na bazie mleczka kokosowego? Taka pizza bianca! Wyszedł mi delikatny i gęsty sos o aromacie czosnku oraz tymianku,"
 featuredImage: "sos-kokosowo-czosnkowy.jpg"
 ---
 

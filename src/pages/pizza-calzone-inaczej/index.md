@@ -8,6 +8,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka
+meta: 
+    description: "Pizza calzone to idealne rozwiązanie gdy szukasz oryginalnego i smacznego pomysłu na przekąskę na imprezę. Jedna taka pizza to 8 bardzo sytych kawałków do schrupania."
 featuredImage: "pizza-calzone-inaczej.jpg"
 ---
 

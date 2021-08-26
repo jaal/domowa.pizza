@@ -3,6 +3,8 @@ title: "Lista akcesoriów do pieczenia domowej pizzy, których używam"
 date: "2018-03-23T19:54:33.000Z"
 categories: 
   - akcesoria
+meta: 
+    description: "Poznaj akcesoria do pizzy, które używam na codzień i dzięki którym Twoja domowa pizza wejdzie na zupełnie nowy poziom. Dowiedz się gdzie najtaniej można je dostać. Jeśli jesteś zaradny, kupisz je za 40 zł. Wiele z nich służy mi latami!"
 featuredImage: "lista-akcesoriow.jpg"
 ---
 

@@ -10,6 +10,8 @@ tags:
   - oregano
   - ser-feta
   - sos-pomidorowy
+meta: 
+    description: "Lekko słonawa feta, chrupiący jarmuż i aromatyczna zapieczona kiełbasa komponują się wyśmienicie. Taka pizza z jarmużem to prawie bomba zdrowia:-)"
 featuredImage: "pizza-jarmuz-ser-kozi-kielbasa.jpg"
 ---
 

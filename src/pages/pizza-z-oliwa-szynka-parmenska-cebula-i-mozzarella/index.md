@@ -10,6 +10,8 @@ tags:
   - oregano
   - ser-mozzarella
   - szynka-parmenska
+meta: 
+    description: "Super prosta i pyszna pizza. Skropiłem ciasto oliwą, dodałem mozzarellę, szynkę i cebulę w nietypowej kolejności i gotowe! BTW dobra oliwa robi różnicę."
 featuredImage: "pizza-z-oliwa-szynka-cebula-i-mozzarella.jpg"
 ---
 

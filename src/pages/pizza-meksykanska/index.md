@@ -12,6 +12,9 @@ tags:
   - pepperoni
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    title: "Pizza Meksykańska - przepis na pizzę meksykańską"
+    description: "Sprawdzony przepis na pizzę meksykańską - pikantna i wyrazista - chili, Jalapeño,pepperoni, kukurydza. Pizza w 40 minut. Składniki kupisz w Biedronce."
 ---
 
 Lubisz ostre klimaty w kuchni? Mam dla Ciebie pomysł na pikantną pizzę. Jakbym miał scharakteryzować ją jednym słowem - wyrazista! Pozytywnie podrażni podniebienie swoją ostrością, a kukurydza i ser dla kontrastu stonują smak. Jesteś gotowa/y? ¡Si Señor!

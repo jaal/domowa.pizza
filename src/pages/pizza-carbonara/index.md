@@ -12,6 +12,9 @@ tags:
   - ser-parmezan
   - sos-smietanowy
   - swiezo-zmielony-pieprz
+meta: 
+    title: "Pizza carbonara"
+    description: "Uwielbiam pastę carbonara. A gdyby tak przełożyć ulubioną carbonarę na ulubioną pizzę? Przyjmuję wyzwanie! Zobacz jak mi poszło."
 featuredImage: "pizza-carbonara.jpg"
 ---
 

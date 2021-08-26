@@ -3,6 +3,9 @@ title: "Kamień do pizzy Emile Henry"
 date: "2015-08-11T07:44:07.000Z"
 categories: 
   - akcesoria
+meta: 
+    title: "Kamień do pieczenia pizzy Emile Henry - recenzja, ocena, opinia"
+    description: "Szukasz dobrego kamienia do pizzy? Sprawdź kamień do pieczenia pizzy Emile Henry. Do piekarnika i do grilla. Zalety: chrupiący spód i nie przywiera"
 featuredImage: "kamien-do-pizzy-emile-henry.jpg"
 ---
 

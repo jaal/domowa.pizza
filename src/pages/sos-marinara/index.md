@@ -11,6 +11,9 @@ tags:
   - czosnek
   - natka-pietruszki
   - puszka-pomidorow
+meta: 
+    title: "Przepis na sos marinara do pizzy"
+    description: "Wyrazisty i lekko pikantny. Sos marinara jest prosty i szybki w przygotowaniu. Dodatkowo pobierz darmowy PDF z 12 innymi przepisami na sos do pizzy."
 featuredImage: "sos-marinara.jpg"
 ---
 

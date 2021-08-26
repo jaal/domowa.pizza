@@ -13,6 +13,9 @@ tags:
   - swiezo-zmielony-pieprz
   - swiezy-szpinak
   - syrop-balsamiczny
+meta: 
+    title: "Pizza z sosem dyniowy, świeżym szpinakiem i słonecznikiem"
+    description: "Pizza z dynią - polecam wyjątkowo kolorową, lekką i wegetariańską pizzę z sosem dyniowym."
 featuredImage: "pizza-sos-dyniowy-swiezy-szpinak.jpg"
 ---
 

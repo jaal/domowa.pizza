@@ -32,12 +32,12 @@ class BlogPostTemplate extends React.Component {
       <Layout>
         <Container>
           <Helmet
-            title={`${post.frontmatter.title} | ${author}`}
-            htmlAttributes={{ lang: 'en' }}
+            title={post.frontmatter.meta?.title || `${post.frontmatter.title} | ${author}`}
+            htmlAttributes={{ lang: 'PL' }}
           >
             <meta
               name="description"
-              content={`${userConfig.title} | ${userConfig.description}`}
+              content={post.frontmatter.meta?.description || `${userConfig.title} | ${userConfig.description}`}
             />
           </Helmet>
           <Card>
@@ -95,6 +95,10 @@ export const pageQuery = graphql`
         title
         tags
         categories
+        meta {
+          title
+          description
+        }
         date(formatString: "DD MMMM YYYY", locale: "pl-PL")
         featuredImage {
           childImageSharp {

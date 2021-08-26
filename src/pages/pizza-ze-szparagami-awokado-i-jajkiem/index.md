@@ -8,6 +8,8 @@ tags:
   - awokado
   - jajko
   - szparagi
+meta: 
+    description: "Ta pizza ze szparagami naprawdę mi się udała! I wizualnie i smakowo. Jest super prosta, super zdrowa, wegetariańska. Są na niej moje ulubione składniki, czyli szparagi, jajko i awokado."
 featuredImage: "pizza-ze-szparagami-awokado-jajkiem.jpg"
 ---
 

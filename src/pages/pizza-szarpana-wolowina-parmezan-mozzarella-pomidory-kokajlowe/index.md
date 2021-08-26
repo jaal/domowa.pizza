@@ -11,6 +11,8 @@ tags:
   - swiezo-zmielony-pieprz
   - szarpana-wieprzowina
   - szarpana-wolowina
+meta: 
+    description: "Znów pizza z resztkami ;-) Tym razem z pizza z szarpaną wołowiną, parmezanem, mozzarellą, pomidorami kokatajlowymi i świeżo mielonym pieprzem. Idealny sposób na resztki z obiadu z poprzednich dni"
 featuredImage: "pizza-z-szarpana-wolowina-parmezanem-pomidorami-mozzarella.jpg"
 ---
 

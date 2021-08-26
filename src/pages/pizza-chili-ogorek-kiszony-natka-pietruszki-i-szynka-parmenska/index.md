@@ -9,6 +9,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    description: "Jej Wysokość Pieprzność! Pizza na cieście na zakwasie z duuuuuuuuużą ilością papryczek chili i świeżo zmielonego pieprzu na sosie pomidorowym, z ogórkiem kiszonym, szynką parmeńską, mozzarellą i natką pietruszki."
 featuredImage: "pizza-chili-ogorki-szynka-pietruszka.jpg"
 ---
 

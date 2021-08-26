@@ -3,6 +3,9 @@ title: "Jak zdobyć kamień do pizzy za darmo?"
 date: "2014-12-08T21:29:05.000Z"
 categories: 
   - akcesoria
+meta: 
+    title: "Jak zdobyć kamień do pizzy za darmo?"
+    description: "Kamień do pizzy za darmo? Sprawdź jak zdobyć kamień do pizzy za darmo. Kamień do pizzy to idealne rozwiązanie by wynieść pizzę na zupełnie nowy poziom."
 featuredImage: "DSC07475.jpg"
 ---
 

@@ -5,6 +5,9 @@ categories:
   - skladniki
 tags: 
   - maka
+meta: 
+    title: "Jaka mąka do pizzy"
+    description: "Jaka mąka do pizzy? Zastanawiasz się jakiej mąki użyć do domowej pizzy, aby upiec chrupiącą pizzę? Dowiedz się wszystkiego na temat mąki do pizzy."
 featuredImage: "640px-Flours.jpg"
 ---
 

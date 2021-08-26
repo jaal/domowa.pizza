@@ -9,6 +9,9 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szpinak
+meta: 
+    title: "Pizza ze szpinakiem i kiełbasą - przepis na pizzę ze szpinakiem i kiełbasą"
+    description: "Sprawdź pewny przepis na pizzę ze szpinakiem i kiełbasą. Zrobisz ją w 40 minut, a wszystkie składniki kupisz w najbliższej Biedronce."
 featuredImage: "DSC07088-e1415389900231.jpg"
 ---
 

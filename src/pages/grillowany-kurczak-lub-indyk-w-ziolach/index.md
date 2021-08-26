@@ -3,6 +3,9 @@ title: "Grillowany kurczak w ziołach - szybki, prosty przepis na dodatek do piz
 date: "2015-06-01T20:34:16.000Z"
 categories: 
   - skladniki
+meta: 
+    title: "Grillowany kurczak w ziołach - szybki, prosty przepis"
+    description: "Sprawdź szybki, prosty i uniwersalny przepis na grillowanego kurczaka (lub indyka) w ziołach. Wykorzystasz na pizzy, w sałatce lub burrito."
 featuredImage: "DSC07755.jpg"
 ---
 

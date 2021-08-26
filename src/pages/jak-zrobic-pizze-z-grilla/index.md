@@ -3,6 +3,9 @@ title: "Jak zrobić pizzę z grilla?"
 date: "2014-08-20T20:44:54.000Z"
 categories: 
   - przepis-na-pizze
+meta: 
+    title: "Pizza z grilla - jak zrobić pizzę z grilla - przepis"
+    description: "Sprawdź pewny przepis na pizzę z grilla i przyrządź sobie własną w 30 minut. Naprawdę będziesz zaskoczony jest smakiem i aromatem."
 featuredImage: "pizza_z_grilla.jpg"
 ---
 

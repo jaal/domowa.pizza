@@ -7,6 +7,8 @@ tags:
   - boczek
   - ser-kozi
   - sos-pesto
+meta: 
+    description: "Boczek i pesto na pizzy są pyszne. Dodając do tego ser kozi, jest to połączenie grzechu warte. Spróbuj pizzy z pesto, boczkiem i serem kozim."
 featuredImage: "pizza-pesto-boczek-ser-kozi.jpg"
 ---
 

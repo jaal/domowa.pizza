@@ -13,6 +13,8 @@ tags:
   - ser-kozi
   - sos-smietanowy
   - szynka-parmenska
+meta: 
+    description: "Sprawdza mi się szynka parmeńska, melon i feta w formie sałatki. Dlaczego miałoby mi się nie sprawdzić na pizzy? I sprawdziło się. Zobacz jak. Do dzieła!"
 featuredImage: "IMG_20150607_142230809.jpg"
 ---
 

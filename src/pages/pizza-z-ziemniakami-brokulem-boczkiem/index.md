@@ -3,6 +3,8 @@ title: "Pizza z ziemniakami, brokułem i boczkiem"
 date: "2014-12-04T18:37:06.000Z"
 categories: 
   - przepis-na-pizze
+meta: 
+    description: "Sprawdź ciekawy przepis na pizzą z ziemniakami, boczkiem i brokułami. Idealny gdy zostanie Ci coś z wczorajszego obiadu."
 featuredImage: "DSC_0175-e1418159454360.jpg"
 ---
 

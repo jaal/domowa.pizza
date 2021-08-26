@@ -3,6 +3,9 @@ title: "Jak odgrzać pizzę?"
 date: "2014-11-09T21:59:08.000Z"
 categories: 
   - inne
+meta: 
+    title: "Jak odgrzać pizzę w piekarniku, na patelni i w mikrofali?"
+    description: "Dowiedz się jak odgrzać \"wczorajszą\" pizzę, by była chrupiąca jak świeża. W piekarniku, w mikrofali i na patelni. Poznaj najlepszy sposób na odgrzanie pizzy"
 featuredImage: "DSC07529.jpg"
 ---
 

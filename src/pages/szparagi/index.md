@@ -3,6 +3,8 @@ title: "Pizza ze szparagami"
 date: "2016-05-30T18:52:26.000Z"
 categories: 
   - inne
+meta: 
+    description: "Wszystko o szparagach: 3 sprawdzone przepisy na pizzę ze szparagami, jak przygotować szparagi, jak obrać szparagi, jak gotować szparagi i co zrobić z ogonkami."
 featuredImage: "szparagi.jpg"
 ---
 

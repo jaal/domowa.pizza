@@ -3,6 +3,9 @@ title: "Jak zrobić na obiad w środku tygodnia pizzę w 20 minut?"
 date: "2014-08-21T20:51:34.000Z"
 categories: 
   - przepis-na-pizze
+meta: 
+    title: "Jak w 20 minut zrobić na obiad pizzę w środku tygodnia?"
+    description: "Szukasz przepisu na szybką pizzę? Sprawdź przepis na szybką pizzę w 20 minut, czym zaskoczysz najbliższych. Zrobisz pizzę na obiad w środku tygodnia."
 ---
 
 Na początku moje doświadczenia z pizzą były dość … intensywne:-) Ciasto wyrabiałem 30 minut i nadal było twarde. Maką i sos pomidorowy były dosłownie wszędzie! Zlew po takim obiedzie z pizzą był zwykle zawalony brudnymi naczyniami. Generalnie człowiek się narobił przed, w trakcie i po zjedzieniu pizzy.

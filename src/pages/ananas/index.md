@@ -1,9 +1,11 @@
 ---
 title: "Ananas"
 date: "2014-12-21T22:05:52.000Z"
-category: skladniki
 categories: 
   - skladniki
+meta: 
+    title: "Ananas - pizza z ananasem, obieranie, właściwości, cena, kalorie"
+    description: "Dowiedz się jakie właściwości ma ananas, jak obierać ananasa, dlaczego świeży jest lepszy, ile kalorii ma ananas, co zrobić ze skórkami z ananasa."
 featuredImage: "2014-12-12-13.52.23.jpg"
 ---
 

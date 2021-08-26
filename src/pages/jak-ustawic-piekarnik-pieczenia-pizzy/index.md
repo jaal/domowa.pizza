@@ -3,6 +3,9 @@ title: "Jak ustawić piekarnik do pieczenia pizzy?"
 date: "2014-11-07T21:53:26.000Z"
 categories: 
   - porady
+meta: 
+    title: "Jak ustawić piekarnik do pieczenia pizzy - temperatura, czas, ustawienia"
+    description: "Jak ustawić piekarnik do pieczenia pizzy - kompletny przewodnik Dowiedz się wszystkiego: temperatura, czas, ustawienia piekarnika. Wynieś pizzę na nowy poziom"
 featuredImage: "jak-ustawic-piekarnik-e1418332402839.jpg"
 ---
 

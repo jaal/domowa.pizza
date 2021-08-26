@@ -8,6 +8,9 @@ tags:
   - oliwki
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    title: "Pizza Margherita - przepis na pizzę Margherita"
+    description: "Pizza Margherita - poznaj klasyczny i sprawdzony przepis na pizzę. Prosta, szybka i klasyczna. Pizza znana też jako Pizza Margarita lub Pizza Margharita."
 featuredImage: "pizza-margherita.jpg"
 ---
 

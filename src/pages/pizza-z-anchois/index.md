@@ -8,6 +8,8 @@ tags:
   - oliwki
   - oregano
   - sos-pomidorowy
+meta: 
+    description: "Przepis na pizzę łączącą słone filety anchois z sosem pomidorowym jest świetne. Łatwo się robi, łatwo się je, świetnie smakuje:-)"
 featuredImage: "DSC_0147-e1420139961287.jpg"
 ---
 

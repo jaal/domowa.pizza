@@ -3,6 +3,9 @@ title: "Pieczenie pizzy"
 date: "2014-09-07T18:49:00.000Z"
 categories: 
   - inne
+meta: 
+    title: "Pieczenie pizzy - ustawienia piekarnika, temperatury i czasu pieczenia"
+    description: "Pieczenie pizzy w domu jest proste. Sprawdź jak upiec domową pizzę w piekarniku gazowym i elektrycznym. Zobacz optymalne ustawienia temperatury i czasu pieczenia."
 featuredImage: "jak-ustawic-piekarnik-e1418332402839.jpg"
 ---
 

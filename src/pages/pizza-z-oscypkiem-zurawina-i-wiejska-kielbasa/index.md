@@ -8,6 +8,8 @@ tags:
   - ser-oscypek
   - sos-pomidorowy
   - zurawina
+meta: 
+    description: "Pizza to już międzynarodowe danie. Skoro można dostać pizzę z sushi(!), to pizza w stylu góralskim z oscypkiem brzmi całkiem naturalnie. Co więcej, smakuje świetnie!"
 featuredImage: "pizza-z-oscypkiem-zurawina-kielbasa.jpg"
 ---
 

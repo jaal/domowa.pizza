@@ -3,6 +3,9 @@ title: "Moja książka w prezencie dla Ciebie"
 date: "2016-11-24T21:45:33.000Z"
 categories: 
   - inne
+meta: 
+    title: "Książka o domowym pieczeniu pizzy w prezencie"
+    description: "Moja książka o domowym pieczeniu pizzy dla Ciebie w prezencie! Moja propozycja to win-win-win, każdy wygrywa :-)"
 featuredImage: "fb_ads_1.jpg"
 ---
 

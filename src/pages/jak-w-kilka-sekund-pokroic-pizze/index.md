@@ -4,6 +4,9 @@ date: "2015-05-15T20:54:03.000Z"
 categories: 
   - inne
   - porady
+meta: 
+    title: "Jak pokroić pizzę?"
+    description: "Sprawdź jak w kilka sekund i ruchów pokroić pizzę na 4, 8, 10 i 16 kawałków? Czym najlepiej kroić pizzę, a czego unikać?"
 featuredImage: "radelko.jpg"
 ---
 

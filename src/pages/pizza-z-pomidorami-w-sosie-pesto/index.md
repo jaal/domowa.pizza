@@ -9,6 +9,9 @@ tags:
   - pomidor
   - ser-mozzarella
   - sos-pesto
+meta: 
+    title: "Pizza z pesto i pomidorami - przepis na pizzę z sosem pesto i pomidorami"
+    description: "Sprawdź przepis na pizzę z sosem pesto i pomidorami. Pizza z pesto jest lekka, prosta i szybka - do zrobienia w jedyne 40 minut. Poznaj przepis krok po kroku."
 featuredImage: "DSC07080.jpg"
 ---
 

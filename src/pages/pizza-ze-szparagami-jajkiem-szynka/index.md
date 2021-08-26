@@ -9,6 +9,8 @@ tags:
   - szparagi
   - szynka-parmenska
   - zielone-szparagi
+meta: 
+    description: "Pizza ze szparagami - zielone, chrupiące, świeże szparagi, do tego zapieczona szynka oraz jajko na środku, a na wierzchu kremowa mozzarella. Klasycznie, prosto, szybko!"
 featuredImage: "pizza-ze-szparagami-szynka-serem-i-jajkiem.jpg"
 ---
 

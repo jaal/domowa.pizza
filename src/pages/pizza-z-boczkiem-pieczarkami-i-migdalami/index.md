@@ -9,6 +9,8 @@ tags:
   - pieczarki
   - ser-mozzarella
   - sos-pomidorowy
+meta: 
+    description: "Pizza z boczkiem... kocham i nienawidzę boczku:-) Tym razem na pizzy boczek połączył się z pieczarkami i migdałami - wyszło pysznie!"
 featuredImage: "pizza-z-boczkiem-pieczarkami-migdalami.jpg"
 ---
 

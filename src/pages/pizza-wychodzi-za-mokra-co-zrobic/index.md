@@ -3,6 +3,9 @@ title: "Pizza wychodzi za mokra - co zrobić?"
 date: "2014-11-19T22:03:28.000Z"
 categories: 
   - inne
+meta: 
+    title: "Pizza wychodzi za mokra - co zrobić? Poznaj sprawdzone sposoby"
+    description: "Twoja pizza wychodzi za mokra? Poznaj 5 sprawdzonych metod na mokrą pizzę."
 ---
 
 Jeśli zdarza Ci się, że Twoja pizza po wyciągnięciu z piekarnika jest za mokra, żeby nie powiedzieć, że „pływa”, nie jesteś sam jak palec. Kiedyś miałem ten problem. Ba! Nawet teraz zdarza mi się upiec pizzę, która spływa z talerza jak Wisła do Morza.

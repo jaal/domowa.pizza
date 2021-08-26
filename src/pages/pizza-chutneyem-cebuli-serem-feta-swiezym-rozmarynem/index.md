@@ -5,6 +5,8 @@ categories:
   - danie-wegetarianskie
   - pizza-wegetarianska
   - przepis-na-pizze
+meta: 
+    description: "Chutney z rozmarynem dał niepowtarzalny zapach. A smak? Słodka i miękka cebula w połączeniu ze słoną, kremową i rozpływającą się fetą. Strzał w dziesiątkę!"
 featuredImage: "pizza-chutney-feta-rozmaryn.jpg"
 ---
 

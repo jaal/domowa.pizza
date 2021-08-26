@@ -8,6 +8,8 @@ tags:
   - sos-pomidorowy
   - swieze-pomidory
   - szpinak
+meta: 
+    description: "Kolorowa, wiosenna, lekka i pyszna pizza - szpinak, feta i świeże pomidory na sosie pomidorowym. Polecam!"
 featuredImage: "DSC07732.jpg"
 ---
 

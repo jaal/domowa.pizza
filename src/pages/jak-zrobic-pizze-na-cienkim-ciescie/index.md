@@ -3,6 +3,9 @@ title: "Jak zrobić pizzę na cienkim cieście?"
 date: "2014-08-30T20:34:06.000Z"
 categories: 
   - przepis-na-ciasto
+meta: 
+    title: "Jak zrobić pizzę na cienkim cieście? Sprawdź przepis na pizzę."
+    description: "Zrobić pizzę na cienkim cieście to jest naprawdę sztuka! Jak zrobić ciasto na pizzę, które nie będzie twarde, ale będzie chrupiące, a w dodatku nie wyrośnie na 2 cm? Mam na to przepis:-)"
 ---
 
 Zrobić pizzę na cienkim cieście to jest naprawdę sztuka! W Polsce jesteśmy przyzwyczajeni do pizzy na grubym spodzie. A gdyby tak zrobić pizzę w trochę bardziej włoskim celu? Jak upiec pizzę, której ciasto nie będzie twarde, ale będzie chrupiące, a w dodatku nie wyrośnie na 2 cm? Mam na to przepis:-)

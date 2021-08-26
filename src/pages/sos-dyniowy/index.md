@@ -10,6 +10,8 @@ tags:
   - oliwa
   - sol
   - swiezo-zmielony-pieprz
+meta: 
+    description: "Sos z dyni - przygotowałem sos z dyni, który ozłoci (dosłownie i w przenośni) Twoją pizzę i spowoduje, że jesień nie będzie taka straszna."
 featuredImage: "pizza-sos-dyniowy-swiezy-szpinak.jpg"
 ---
 

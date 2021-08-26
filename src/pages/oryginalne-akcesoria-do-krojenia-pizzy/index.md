@@ -3,6 +3,9 @@ title: "20 najbardziej oryginalnych akcesoriów do krojenia pizzy"
 date: "2015-06-18T21:53:01.000Z"
 categories: 
   - inne
+meta: 
+    title: "20 najbardziej oryginalnych akcesoriów do krojenia pizzy"
+    description: "Poznaj 20 najbardziej oryginalnych akcesoriów do krojenia pizzy. Z akcesorium #1 zawsze podzielisz pizzę równo. Dla fanów rowerów, Star Wars i matematyki"
 ---
 
 Możesz mieć praktyczne i poręczne radełko do krojenia pizzy (sprawdź które radełko polecam), a możesz też zaszaleć i znaleźć coś, co bardziej wyrazi Ciebie. A może szukasz inspiracji na prezent? Nie gwarantuję, że się nimi dobrze kroi pizzę... ale na pewno nie można im odmówić oryginalności lub nawet odjechania;-)

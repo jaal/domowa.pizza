@@ -13,6 +13,8 @@ tags:
   - ser-mozzarella
   - sos-guacamole
   - sos-pomidorowy
+meta: 
+    description: "Sprawdź przepis na pizzę z sosem guacamole. Sos guacamole zrobisz w kilka minut. Warto spróbować."
 featuredImage: "2015-02-07-14.46.59.jpg"
 ---
 

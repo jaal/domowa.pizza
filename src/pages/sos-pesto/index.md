@@ -10,6 +10,9 @@ tags:
   - oliwa-z-oliwek
   - orzeszki-piniowe
   - parmezan
+meta: 
+    title: "Sos pesto - przepis na sos pesto - jak zrobić domowe pesto"
+    description: "Przepis na sos pesto. Jak zrobić sos pesto z bazylii orzeszków piniowych parmezanu oliwy i czosnku? Prosty, szybki i domowy sos pesto. Zrobisz go w 15 minut."
 featuredImage: "DSC07052-e1415389452650.jpg"
 ---
 

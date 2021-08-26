@@ -5,6 +5,8 @@ categories:
   - danie-wegetarianskie
   - pizza-wegetarianska
   - przepis-na-pizze
+meta: 
+    description: "Pizza z kurkami - delikatne kurki, ostre chilli, kremowa mozzarella, lekko słodkawa, ale wyraźnia w smaku czerwona ceubla i aromatyczne suszone pomidory."
 featuredImage: "pizza-z-kurkami-mozzarella-chilli-suszonymi-pomidorami-czerwona-cebula.jpg"
 ---
 

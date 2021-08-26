@@ -12,6 +12,9 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - syrop-balsamiczny
+meta: 
+    title: "Pizza z dynią i boczkiem"
+    description: "Pizza z dynią - tym razem doskonałe połączenie słodkiej dyni i słonego boczku plus na wierzch mięciutka mozzarella. Mniam:-)"
 featuredImage: "pizza-z-dynia-boczkiem.jpg"
 ---
 

@@ -8,6 +8,8 @@ tags:
   - ser-mozzarella
   - sos-pomidorowy
   - szynka-parmenska
+meta: 
+    description: "Dla lubiących chrupiące klimaty - pizza z zapieczoną szynką parmeńską. Uwaga! Możesz zastąpić boczkiem, pod warunkiem, że jest równie chrupiący."
 featuredImage: "pizza-z-szynka-parmenska.jpg"
 ---
 

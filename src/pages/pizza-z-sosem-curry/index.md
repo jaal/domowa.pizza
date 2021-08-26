@@ -8,6 +8,8 @@ tags:
   - czarne-oliwki
   - oregano
   - sos-curry
+meta: 
+    description: "Sos curry świetnie pasuje do przypieczonego ciasta na pizzę, skarmelizowanego ananasa na górze i roztopionego sera mozzarella. Uwielbiam to połączenie!"
 featuredImage: "pizza-z-sosem-curry.jpg"
 ---
 

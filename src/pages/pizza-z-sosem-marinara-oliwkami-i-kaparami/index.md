@@ -13,6 +13,8 @@ tags:
   - oliwa-z-oliwek
   - oregano
   - sos-marinara
+meta: 
+    description: "Prosta, nietypowa, wyrazista i ciekawa. Kluczem jest tutaj sos marinara, który w połączeniu z kaparami i oliwkami daje kapitalny smak."
 featuredImage: "DSC07624.jpg"
 ---
 

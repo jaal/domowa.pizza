@@ -11,6 +11,8 @@ tags:
   - sos-pomidorowy
   - suszone-pomidory
   - szpinak
+meta: 
+    description: "Pyszna, wyrazista, kolorowa i lekka - bardzo smakuje mi to połączenie szpinaku, suszonych pomidorów i parmezanu wraz z roztopioną mozzarellą."
 featuredImage: "pizza-suszone-pomidory-szpinak-parmezan.jpg"
 ---
 

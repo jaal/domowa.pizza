@@ -8,6 +8,9 @@ tags:
   - oregano
   - ser-mozzarella
   - sos-bolognese
+meta: 
+    title: "Pizza z sosem bolognese"
+    description: "Pizza z sosem bolognese - sprawdź przepis na pizzę z sosem bolońskim."
 ---
 
 Tak pizza połączy dwie włoskie klasyczne potrawy - pizzę i sos bolognese. Wyjdzie pysznie i wcale nie ciężko. Sekret tkwi w sposobie przyrządzenia sosu bolońskiego. Mój sos jest lekki i prosty w przyrządzeniu. Sprawdź jak zrobić taką pizzę krok po kroku.

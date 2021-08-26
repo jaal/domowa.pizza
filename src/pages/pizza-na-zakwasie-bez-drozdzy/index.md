@@ -3,6 +3,9 @@ title: "Pizza na zakwasie bez drożdży"
 date: "2015-08-01T06:05:15.000Z"
 categories: 
   - przepis-na-ciasto
+meta: 
+    title: "Pizza na zakwasie - ciasto na pizzę bez drożdży na zakwasie"
+    description: "Pizza na zakwasie - przepis na ciasto na pizzę bez drożdży. Dowiedz się Jak przygotować zakwas i samą pizzę, ile zakwasu użyć oraz jakie są proporcje."
 featuredImage: "ciasto-na-pizze-na-zakwasie-bez-drozdzy.jpg"
 ---
 

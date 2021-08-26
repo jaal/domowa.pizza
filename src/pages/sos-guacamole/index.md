@@ -8,6 +8,9 @@ categories:
 tags: 
   - danie-weganskie
   - danie-wegetarianskie
+meta: 
+    title: "Przepis na sos guacamole"
+    description: "Przepis na sos guacamole w 7 minut ze składników dostępnych w każdym markecie. Idealny dodatek do pizzy, dań meksykańskich i kanapek. Zdrowy, szybki, pyszny."
 featuredImage: "640px-Guacamole.jpg"
 ---
 
