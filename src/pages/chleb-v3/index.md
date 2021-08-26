@@ -10,8 +10,6 @@ meta:
 
 ![Książka "Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb"](okladka_internet_small.jpg)
 
-\[wce\_code id=20\]
-
 ## Coś o mnie
 
 Hej, nazywam się Olek i lubię gotować, zwłaszcza dla rodziny i przyjaciół. Szczególnie upodobałem sobie pizzę i domowy chleb. Od strony pieczenia pizzy możesz mnie poznać na tym blogu.
@@ -46,7 +44,7 @@ Po kilku próbach zacząłem łapać w czym rzecz. Chleb zaczął być coraz pro
 
 W niedługim czasie przekonałem się, że domowy chleb jest prosty, szybki, tani i zdrowy. Co więcej, wypracowałem sposób, aby go zrobić w 12 minut czasu mojej pracy. Od 2012 roku wyszło spod moich rąk ponad 1000 upieczonych bochenków domowego chleba.
 
-Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](DSC_0864-1-1024x681.jpg) \[wce\_code id=20\]
+Już dawno przestałem kupować sklepowy chleb. Stracił dla mnie na wartości odkąd mam świadomość, że w 12 minut jestem w stanie upiec o wiele lepszy, zdrowszy, smaczniejszy i tańszy chleb. Wobec takiej konkurencji, sklepowy chleb nie ma szans. ![](DSC_0864-1-1024x681.jpg)
 
 ## Z czym mi się kiedyś kojarzył domowy chleb?
 
@@ -76,7 +74,7 @@ Książka zawiera przepis na tradycyjny chleb, zwany też ze względu na swój o
 2. Rozpisana każda z 12 minut, którą przeznaczysz na upieczenie domowego chleba
 3. Sprzęt, który używam i polecam
 
-Wszystko zwięźle zebrane na 19 stronach w pliku PDF. \[wce\_code id=20\]
+Wszystko zwięźle zebrane na 19 stronach w pliku PDF.
 
 ## Dlaczego warto piec chleb w domu?
 
@@ -132,7 +130,7 @@ Gdy upiekłem domowy chleb i wyszedł mi naprawdę super, miałem trudną do opi
 
 ### Domowy chleb jest ciekawym pomysłem na upominek
 
-Tak bardzo przyzwyczaiłem się do domowego chleba, że zapomniałem ile radości może on dawać osobom, które na co dzień takiego nie mają. Dla mnie to tylko 12 minut pracy i 2,40 zł za kilogram, a dla obdarowanego znacznie więcej. Pamiętam, że dawałem mój domowy chleb w kilku okazjach (ostatni dzień w pracy, grill u znajomych czy podziękowanie za pomoc) i byłem zaskoczony reakcją drugiej osoby. Przekonałem się ile może znaczyć taki upominek. \[wce\_code id=20\]
+Tak bardzo przyzwyczaiłem się do domowego chleba, że zapomniałem ile radości może on dawać osobom, które na co dzień takiego nie mają. Dla mnie to tylko 12 minut pracy i 2,40 zł za kilogram, a dla obdarowanego znacznie więcej. Pamiętam, że dawałem mój domowy chleb w kilku okazjach (ostatni dzień w pracy, grill u znajomych czy podziękowanie za pomoc) i byłem zaskoczony reakcją drugiej osoby. Przekonałem się ile może znaczyć taki upominek.
 
 ## Jaki jest koszt upieczenia domowego chleba?
 
@@ -173,7 +171,7 @@ Tu nie ma nic skomplikowanego czy drogiego. Zakładając, że w Twojej kuchni je
 
 ## Do dzieła!
 
-Zobacz, że można upiec pyszny i zdrowy domowy chleb w sposób szybki i niedrogi. \[wce\_code id=20\]
+Zobacz, że można upiec pyszny i zdrowy domowy chleb w sposób szybki i niedrogi.
 
 ## Masz pytania?
 

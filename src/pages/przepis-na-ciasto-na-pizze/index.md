@@ -34,8 +34,6 @@ Będziesz potrzebować:
 - dużego naczynia do wyrabiania ciasta (np. szklana lub gliniana misa)
 - małego naczynia do przygotowania zaczynu (np. duży kubek lub większa szklanka czy wałek)
 
-\[wce\_code id=16\]
-
 ## 3\. Zaczyn
 
 Na początku przygotuj zaczyn. Dzięki zaczynowi będziesz w stanie stwierdzić, czy drożdże są świeże. Gdybyś dodał zepsutych drożdży do ciasta, zmarnujesz mąkę i czas.
@@ -115,5 +113,3 @@ Różnią się ilością wody, którą zawierają. Świeże drożdże zostały p
 ## 10\. Koszt domowej pizzy
 
 Ile kosztuje przygotowanie domowej pizzy? Czy opłaca się przygotowywać pizzę w domu? Ile to kosztuje? Policzyłem dokładnie co do grosza koszt ciasta, składników, energii elektrycznej i czasu. Wyszło mi, że pizza domowa jest opłacalna. Zobacz o ile jest opłacalna! Pobierz arkusz kalkulacyjny z wyliczeniami >>
-
-\[wce\_code id=16\]

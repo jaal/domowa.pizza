@@ -1,11 +1,11 @@
 
-all: build server
+all: build serve
 
 build:
 	npm run-script build
 
-server:
-	cd public && python3 -m http.server --bind \:\:
+serve:
+	npm run-script serve
 
 deploy:
-	rsync -zav ./public/* technologie@domowa.pizza:web/dev_domowa_pizza/
+	rsync -zav --delete ./public/* technologie@domowa.pizza:web/dev_domowa_pizza/

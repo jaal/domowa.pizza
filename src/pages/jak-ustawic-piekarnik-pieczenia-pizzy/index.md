@@ -21,8 +21,6 @@ Podczas pieczenia pizzy jest kilka parametrów, na które masz wpływ. Możesz w
 
 Wydaje się na pierwszy rzut oka, że to całkiem dużo parametrów do ogarnięcia. Tak naprawdę po kilku upieczonych pizzach nabierzesz wprawy. Co i jak ustawić, aby pizza wyszła chrupiąca?
 
-\[wce\_code id=12\]
-
 ## 1\. Sposób grzania - jakie ustawić grzanie w piekarniku?
 
 W 99% polskich domów znajduje się piekarnik elektryczny, gazowy lub nie ma piekarnika w ogóle.  Skupię się na ustawieniach piekarnika elektrycznego i gazowego. <a title="Przepis na pizzę z patelni" href="/przepis-na-pizze-z-patelni/">Pieczenie pizzy bez piekarnika też mam opracowane</a>.

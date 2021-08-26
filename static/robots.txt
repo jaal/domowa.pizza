@@ -1,2 +1,10 @@
 User-agent: *
-Disallow:
+Allow: /
+Allow: /?display=wide
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-admin/
+
+Sitemap: http://domowa.pizza/post-sitemap.xml
+Sitemap: http://domowa.pizza/page-sitemap.xml

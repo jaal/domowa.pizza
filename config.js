@@ -14,5 +14,5 @@ module.exports = {
     // linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
   pathPrefix: '/',
-  siteUrl: 'https://domowa.pizza/',
+  siteUrl: 'https://domowa.pizza',
 };

@@ -30,8 +30,6 @@ Pizza pieczona na kamieniu jest dużo, dużo, dużo lepsza niż z blachy. Cięż
 
 Uwaga! Pod żadnym pozorem nie próbuj wyciągnąć kamienia do pizzy z piekarnika za pomocą tradycyjnych rękawic lub ściereczek kuchennych albo innych tego typu rzeczy. Kamień jest bardzo gorący. Może się to skończyć tak, że wyciągając kamień poparzysz sobie ręce, a jak puścisz kamień, to i uszkodzisz sobie nogi. Jeśli już musisz wyciągnąć kamień z piekarnika, użyj silikonowych rękawic lub po prostu poczekaj aż ostygnie. Najlepiej nie wyciągać w ogóle kamienia z piekarnika. Jest on ciężki i bardzo gorący. Łatwo się poparzyć i narobić szkód w kuchni. Wobec tego jak umieścić pizzę na kamieniu nie wyciągając kamienia z piekarnika?:-)
 
-\[wce\_code id=19\]
-
 ## 3\. Jak nałożyć pizzę na gorący kamień?
 
 Gorący kamień jest już w piekarniku, a pizza leży na blacie. Jak przenieść pizzę na kamień? Możesz to zrobić na kilka sposobów.

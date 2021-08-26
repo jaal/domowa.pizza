@@ -15,8 +15,6 @@ Technicznie rzecz biorąc oddaję książkę za darmo, a w praktyce liczę na to
 
 Ewa potrzebuje pomocy, kwota jest spora, a Ewa nie ma dużo czasu. Dlatego proszę Cię o wsparcie oferując książkę za darmo.
 
-\[wce\_code id=22\]
-
 ## Coś o mnie
 
 Hej, nazywam się Olek i lubię gotować, zwłaszcza dla rodziny i przyjaciół. Szczególnie upodobałem sobie pizzę i domowy chleb. Od strony pieczenia pizzy możesz mnie poznać na tym blogu.
@@ -181,8 +179,6 @@ Napisałem książkę - ebooka o moim sposobie - "Domowy chleb w 12 minut". Tytu
 Wszystko zwięźle zebrane na 19 stronach w pliku PDF.
 
 <a href="/?edd_action=add_to_cart&amp;download_id=7641"><img class="aligncenter wp-image-7644 size-full" src="okladka_internet_small.jpg" alt="Książka &quot;Domowy chleb w 12 minut - poznaj prosty sposób na pyszny chleb&quot;" width="800" height="1280"></a>
-
-\[wce\_code id=22\]
 
 ## Masz pytania?
 

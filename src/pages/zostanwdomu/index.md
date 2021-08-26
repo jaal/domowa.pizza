@@ -17,8 +17,6 @@ Jeśli masz wyjść z domu do sklepu tylko po to, żeby kupić chleb, zostań w 
 
 Dlatego daję Ci za darmo <a href="/chleb/">moją książkę "Domowy chleb w 12 minut"</a>. To instrukcja jak możesz w szybki sposób przygotować domowy chleb. <a href="/?edd_action=add_to_cart&amp;download_id=7641&amp;discount=zostanwdomu">Kliknij, pobierz i wyczaruj swój wiejski bochen :-)</a>
 
-\[wce\_code id=22\]
-
 Jeśli czujesz się zobowiązany i chcesz się odwdzięczyć, [zbieram pieniądze na akcję "Wspieramy polską służbę zdrowia w czasie walki z epidemią COVID-19" oragnizowaną przez siepomaga.pl](https://www.siepomaga.pl/domowapizza). Twoje wsparcie jest mile widzane :-) 
 
 [

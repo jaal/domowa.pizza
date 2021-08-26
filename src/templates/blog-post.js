@@ -1,12 +1,9 @@
-import {graphql} from 'gatsby';
+import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import get from 'lodash/get';
 import React from 'react';
-
 import userConfig from '../../config';
-
 import Layout from './layout';
-
 import Article from '../components/Article';
 import ArticleHeader from '../components/ArticleHeader';
 import Button from '../components/Button';
@@ -21,7 +18,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
-    const { previous, next } = this.props.pageContext;
+    const { slug, previous, next } = this.props.pageContext;
 
     let url = '';
     if (typeof window !== `undefined`) {
@@ -29,51 +26,169 @@ class BlogPostTemplate extends React.Component {
     }
 
     return (
-      <Layout>
-        <Container>
-          <Helmet
-            title={post.frontmatter.meta?.title || `${post.frontmatter.title} | ${author}`}
-            htmlAttributes={{ lang: 'PL' }}
-          >
-            <meta
-              name="description"
-              content={post.frontmatter.meta?.description || `${userConfig.title} | ${userConfig.description}`}
-            />
-          </Helmet>
-          <Card>
-            <ArticleHeader>
-              {post.frontmatter.featuredImage && (
-                <FeaturedImage
-                  image={post.frontmatter.featuredImage}
-                />
+      <>
+        <Helmet
+          title={post.frontmatter.meta?.title || `${post.frontmatter.title} | ${author}`}
+          htmlAttributes={{ lang: 'PL' }}
+        >
+          <meta
+            name="description"
+            content={post.frontmatter.meta?.description || `${userConfig.title} | ${userConfig.description}`}
+          />
+          <meta property="og:locale" content="pl_PL" />
+          <meta property="og:type" content="article" />
+          <meta property="og:url" content={`${userConfig.siteUrl}${slug}`} />
+          <meta property="og:title" content={post.frontmatter.meta?.title || `${post.frontmatter.title} | ${author}`} />
+          <meta property="og:description" content={post.frontmatter.meta?.description || `${userConfig.title} | ${userConfig.description}`} />
+          <meta property="og:site_name" content={userConfig.headline} />
+          <meta property="article:author" content="https://www.facebook.com/olek83" />
+          <meta property="article:published_time" content={post.frontmatter.createdAt} />
+          {post.frontmatter.featuredImage && (
+            <meta property="og:image" content={`${userConfig.siteUrl}${post.frontmatter.featuredImage.childImageSharp.fluid.src}`} />
+          )}
+          <meta name="twitter:card" content="summary" />
+          <meta name="twitter:creator" content="@olekjaworski" />
+          <meta name="twitter:label1" content="Napisane przez" />
+          <meta name="twitter:data1" content="Olek" />
+        </Helmet>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            {
+              "@context": "https://schema.org",
+              "@graph": [
+                {
+                  "@type": "WebSite",
+                  "@id": `${userConfig.siteUrl}#website`,
+                  "url": userConfig.siteUrl,
+                  "name": userConfig.headline,
+                  "description": userConfig.description,
+                  "inLanguage": "pl-PL"
+                },
+                post.frontmatter.featuredImage ? ({
+                  "@type": "ImageObject",
+                  "@id": `${userConfig.siteUrl}${slug}#primaryimage`,
+                  "inLanguage": "pl-PL",
+                  "url": `${userConfig.siteUrl}${post.frontmatter.featuredImage.childImageSharp.fluid.src}`,
+                  "contentUrl": `${userConfig.siteUrl}${post.frontmatter.featuredImage.childImageSharp.fluid.src}`,
+                  "caption": post.frontmatter.title
+                }) : undefined,
+                {
+                  "@type": "WebPage",
+                  "@id": `${userConfig.siteUrl}${slug}#webpage`,
+                  "url": `${userConfig.siteUrl}${slug}`,
+                  "name": post.frontmatter.meta?.title || `${post.frontmatter.title} | ${author}`,
+                  "isPartOf": {
+                    "@id": `${userConfig.siteUrl}#website`
+                  },
+                  "primaryImageOfPage": {
+                    "@id": `${userConfig.siteUrl}${slug}#primaryimage`
+                  },
+                  "datePublished": post.frontmatter.createdAt,
+                  "author": {
+                    "@id": `${userConfig.siteUrl}#/schema/person/Olek`
+                  },
+                  "description": post.frontmatter.meta?.description || `${userConfig.title} | ${userConfig.description}`,
+                  "breadcrumb": {
+                    "@id": `${userConfig.siteUrl}${slug}#breadcrumb`
+                  },
+                  "inLanguage": "pl-PL",
+                  "potentialAction": [
+                    {
+                      "@type": "ReadAction",
+                      "target": [
+                        `${userConfig.siteUrl}${slug}`
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "@type": "BreadcrumbList",
+                  "@id": `${userConfig.siteUrl}${slug}#breadcrumb`,
+                  "itemListElement": [
+                    {
+                      "@type": "ListItem",
+                      "position": 1,
+                      "item": {
+                        "@type": "WebPage",
+                        "@id": userConfig.siteUrl,
+                        "url": userConfig.siteUrl,
+                        "name": "Główna"
+                      }
+                    },
+                    {
+                      "@type": "ListItem",
+                      "position": 2,
+                      "item": {
+                        "@id": `${userConfig.siteUrl}${slug}#webpage`
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@type": "Person",
+                  "@id": `${userConfig.siteUrl}#/schema/person/Olek`,
+                  "name": "Olek",
+                  "image": {
+                    "@type": "ImageObject",
+                    "@id": `${userConfig.siteUrl}#person`,
+                    "inLanguage": "pl-PL",
+                    "url": "https://secure.gravatar.com/avatar/0d024e116fc72b45dff6d3e4425be04c?s=96&d=https%3A%2F%2Fdomowa.pizza%2Fwp-content%2Fuploads%2Fap_avatars%2F0d024e116fc72b45dff6d3e4425be04c.jpg&r=g",
+                    "contentUrl": "https://secure.gravatar.com/avatar/0d024e116fc72b45dff6d3e4425be04c?s=96&d=https%3A%2F%2Fdomowa.pizza%2Fwp-content%2Fuploads%2Fap_avatars%2F0d024e116fc72b45dff6d3e4425be04c.jpg&r=g",
+                    "caption": "Olek"
+                  },
+                  "sameAs": [
+                    "https://www.facebook.com/olek83",
+                    "https://twitter.com/olekjaworski"
+                  ]
+                }
+              ].filter(Boolean)
+            }
+          )
+        }} />
+        <Layout>
+          <Container>
+            <Card>
+              {false && (
+                <code>
+                  <pre>
+                    {JSON.stringify(this.props, null, 2)}
+                  </pre>
+                </code>
               )}
-              <h1>{post.frontmatter.title}</h1>
-              <p>{post.frontmatter.date}</p>
-              <span />
-            </ArticleHeader>
-            <Article>
-              <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            </Article>
-            <Categories items={post.frontmatter.categories} />
-            <Tags items={post.frontmatter.tags} />
-            {userConfig.showShareButtons && (
-              <Share url={url} title={post.frontmatter.title} />
-            )}
-          </Card>
-          <PageNav>
-            {previous && (
-              <Button to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Button>
-            )}
-            {next && (
-              <Button to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Button>
-            )}
-          </PageNav>
-        </Container>
-      </Layout>
+              <ArticleHeader>
+                {post.frontmatter.featuredImage && (
+                  <FeaturedImage
+                    image={post.frontmatter.featuredImage}
+                  />
+                )}
+                <h1>{post.frontmatter.title}</h1>
+                <p>{post.frontmatter.date}</p>
+                <span />
+              </ArticleHeader>
+              <Article>
+                <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              </Article>
+              <Categories items={post.frontmatter.categories} />
+              <Tags items={post.frontmatter.tags} />
+              {userConfig.showShareButtons && (
+                <Share url={url} title={post.frontmatter.title} />
+              )}
+            </Card>
+            <PageNav>
+              {previous && (
+                <Button to={previous.fields.slug} rel="prev">
+                  ← {previous.frontmatter.title}
+                </Button>
+              )}
+              {next && (
+                <Button to={next.fields.slug} rel="next">
+                  {next.frontmatter.title} →
+                </Button>
+              )}
+            </PageNav>
+          </Container>
+        </Layout>
+      </>
     );
   }
 }
@@ -100,6 +215,7 @@ export const pageQuery = graphql`
           description
         }
         date(formatString: "DD MMMM YYYY", locale: "pl-PL")
+        createdAt: date(formatString: "YYYY-MM-DDTHH:mm:ssZ", locale: "pl-PL")
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 850) {
