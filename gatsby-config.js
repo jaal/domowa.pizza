@@ -65,5 +65,6 @@ module.exports = {
         shortname: `najlepszyprzepisnapizzecom`
       }
     },
+    `gatsby-plugin-sitemap`
   ],
 };
