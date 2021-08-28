@@ -2,16 +2,18 @@ import Helmet from 'react-helmet';
 import React from 'react';
 import { graphql } from 'gatsby';
 import userConfig from '../../config';
-
 import Layout from './layout';
-
 import Card from '../components/Card';
 import Container from '../components/Container';
 import Summary from '../components/Summary';
 import Headline from '../components/Headline';
+import Pagination from '../components/Pagination';
 
-const TagsPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges } }, ...rest }) => {
-  const { tag } = pageContext;
+const TagPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges } } }) => {
+  const { slug, name, pages, current } = pageContext;
+
+  const previousUrl = current - 1 === 1 ? `/tag/${slug}` : `/tag/${slug}/${(current - 1).toString()}`;
+  const nextUrl = `/tag/${slug}/${(current + 1).toString()}`;
 
   return (
     <Layout>
@@ -22,11 +24,11 @@ const TagsPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges 
         >
           <meta
             name="description"
-            content={`"{tag}" | ${userConfig.title} | ${userConfig.description}`}
+            content={`"${name}" | ${userConfig.title} | ${userConfig.description}`}
           />
         </Helmet>
         <Headline>
-          Tag "{tag}" - {totalCount} wpisów
+          Tag "{name}" - {totalCount} wpisów
         </Headline>
         {edges.map(({ node }) => (
           <Card key={node.fields.slug}>
@@ -39,13 +41,23 @@ const TagsPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges 
             />
           </Card>
         ))}
+        <Pagination
+          isFirst={current === 1}
+          isLast={current === pages}
+          nextUrl={nextUrl}
+          previousUrl={previousUrl}
+        />
       </Container>
     </Layout>
   );
 };
 
 export const pageQuery = graphql`
-  query TagPage($tag: String) {
+  query TagPage(
+    $slug: String
+    $limit: Int!
+    $skip: Int!
+    ) {
     site {
       siteMetadata {
         title
@@ -53,9 +65,10 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+        limit: $limit
+        skip: $skip
         sort: { fields: [frontmatter___date], order: DESC }
-        limit: 1000
-        filter: { fields: { tags: { in: [$tag] } } }
+        filter: { fields: { tags: { in: [$slug] } } }
       ) {
       totalCount
       edges {
@@ -86,4 +99,4 @@ export const pageQuery = graphql`
   }
 `;
 
-export default TagsPage;
+export default TagPage;

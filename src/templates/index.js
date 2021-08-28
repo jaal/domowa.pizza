@@ -1,19 +1,19 @@
 import Helmet from 'react-helmet';
 import React from 'react';
-
+import { graphql } from 'gatsby';
 import userConfig from '../../config';
-
 import Layout from './layout';
-
 import Card from '../components/Card';
 import Container from '../components/Container';
 import Pagination from '../components/Pagination';
 import Summary from '../components/Summary';
 
-const IndexPage = ({ pageContext }) => {
-  const { group, index, pageCount } = pageContext;
-  const previousUrl = index - 1 === 1 ? '/' : `/page/${(index - 1).toString()}`;
-  const nextUrl = `/page/${(index + 1).toString()}`;
+const AllPage = ({ pageContext, data: { allMarkdownRemark: { edges } } }) => {
+  const { pages, current } = pageContext;
+
+  const previousUrl = current - 1 === 1 ? `/` : `/${(current - 1).toString()}`;
+  const nextUrl = `/${(current + 1).toString()}`;
+
   return (
     <Layout>
       <Container>
@@ -26,7 +26,7 @@ const IndexPage = ({ pageContext }) => {
             content={`${userConfig.title} | ${userConfig.description}`}
           />
         </Helmet>
-        {group.map(({ node }) => (
+        {edges.map(({ node }) => (
           <Card key={node.fields.slug}>
             <Summary
               date={node.frontmatter.date}
@@ -38,8 +38,8 @@ const IndexPage = ({ pageContext }) => {
           </Card>
         ))}
         <Pagination
-          isFirst={index === 1}
-          isLast={index === pageCount}
+          isFirst={current === 1}
+          isLast={current === pages}
           nextUrl={nextUrl}
           previousUrl={previousUrl}
         />
@@ -47,4 +47,50 @@ const IndexPage = ({ pageContext }) => {
     </Layout>
   );
 };
-export default IndexPage;
+
+export const pageQuery = graphql`
+  query AllPage(
+    $limit: Int!
+    $skip: Int!
+    ) {
+    site {
+      siteMetadata {
+        title
+        author
+      }
+    }
+    allMarkdownRemark(
+        limit: $limit
+        skip: $skip
+        sort: { fields: [frontmatter___date], order: DESC }
+      ) {
+      totalCount
+      edges {
+        node {
+          id
+          html
+          fields {
+            slug
+          }
+          frontmatter {
+              title
+              date(formatString: "DD MMMM YYYY", locale: "pl-PL")
+              featuredImage {
+                childImageSharp {
+                  fluid(maxWidth: 850) {
+                    base64
+                    aspectRatio
+                    src
+                    srcSet
+                    sizes
+                  }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;
+
+export default AllPage;

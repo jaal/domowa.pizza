@@ -59,45 +59,5 @@ module.exports = {
     },
     // `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    // {
-    //   resolve: "gatsby-plugin-categories",
-    //   options: {
-    //     templatePath: `${__dirname}/src/templates/category.js`,
-    //   //   query: `
-    //   //   {
-    //   //     allMarkdownRemark {
-    //   //       edges {
-    //   //         node {
-    //   //           fields {
-    //   //             tags
-    //   //           }
-    //   //         }
-    //   //       }
-    //   //     }
-    //   //   }
-    //   // `,
-    //   // prefix: "/tags/",
-    //   // transformer: ({
-    //   //   data
-    //   // }) => data.allMarkdownRemark.edges.map(({node}) => node),
-    //   // slugOptions: {
-    //   //   lower: true
-    //   // }
-    //   },
-    // },
-    {
-      resolve: "gatsby-plugin-tags",
-      options: {
-        templatePath: `${__dirname}/src/templates/tags.js`,
-        prefix: "/tag/",
-      },
-    },
-    // {
-    //   resolve: "gatsby-plugin-tags",
-    //   options: {
-    //     templatePath: `${__dirname}/src/templates/categories.js`,
-    //     prefix: "/tag/",
-    //   },
-    // },
   ],
 };

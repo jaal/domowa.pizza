@@ -1,6 +1,5 @@
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
-import get from 'lodash/get';
 import React from 'react';
 import userConfig from '../../config';
 import Layout from './layout';
@@ -17,7 +16,7 @@ import { Tags, Categories } from '../components/Taxonomy'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
-    const author = get(this.props, 'data.site.siteMetadata.author');
+    const author = this.propsdata?.site?.siteMetadata?.author
     const { slug, previous, next } = this.props.pageContext;
 
     let url = '';
