@@ -12,6 +12,7 @@ import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
 import Share from '../components/Share';
 import { Tags, Categories } from '../components/Taxonomy'
+import { Disqus } from 'gatsby-plugin-disqus'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -19,9 +20,11 @@ class BlogPostTemplate extends React.Component {
     const author = this.propsdata?.site?.siteMetadata?.author
     const { slug, previous, next } = this.props.pageContext;
 
-    let url = '';
-    if (typeof window !== `undefined`) {
-      url = window.location.href;
+    const location = this.props.location
+    const disqusConfig = {
+      url: `${userConfig.siteUrl + location.pathname}`,
+      identifier: slug,
+      title: post.frontmatter.title,
     }
 
     return (
@@ -167,10 +170,11 @@ class BlogPostTemplate extends React.Component {
               <Article>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
               </Article>
+              <Disqus config={disqusConfig} />
               <Categories items={post.frontmatter.categories} />
               <Tags items={post.frontmatter.tags} />
               {userConfig.showShareButtons && (
-                <Share url={url} title={post.frontmatter.title} />
+                <Share url={userConfig.siteUrl + location.pathname} title={post.frontmatter.title} />
               )}
             </Card>
             <PageNav>
