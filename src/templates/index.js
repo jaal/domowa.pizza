@@ -11,8 +11,8 @@ import Summary from '../components/Summary';
 const AllPage = ({ pageContext, data: { allMarkdownRemark: { edges } } }) => {
   const { pages, current } = pageContext;
 
-  const previousUrl = current - 1 === 1 ? `/` : `/${(current - 1).toString()}`;
-  const nextUrl = `/${(current + 1).toString()}`;
+  const previousUrl = current - 1 === 1 ? `/` : `/${(current - 1).toString()}/`;
+  const nextUrl = `/${(current + 1).toString()}/`;
 
   return (
     <Layout>

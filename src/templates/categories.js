@@ -12,8 +12,8 @@ import Pagination from '../components/Pagination';
 const CategoryPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges } } }) => {
     const { slug, name, pages, current } = pageContext;
 
-    const previousUrl = current - 1 === 1 ? `/category/${slug}` : `/category/${slug}/${(current - 1).toString()}`;
-    const nextUrl = `/category/${slug}/${(current + 1).toString()}`;
+    const previousUrl = current - 1 === 1 ? `/category/${slug}/` : `/category/${slug}/${(current - 1).toString()}/`;
+    const nextUrl = `/category/${slug}/${(current + 1).toString()}/`;
 
     return (
         <Layout>

@@ -12,8 +12,8 @@ import Pagination from '../components/Pagination';
 const TagPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, edges } } }) => {
   const { slug, name, pages, current } = pageContext;
 
-  const previousUrl = current - 1 === 1 ? `/tag/${slug}` : `/tag/${slug}/${(current - 1).toString()}`;
-  const nextUrl = `/tag/${slug}/${(current + 1).toString()}`;
+  const previousUrl = current - 1 === 1 ? `/tag/${slug}/` : `/tag/${slug}/${(current - 1).toString()}/`;
+  const nextUrl = `/tag/${slug}/${(current + 1).toString()}/`;
 
   return (
     <Layout>
