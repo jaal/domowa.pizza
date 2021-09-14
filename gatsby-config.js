@@ -57,7 +57,6 @@ module.exports = {
         icon: 'src/main.jpg',
       },
     },
-    // `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-disqus`,
@@ -65,6 +64,15 @@ module.exports = {
         shortname: `najlepszyprzepisnapizzecom`
       }
     },
-    `gatsby-plugin-sitemap`
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-gdpr-cookies`,
+      options: {
+        googleAnalytics: {
+          trackingId: 'UA-53025230-1',
+          cookieName: 'gatsby-gdpr-google-analytics',
+        }
+      },
+    },
   ],
 };
