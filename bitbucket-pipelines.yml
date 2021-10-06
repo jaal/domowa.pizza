@@ -10,6 +10,7 @@ pipelines:
             - npm ci
             - npm run-script build
       - step:
+          name: Deploy
           script:
             - pipe: atlassian/rsync-deploy:0.6.0
               variables:
