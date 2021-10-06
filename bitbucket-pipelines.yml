@@ -8,7 +8,7 @@ pipelines:
             - node
           script:
             - apk update && apk add vips-dev 
-            - npm ci
+            - npm install
             - npm run-script build
       - step:
           name: Deploy
