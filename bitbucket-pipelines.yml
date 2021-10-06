@@ -1,4 +1,4 @@
-image: node:16-buster
+image: node:16
 
 pipelines:
   default:
@@ -7,7 +7,7 @@ pipelines:
           caches:
             - node
           script:
-            - apt-get update && apt install -y build-essential libvips-dev
+            - apk update && apk add vips-dev 
             - npm ci
             - npm run-script build
       - step:
