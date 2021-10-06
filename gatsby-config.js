@@ -44,22 +44,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-    {
-      resolve: "gatsby-plugin-sharp",
-      options: { failOnError: false }
-    }, 
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: userConfig.title,
-        short_name: userConfig.title,
-        start_url: userConfig.siteUrl,
-        background_color: '#fff',
-        theme_color: userConfig.primaryColor,
-        display: 'minimal-ui',
-        icon: 'src/main.png',
-      },
-    },
+    `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-disqus`,
