@@ -52,51 +52,40 @@ const CategoryPage = ({ pageContext, data: { allMarkdownRemark: { totalCount, ed
     );
 };
 
-export const pageQuery = graphql`
-  query CategoryPage(
-    $slug: String
-    $limit: Int!
-    $skip: Int!
-    ) {
-    site {
-      siteMetadata {
-        title
-        author
-      }
+export const pageQuery = graphql`query CategoryPage($slug: String, $limit: Int!, $skip: Int!) {
+  site {
+    siteMetadata {
+      title
+      author
     }
-    allMarkdownRemark(
-        limit: $limit
-        skip: $skip
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { categories: { in: [$slug] } } }
-      ) {
-      totalCount
-      edges {
-        node {
-          id
-          html
-          fields {
-            slug
-          }
-          frontmatter {
-              title
-              date(formatString: "DD MMMM YYYY", locale: "pl-PL")
-              featuredImage {
-                childImageSharp {
-                  fluid(maxWidth: 850) {
-                    base64
-                    aspectRatio
-                    src
-                    srcSet
-                    sizes
-                  }
-              }
+  }
+  allMarkdownRemark(
+    limit: $limit
+    skip: $skip
+    sort: {fields: [frontmatter___date], order: DESC}
+    filter: {fields: {categories: {in: [$slug]}}}
+  ) {
+    totalCount
+    edges {
+      node {
+        id
+        html
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          date(formatString: "DD MMMM YYYY", locale: "pl-PL")
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData(width: 850, placeholder: BLURRED, layout: FIXED)
             }
           }
         }
       }
     }
   }
+}
 `;
 
 export default CategoryPage;

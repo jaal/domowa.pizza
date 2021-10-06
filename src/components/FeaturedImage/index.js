@@ -1,13 +1,12 @@
 import React from 'react';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import Wrapper from './Wrapper';
 
 function FeaturedImage({ image }) {
   return (
     <Wrapper>
-      {image?.childImageSharp?.fixed && <Img fixed={image.childImageSharp.fixed} alt="" />}
-      {image?.childImageSharp?.fluid && <Img fluid={image.childImageSharp.fluid} alt="" />}
+      {image?.childImageSharp?.gatsbyImageData && <GatsbyImage image={image.childImageSharp.gatsbyImageData} alt="" />}
     </Wrapper>
   );
 }

@@ -7,7 +7,7 @@ pipelines:
           caches:
             - node
           script:
-            - apk update && apk add vips-dev 
+            - apk update && apk add --no-cache build-base vips-dev freetype-dev libpng-dev jpeg-dev libjpeg-turbo-dev
             - npm install
             - npm run-script build
       - step:
