@@ -1,0 +1,20 @@
+image: node:14
+
+pipelines:
+  default:
+      - step:
+          name: Build
+          caches:
+            - node
+          script:
+            - npm ci
+            - npm run-script build
+      - step:
+          name: Deploy
+          script:
+            - pipe: atlassian/rsync-deploy:0.6.0
+              variables:
+                USER:   'technologie'
+                SERVER: 'domowa.pizza'
+                REMOTE_PATH: 'web/dev_domowa_pizza/'
+                LOCAL_PATH: './public/*'
