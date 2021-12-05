@@ -1,4 +1,4 @@
-image: node:14-stretch
+image: node:17-stretch
 
 pipelines:
   default:
@@ -7,11 +7,9 @@ pipelines:
           caches:
             - node
           script:
-            - apt update && apt upgrade && apt install libvips-dev libjpeg-dev libpng-dev -y
+            - apt update && apt upgrade && apt install libvips-dev libjpeg-dev libpng-dev libfreetype imagemagick  -y
             # - apk update && apk add --no-cache build-base vips-dev freetype-dev libpng-dev jpeg-dev libjpeg-turbo-dev
             - npm ci
-            - ls -al /opt/atlassian/pipelines/agent/build/src/components/BookPage/features/
-            - pwd
             - npm run-script build
       - step:
           name: Deploy
