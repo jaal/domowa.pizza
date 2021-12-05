@@ -6,9 +6,11 @@ pipelines:
           name: Build
           caches:
             - node
+          variables:
+            SHARP_IGNORE_GLOBAL_LIBVIPS: '1'
           script:
             - npm ci
-            - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install --arch=x64 --platform=linux --verbose sharp
+            - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install sharp --verbose
             - npm run-script build
       - step:
           name: Deploy
