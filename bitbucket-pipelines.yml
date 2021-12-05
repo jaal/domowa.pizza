@@ -8,6 +8,8 @@ pipelines:
           name: Build
           caches:
             - node
+          artifacts:
+            - public/**
           script:
             - npm ci
             - npm install sharp
