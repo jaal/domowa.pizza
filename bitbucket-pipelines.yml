@@ -1,4 +1,6 @@
 image: node:16
+clone:
+  lfs: true
 
 pipelines:
   default:
