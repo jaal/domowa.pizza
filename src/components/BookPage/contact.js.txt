@@ -1,0 +1,44 @@
+export const BookPageContact = () => (
+
+
+<section class="contact section-spacing" id="Contact">
+<div class="container">
+<header class="text-center">
+<h2 class="text-center">Napisz do mnie</h2>
+<h3 class="text-center">Jeśli masz pytania odnośnie pieczenia pizzy lub książki, napisz do mnie. Może będę potrafił Ci pomóc?</h3>
+</header>
+<div class="row">
+<div class="col-md-8 col-sm-11 center-block">
+
+<div class="contact-form">
+<!--
+
+<form role="form" action="php/contact-me.php" method="post" id="contact-form">
+            <input type="text" class="slide-bottom form-control" name="name" id="name" placeholder="Imię" required>
+            <input type="email" class="slide-bottom form-control" name="email" id="email" placeholder="Email" required>
+            <textarea class="slide-bottom form-control" name="message" id="message" rows="4" placeholder="Wiadomość" required></textarea>
+<div class="text-center">
+              <button type="submit" class="slide-bottom btn btn-default submit-btn" id="submit-btn" value="Send">Wyślij</button></div>
+</form>
+
+!-->
+<div role="form" class="wpcf7" id="wpcf7-f5466-p6078-o1" lang="pl-PL" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/ksiazka/#wpcf7-f5466-p6078-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5466" />
+<input type="hidden" name="_wpcf7_version" value="5.4.1" />
+<input type="hidden" name="_wpcf7_locale" value="pl_PL" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5466-p6078-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="6078" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div id="contact-form">
+<span class="wpcf7-form-control-wrap firstname"><input type="text" name="firstname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required slide-bottom form-control" aria-required="true" aria-invalid="false" placeholder="Imię" /></span><span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email slide-bottom form-control" aria-required="true" aria-invalid="false" placeholder="Email" /></span><span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required slide-bottom form-control" aria-required="true" aria-invalid="false" placeholder="Wiadomość"></textarea></span></p>
+<div class="text-center">
+              <input type="submit" value="Wyślij" class="wpcf7-form-control wpcf7-submit slide-bottom btn btn-default submit-btn" id="submit-btn" />
+            </div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+
+)
