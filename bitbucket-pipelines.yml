@@ -1,4 +1,4 @@
-image: node:16-alpine
+image: node:16
 
 pipelines:
   default:
@@ -7,8 +7,8 @@ pipelines:
           caches:
             - node
           script:
-            - apk update && apk add --no-cache build-base vips-dev freetype-dev libpng-dev jpeg-dev libjpeg-turbo-dev
-            - npm install
+            # - apk update && apk add --no-cache build-base vips-dev freetype-dev libpng-dev jpeg-dev libjpeg-turbo-dev
+            - npm ci
             - npm run-script build
       - step:
           name: Deploy
