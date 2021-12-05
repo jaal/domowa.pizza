@@ -8,12 +8,10 @@ pipelines:
           name: Build
           caches:
             - node
-          variables:
-            SHARP_IGNORE_GLOBAL_LIBVIPS: '1'
           script:
             - npm ci
-            - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install sharp --verbose
-            - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm run-script build
+            - npm install sharp
+            - npm run-script build
       - step:
           name: Deploy
           script:
@@ -22,4 +20,4 @@ pipelines:
                 USER:   'technologie'
                 SERVER: 'domowa.pizza'
                 REMOTE_PATH: 'web/dev_domowa_pizza/'
-                LOCAL_PATH: './public/*'
+                LOCAL_PATH: 'public/*'
