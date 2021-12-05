@@ -1,7 +1,7 @@
 import React from 'react';
 export const BookPagePrices = () => (
 
-  <section className="prices text-center section-spacing" id="Pricing" style={{paddingTop: 0}}>
+  <section className="prices text-center section-spacing" id="Pricing">
     <div className="container">
       <header>
         <h2 className="text-center">Cena</h2>
