@@ -11,7 +11,7 @@ pipelines:
           script:
             - npm ci
             - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm install sharp --verbose
-            - npm run-script build
+            - SHARP_IGNORE_GLOBAL_LIBVIPS=1 npm run-script build
       - step:
           name: Deploy
           script:
