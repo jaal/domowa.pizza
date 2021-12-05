@@ -1,4 +1,4 @@
-image: node:17-stretch
+image: node:16-bullseye
 
 pipelines:
   default:
