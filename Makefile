@@ -12,3 +12,8 @@ dev:
 
 prod:
 	rsync -zav --delete ./public/* technologie@domowa.pizza:web/domowa_pizza/public/
+
+static:
+	rsync -zav --delete ./static/* technologie@domowa.pizza:web/dev_domowa_pizza/
+
+.PHONY: static
