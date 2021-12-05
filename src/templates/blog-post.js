@@ -219,7 +219,7 @@ query BlogPostBySlug($slug: String!) {
       createdAt: date(formatString: "YYYY-MM-DDTHH:mm:ssZ", locale: "pl-PL")
       featuredImage {
         childImageSharp {
-          gatsbyImageData(width: 850, placeholder: BLURRED, layout: FIXED)
+          gatsbyImageData(width: 850, placeholder: BLURRED, layout: CONSTRAINED)
         }
       }
     }

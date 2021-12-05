@@ -79,7 +79,7 @@ query TagPage($slug: String, $limit: Int!, $skip: Int!) {
           date(formatString: "DD MMMM YYYY", locale: "pl-PL")
           featuredImage {
             childImageSharp {
-              gatsbyImageData(width: 850, placeholder: BLURRED, layout: FIXED)
+              gatsbyImageData(width: 850, placeholder: BLURRED, layout: CONSTRAINED)
             }
           }
         }
