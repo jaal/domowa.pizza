@@ -1,12 +1,12 @@
 import React from 'react';
 export const BookPageMap = () => (
-  <div class="map">
-    <div class="mapouter" style={{
+  <div className="map">
+    <div className="mapouter" style={{
       textAlign: 'right',
       height: '500px',
       width: '100%'
     }}>
-      <div class="gmap_canvas" style={{
+      <div className="gmap_canvas" style={{
         overflow: 'hidden',
         background: 'none!important',
         height: '500px',

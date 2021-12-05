@@ -1,12 +1,12 @@
 import React from 'react';
-export const BookPageFooter = () => (<footer class="site-footer section-spacing">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 text-center">
+export const BookPageFooter = () => (<footer className="site-footer section-spacing">
+  <div className="container">
+    <div className="row">
+      <div className="col-md-12 text-center">
 
-        <ul class="social">
-          <li><a href="https://instagram.com/domowapizza" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="https://www.facebook.com/twojadomowapizza" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a></li>
+        <ul className="social">
+          <li><a href="https://instagram.com/domowapizza" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
+          <li><a href="https://www.facebook.com/twojadomowapizza" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
         </ul>
 
         <small>© COPYRIGHT © 2014-2018 DOMOWA.PIZZA • ALL RIGHTS RESERVED</small>

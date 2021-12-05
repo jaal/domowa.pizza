@@ -12,8 +12,8 @@ import {
   BookPageFooter
 } from '../../components/BookPage'
 
-// import './main.css'
-// import './styles.css'
+import './main.css'
+import './styles.css'
 
 const PizzaBookPage = () => {
   return (
