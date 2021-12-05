@@ -1,4 +1,4 @@
-image: node:16-stretch
+image: node:16-bullseye
 
 pipelines:
   default:
@@ -7,7 +7,7 @@ pipelines:
           caches:
             - node
           script:
-            - apt update && apt upgrade && apt install libvips-dev libjpeg-dev -y
+            - apt update && apt upgrade && apt install libvips-dev libjpeg-dev libpng-dev -y
             # - apk update && apk add --no-cache build-base vips-dev freetype-dev libpng-dev jpeg-dev libjpeg-turbo-dev
             - npm ci
             - npm run-script build
