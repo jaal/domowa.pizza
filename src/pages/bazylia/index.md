@@ -1,42 +1,43 @@
 ---
-title: "Bazylia"
-date: "2016-01-17T19:22:57.000Z"
-categories: 
+title: Bazylia
+date: 2016-01-17T19:22:57.000Z
+categories:
   - skladniki
-meta: 
-    description: "Bazylia jest królową ziół. Ma kapitalny aromat, mnóstwo zastosowań w kuchni, w dodatku jest tania i ogólnie dostępna. Użyj bazylii nie tylko do pizzy!"
-featuredImage: "bazylia.jpg"
+meta:
+  description: Bazylia jest królową ziół. Ma kapitalny aromat, mnóstwo zastosowań
+    w kuchni, w dodatku jest tania i ogólnie dostępna. Użyj bazylii nie tylko do
+    pizzy!
+featuredImage: bazylia.jpg
 ---
-
 Bazylia jest nazywana królową ziół. Coś w tym jest. Gdybym miał wybrać tylko jedno zioło, które zabiorę na bezludną wyspę, byłaby to bazylia. Ma kapitalny aromat, mnóstwo zastosowań w kuchni, w dodatku jest tania i ogólnie dostępna. Dosłownie zioło idealne! W dodatku jest niedroga, bo możesz ją dostać w cenie 4 zł za doniczkę w najpopularniejszych dyskontach i supermarketach.
 
 ## Rodzaje bazylii
 
 Na świecie jest wiele odmian bazylii. W Polsce spotkasz dwie:
 
-- bazylia pospolita (zwana też bazylią wonną, bazyliszką polską, bazylijką zwyczajną czy bazylkiem ogrodowym)
-- bazylia tajska, czyli horapha, która jest szeroko stosowana w kuchni azjatyckiej, szczególnie tajskiej czy wietnamskiej
-- oraz mniej popularna bazylia cytrynowa (o cytrynowym zapachu i smaku)
+* bazylia pospolita (zwana też bazylią wonną, bazyliszką polską, bazylijką zwyczajną czy bazylkiem ogrodowym)
+* bazylia tajska, czyli horapha, która jest szeroko stosowana w kuchni azjatyckiej, szczególnie tajskiej czy wietnamskiej
+* oraz mniej popularna bazylia cytrynowa (o cytrynowym zapachu i smaku)
 
 ## Zalety i właściwości zdrowotne bazylii
 
 Bazylia jest bogatym źródłem:
 
-- potasu,
-- wapnia,
-- magnezu,
-- fosforu
-- witaminy A
-- i beta-karotenu. Bazylia dobrze działa na układ trawienny wspomagając jego pracę. Pomaga w przyswajania składników pokarmowych, zaparciach, kolkach i wzdęciach. Dodatkowo ma działanie antydepresyjne i przeciwgorączkowe. Bazylia zawiera eugenol, który ma właściwości przeciwzapalne. Stosuje się go w lekach na ból gardła. Maść na bazie bazylii pomaga w bólach reumatycznych.
+* potasu,
+* wapnia,
+* magnezu,
+* fosforu
+* witaminy A
+* i beta-karotenu. Bazylia dobrze działa na układ trawienny wspomagając jego pracę. Pomaga w przyswajania składników pokarmowych, zaparciach, kolkach i wzdęciach. Dodatkowo ma działanie antydepresyjne i przeciwgorączkowe. Bazylia zawiera eugenol, który ma właściwości przeciwzapalne. Stosuje się go w lekach na ból gardła. Maść na bazie bazylii pomaga w bólach reumatycznych.
 
 ## Bazylia w kuchni (nie tylko na pizzy)
 
 Bazylia to niesamowicie uniwersalne zioło, które z powodzeniem wykorzystuję zarówno na pizzy jak i na innych potrawach. Przy pieczeniu pizzy wykorzystuję ją przede wszystkim jako:
 
-- składnik sosu pomidorowego, który daje aromat mojemu sosowi
-- składnik pizzy sam w sobie, który kładę na pizzy zwykle po jej upieczeniu
-- podstawowy składnik sosu pesto, który odwala całą robotę, jeśli chodzi o smak i aromat
-- składnik sosu bolognese, którego czasami też używam do pizzy czy lasagne
+* składnik sosu pomidorowego, który daje aromat mojemu sosowi
+* składnik pizzy sam w sobie, który kładę na pizzy zwykle po jej upieczeniu
+* podstawowy składnik sosu pesto, który odwala całą robotę, jeśli chodzi o smak i aromat
+* składnik sosu bolognese, którego czasami też używam do pizzy czy lasagne
 
 ## Pizze z bazylią
 
@@ -51,9 +52,9 @@ Możesz też spróbować dodać przed pieczeniem. Polecam sposób, w którym na 
 
 Dodatkowo intensywnie wykorzystuję bazylię jako:
 
-- przyozdobnik dania, np. na koniec kilkoma listkami bazylii przyozdabiam makaron
-- dodatek do sałatek, np. typu caprese
-- główny składnik smoothies (to głównie domena mojej żony) - np. miodowo-cytrynowo-bazyliowy smoothie
+* przyozdobnik dania, np. na koniec kilkoma listkami bazylii przyozdabiam makaron
+* dodatek do sałatek, np. typu caprese
+* główny składnik smoothies (to głównie domena mojej żony) - np. miodowo-cytrynowo-bazyliowy smoothie
 
 ## Jak pokroić bazylię?
 
@@ -89,13 +90,13 @@ Już od 4 zł w każdym supermarkecie lub dyskoncie. Możesz też poszukać w sk
 
 ## Pielęgnacja bazylii
 
-- Świeżą bazylię kupioną w supermarkecie dostaniesz zwykle w doniczce. Ma ona raczej krótki termin przydatności do spożycia, tzn. szybko usycha. Zwykle trwa to od kilku do kilkunastu dni. Dłużej utrzyma się bazylia kupiona w sklepie ogrodniczym lub zasiana z ziaren.
+* Świeżą bazylię kupioną w supermarkecie dostaniesz zwykle w doniczce. Ma ona raczej krótki termin przydatności do spożycia, tzn. szybko usycha. Zwykle trwa to od kilku do kilkunastu dni. Dłużej utrzyma się bazylia kupiona w sklepie ogrodniczym lub zasiana z ziaren.
     
-- Bazylia lubi nasłonecznione i ciepłe miejsca bez przeciągu.
+* Bazylia lubi nasłonecznione i ciepłe miejsca bez przeciągu.
     
-- Optymalna temperatura to 20–25°C.
+* Optymalna temperatura to 20–25°C.
     
-- Podlewaj ją codziennie.
+* Podlewaj ją codziennie.
     
 
 ## Przechowywanie bazylii
@@ -152,12 +153,12 @@ Uwaga! Nie przechowuj bazylii w oliwie dłużej niż tydzień. W oliwie w połą
 
 ## Źródła
 
-- https://en.wikipedia.org/wiki/Basil
-- http://www.wikihow.com/Freeze-Basil
-- http://www.wikihow.com/Infuse-Olive-Oil
-- http://www.nutrition-and-you.com/basil-herb.html
-- http://www.thekitchn.com/3-tips-for-preserving-fresh-basil-all-year-long-tips-from-the-kitchn–207032
-- http://www.wikihow.com/Infuse-Olive-Oil
-- https://pl.wikipedia.org/wiki/Zatrucie\_jadem\_kie%C5%82basianym
+* https://en.wikipedia.org/wiki/Basil
+* http://www.wikihow.com/Freeze-Basil
+* http://www.wikihow.com/Infuse-Olive-Oil
+* http://www.nutrition-and-you.com/basil-herb.html
+* http://www.thekitchn.com/3-tips-for-preserving-fresh-basil-all-year-long-tips-from-the-kitchn–207032
+* http://www.wikihow.com/Infuse-Olive-Oil
+* https://pl.wikipedia.org/wiki/Zatrucie_jadem_kie%C5%82basianym
 
-By Frank Huber (Own work) \[[CC BY 3.0](http://creativecommons.org/licenses/by/3.0)\], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABasilikum-Bl%C3%A4tter.jpg)
+By Frank Huber (Own work) [[CC BY 3.0](http://creativecommons.org/licenses/by/3.0)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABasilikum-Bl%C3%A4tter.jpg)
