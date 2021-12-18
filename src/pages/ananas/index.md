@@ -1,14 +1,15 @@
 ---
-title: "Ananas"
-date: "2014-12-21T22:05:52.000Z"
-categories: 
+title: Ananas
+date: 2014-12-21T22:05:52.000Z
+categories:
   - skladniki
-meta: 
-    title: "Ananas - pizza z ananasem, obieranie, właściwości, cena, kalorie"
-    description: "Dowiedz się jakie właściwości ma ananas, jak obierać ananasa, dlaczego świeży jest lepszy, ile kalorii ma ananas, co zrobić ze skórkami z ananasa."
-featuredImage: "2014-12-12-13.52.23.jpg"
+meta:
+  title: Ananas - pizza z ananasem, obieranie, właściwości, cena, kalorie
+  description: Dowiedz się jakie właściwości ma ananas, jak obierać ananasa,
+    dlaczego świeży jest lepszy, ile kalorii ma ananas, co zrobić ze skórkami z
+    ananasa.
+featuredImage: 2014-12-12-13.52.23.jpg
 ---
-
 W jednej z moich ulubionych rodzajów pizzy, ananas gra pierwsze skrzypce. Bardzo lubię hawajską i mam ciekawy przepis na nią <a title="Pizza Hawajska" href="/pizza-hawajska/">w wersji łagodnej</a> i <a title="Pizza hawajska pikantna" href="/pizza-hawajska-pikantna/">pikantnej</a>, a także na <a title="Pizza z tuńczykiem i ananasem" href="/pizza-z-tunczykiem-ananasem/">pizzę z tuńczykiem i ananasem</a>.
 
 Generalnie nie przepadam za puszkowymi owocami czy warzywami. Dlatego w przeszłości ananas był na dalekim miejscu na mojej liście produktów, które używałem w kuchni. Wydawał mi się na maksa słodki i nie kojarzył mi się ze zdrowym owocem, którym mógłbym poczęstować moją rodzinę.
@@ -26,7 +27,7 @@ Po przeczytaniu tego artykułu będziesz wiedział:
 5. co zrobić ze skórkami,
 6. oraz jak przechowywać w lodówce i zamrażarce.
 
-## 1\. Jakie właściwości ma ananas?
+## 1. Jakie właściwości ma ananas?
 
 ### Przeciwbólowe i przeciwzapalne
 
@@ -50,7 +51,7 @@ Wszystko to pod warunkiem, że spożywasz świeżego ananasa, a nie ananasa z pu
 
 Ile kalorii ma ananas? 100 gramów ananas ma ok. 50 kcal i zawiera 0,54 gramów białka, 13,2 gramów węglowodanów i 0,12 gramów tłuszczu, a więc całkiem niewiele.
 
-## 2\. Świeży ananas lepszy
+## 2. Świeży ananas lepszy
 
 Zdecydowanie polecam kupowanie świeżego ananasa. Świeży ananas jest lepszy z kilku powodów:
 
@@ -68,7 +69,7 @@ Nie znoszę ananasów puszkowych. Wyglądają jak ulepki pływające w jakimś s
 
 Generalnie zdrowiej, lepiej i taniej jest kupić całego ananasa, obrać go i pokroić.
 
-## 3\. Jak kupić dobrego dojrzałego ananasa?
+## 3. Jak kupić dobrego dojrzałego ananasa?
 
 ### Zapach
 
@@ -98,13 +99,13 @@ Sprawdź który ananas jest cięższy. Jeśli masz dwa ananasy o podobnej wielko
 
 Po czym poznać, że ananas jest zepsuty? To proste.
 
-- Powąchaj spód ananas. Nie powinien mieć przefermentowanego i za słodkiego zapachu.
-- Zobacz spód ananasa. Nie powinien mieć brązowych przebarwień ani nalotów.
-- Dotknij spód ananasa. Nie powinien być za miękki. Powinien delikatnie się uginać.
+* Powąchaj spód ananas. Nie powinien mieć przefermentowanego i za słodkiego zapachu.
+* Zobacz spód ananasa. Nie powinien mieć brązowych przebarwień ani nalotów.
+* Dotknij spód ananasa. Nie powinien być za miękki. Powinien delikatnie się uginać.
 
 To objawy, że ananas zaczął się już psuć. Nawet jeśli tylko spód ananasa jest zepsuty, to znaczy, że cały ananas jest zepsuty i nie nadaje się do jedzenia.
 
-## 4\. Obieranie ananasa
+## 4. Obieranie ananasa
 
 Obieranie ananasa nie jest takie trudne wbrew pozorom. Szukając sposobu na najlepsze pokrojenie oglądnąłem z tuzin filmów o obieraniu i w sumie jeden sposób wydaj mi się najlepszy.
 
@@ -139,9 +140,7 @@ Obieranie ananasa - tak obranego ananasa przekrój na ćwiartki. Dzięki temu b�
 
 Obieranie ananasa - teraz masz ćwiartki ananasa. Wystarczy, że pokroisz je na plasterki o grubości 3-5 mm i już możesz rzucać je na pizzę.
 
- 
-
-## 5\. Nie wyrzucaj skórek
+## 5. Nie wyrzucaj skórek
 
 Co zrobić ze skórkami z ananasa, łyka i odkrojonego spodu? To proste! Możesz z nich zrobić kompot, który będzie świetnym samodzielnym napojem lub fajnym dodatkiem do np. zielonej herbaty. Jak?
 
@@ -156,16 +155,16 @@ Jeśli masz szybkowar, kompot zrobi Ci się nawet w 5 minut.
 
 Kompot z ananasa
 
-## 6\. Przechowywanie ananasa
+## 6. Przechowywanie ananasa
 
 Jak przechowywać ananasa? Może to zrobić na trzy sposoby.
 
 ### 6.1 W całości
 
-- Jeśli kupiłeś dojrzałego ananasa, spokojnie wytrzyma 1-2 dni na blacie w kuchni. Jeżeli masz lekko niedojrzałego ananasa, te 2 dni w Twojej kuchni \\wystarczą, aby dojrzał.
-- Świeżego i niepokrojonego ananasa możesz też przechowywać w lodówce.
-- Najlepiej jeśli będziesz go przechowywał w pozycji stojącej. Spód ananasa jest najtwardszy i najbardziej wytrzymały.
-- Gdy zamierzasz zjeść go później, nie obieraj go i nie obcinaj liści i spodu. Dłużej zachowa świeżość i sprężystość.
+* Jeśli kupiłeś dojrzałego ananasa, spokojnie wytrzyma 1-2 dni na blacie w kuchni. Jeżeli masz lekko niedojrzałego ananasa, te 2 dni w Twojej kuchni \wystarczą, aby dojrzał.
+* Świeżego i niepokrojonego ananasa możesz też przechowywać w lodówce.
+* Najlepiej jeśli będziesz go przechowywał w pozycji stojącej. Spód ananasa jest najtwardszy i najbardziej wytrzymały.
+* Gdy zamierzasz zjeść go później, nie obieraj go i nie obcinaj liści i spodu. Dłużej zachowa świeżość i sprężystość.
 
 ### 6.2 Ananas w kawałkach
 
@@ -182,7 +181,7 @@ Czy można mrozić ananasa? Oczywiście! Ananas świetnie nadaje się do mrożen
 5. Wstaw na kilka godzin do zamrażarki.
 6. Następnie przełóż zamrożonego ananasa do woreczka do mrożenia.
 
-## 7\. Pizza z ananasem "hawajska" lub "hawaii"
+## 7. Pizza z ananasem "hawajska" lub "hawaii"
 
 https://domowa.pizza/pizza-hawajska/ https://domowa.pizza/pizza-bbq/ https://domowa.pizza/pizza-z-sosem-curry/
 
