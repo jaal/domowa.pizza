@@ -8,18 +8,21 @@ pipelines:
           name: Build
           caches:
             - node
+            - public
+            - gatsby
           artifacts:
             - public/**
           script:
             - npm ci
-            - npm install sharp
             - npm run-script build
       - step:
           name: Deploy
+          image: atlassian/pipelines-awscli
           script:
-            - pipe: atlassian/rsync-deploy:0.6.0
-              variables:
-                USER:   'technologie'
-                SERVER: 'domowa.pizza'
-                REMOTE_PATH: 'web/domowa_pizza/public/'
-                LOCAL_PATH: 'public/*'
+            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=2592000' --delete --exclude "*" --include "*.jpg" --include "*.jpeg" --include "*.png"
+            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=3600'    --delete --include "*" --exclude "*.jpg" --exclude "*.jpeg" --exclude "*.png"
+
+definitions:
+  caches:
+    public: public/
+    gatsby: .cache/
