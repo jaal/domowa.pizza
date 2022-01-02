@@ -19,8 +19,8 @@ pipelines:
           name: Deploy
           image: atlassian/pipelines-awscli
           script:
-            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=2592000' --delete --exclude "*" --include "*.jpg" --include "*.jpeg" --include "*.png"
-            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=3600'    --delete --include "*" --exclude "*.jpg" --exclude "*.jpeg" --exclude "*.png"
+            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=3600'    --delete --exclude "*" --include "*.html"
+            - aws s3 sync public/ s3://${BUCKET}/ --cache-control 'public, max-age=2592000' --delete --include "*" --exclude "*.html"
 
 definitions:
   caches:
