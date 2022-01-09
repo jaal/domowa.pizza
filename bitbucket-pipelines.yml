@@ -5,26 +5,26 @@ clone:
 pipelines:
   default:
       - step:
-        name: Build
-        caches:
-          - node
-          - public
-          - gatsby
-        artifacts:
-          - public/**
-        script:
-          - npm ci
-          - npm run-script build
+          name: Build
+          caches:
+            - node
+            - public
+            - gatsby
+          artifacts:
+            - public/**
+          script:
+            - npm ci
+            - npm run-script build
       - step:
-        name: Deploy
-        image: atlassian/pipelines-awscli
-        script:
-          - pipe: atlassian/rsync-deploy:0.6.0
-            variables:
-              USER:   'technologie'
-              SERVER: 'domowa.pizza'
-              REMOTE_PATH: 'web/domowa_pizza/gatsby/'
-              LOCAL_PATH: 'public/*'
+          name: Deploy
+          image: atlassian/pipelines-awscli
+          script:
+            - pipe: atlassian/rsync-deploy:0.6.0
+              variables:
+                USER:   'technologie'
+                SERVER: 'domowa.pizza'
+                REMOTE_PATH: 'web/domowa_pizza/gatsby/'
+                LOCAL_PATH: 'public/*'
 #      - step:
 #          name: Deploy
 #          image: atlassian/pipelines-awscli
