@@ -8,6 +8,7 @@ import H1 from '../H1';
 import P from './P';
 import Link from './Link';
 import Wrapper from './Wrapper';
+import { NavBar, NavLink} from '../NavBar'
 
 function Header({ config }) {
   const { headline, description, social } = config;
@@ -28,6 +29,10 @@ function Header({ config }) {
             linkedin={social.linkedin}
           />
         }
+        <NavBar>
+          <NavLink href='/'>Home</NavLink>
+          <NavLink href='/'>Książka</NavLink>
+        </NavBar>
       </Wrapper>
     </Container> 
   );
