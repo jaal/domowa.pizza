@@ -30,8 +30,8 @@ function Header({ config }) {
           />
         }
         <NavBar>
-          <NavLink href='/'>Home</NavLink>
-          <NavLink href='/'>Książka</NavLink>
+          <NavLink to='/'>Home</NavLink>
+          <NavLink to='https://gumroad.com' isExternal>Książka</NavLink>
         </NavBar>
       </Wrapper>
     </Container> 
