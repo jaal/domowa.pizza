@@ -30,8 +30,10 @@ function Header({ config }) {
           />
         }
         <NavBar>
-          <NavLink to='/'>Home</NavLink>
-          <NavLink to='https://gumroad.com' isExternal>Książka</NavLink>
+          <NavLink to='/'>Strona Główna</NavLink> | 
+          <NavLink to='https://olek.gumroad.com/l/chleb' isExternal>Książka: Domowy chleb w 12 minut</NavLink> | 
+          <NavLink to='https://olek.gumroad.com/l/ksiazka' isExternal>Książka: 101 przepisów na domową pizzę</NavLink> |
+          <NavLink to='/kontakt'>Kontakt</NavLink>
         </NavBar>
       </Wrapper>
     </Container> 
