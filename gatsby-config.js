@@ -9,16 +9,6 @@ module.exports = {
   },
   pathPrefix: userConfig.pathPrefix,
   plugins: [
-    {
-      resolve: `gatsby-plugin-posthog`,
-      options: {
-        apiKey: "phc_62ytj9wxvmZuXBgVw8cvz2ZGOB0q4xQXVU96GJSN9rq",
-        apiHost: "https://eu.posthog.com",
-        head: true,
-        isEnabledDevMode: true,
-        initOptions: {},
-      },
-    },
     `gatsby-plugin-no-sourcemaps`,
     `gatsby-plugin-styled-components`,
     {
